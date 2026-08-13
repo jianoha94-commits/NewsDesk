@@ -43,12 +43,30 @@
     </div>
     <div id="archive-dates" class="archive-dates"></div>
   </section>
+
+  <section aria-labelledby="community-heading" class="community-section">
+    <div class="section-head">
+      <h2 id="community-heading">커뮤니티 광장</h2>
+      <span class="updated-at">사실을 나누고, 함께 검증합니다</span>
+    </div>
+    <p class="community-intro">
+      오늘의 이슈에 대한 사실 확인, 추가 근거, 다른 시각을 자유롭게 남겨주세요.
+      모든 글은 GitHub 계정으로 작성되며 공개 기록으로 보존됩니다.
+    </p>
+    <div id="giscus-mount" class="giscus-mount">
+      <p class="community-setup">
+        커뮤니티는 배포(GitHub Pages) 후 <code>assets/config.js</code>의 Giscus 설정을
+        입력하면 자동으로 활성화됩니다. 설정 방법은 README를 참고하세요.
+      </p>
+    </div>
+  </section>
 </main>
 
 <footer class="site-footer">
   <p>자이노하뉴스데스크 · 매일 자동 수집 (Google News · Reddit · Hacker News) · 호감도는 방문자 투표와 커뮤니티 반응을 함께 반영합니다</p>
 </footer>
 
+<script src="assets/config.js"></script>
 <script src="assets/app.js"></script>
 </body>
 </html>

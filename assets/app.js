@@ -18,7 +18,49 @@ function initTheme() {
     const next = document.documentElement.dataset.theme === "dark" ? "light" : "dark";
     document.documentElement.dataset.theme = next;
     localStorage.setItem("znd-theme", next);
+    syncGiscusTheme(next);
   });
+}
+
+// ---------- 커뮤니티 (Giscus) ----------
+
+function giscusTheme() {
+  return document.documentElement.dataset.theme === "dark" ? "dark_dimmed" : "light";
+}
+
+function syncGiscusTheme(theme) {
+  const frame = document.querySelector("iframe.giscus-frame");
+  if (!frame) return;
+  frame.contentWindow.postMessage(
+    { giscus: { setConfig: { theme: theme === "dark" ? "dark_dimmed" : "light" } } },
+    "https://giscus.app"
+  );
+}
+
+function initCommunity() {
+  const cfg = window.ZND_CONFIG?.giscus;
+  const mount = $("#giscus-mount");
+  if (!mount) return;
+  if (!cfg?.enabled || !cfg.repoId || !cfg.categoryId) return; // 설정 전이면 안내문 유지
+
+  mount.innerHTML = "";
+  const s = document.createElement("script");
+  s.src = "https://giscus.app/client.js";
+  s.async = true;
+  s.crossOrigin = "anonymous";
+  s.setAttribute("data-repo", cfg.repo);
+  s.setAttribute("data-repo-id", cfg.repoId);
+  s.setAttribute("data-category", cfg.category || "General");
+  s.setAttribute("data-category-id", cfg.categoryId);
+  s.setAttribute("data-mapping", cfg.mapping || "pathname");
+  s.setAttribute("data-strict", "0");
+  s.setAttribute("data-reactions-enabled", "1");
+  s.setAttribute("data-emit-metadata", "0");
+  s.setAttribute("data-input-position", "top");
+  s.setAttribute("data-theme", giscusTheme());
+  s.setAttribute("data-lang", "ko");
+  s.setAttribute("data-loading", "lazy");
+  mount.appendChild(s);
 }
 
 // ---------- 투표 ----------
@@ -244,6 +286,8 @@ async function main() {
   } catch (e) {
     $("#issues").innerHTML = `<p class="loading">데이터를 불러오지 못했습니다. (${esc(e.message)})</p>`;
   }
+
+  initCommunity();
 
   // 30분마다 최신 데이터 확인 (탭을 켜둔 채 지속 관찰용)
   setInterval(async () => {

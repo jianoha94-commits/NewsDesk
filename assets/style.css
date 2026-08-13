@@ -230,6 +230,25 @@ a { color: inherit; }
 .date-chip.active { border-color: var(--accent); color: var(--accent); font-weight: 700; }
 .archive-empty { color: var(--muted); font-size: 0.85rem; }
 
+/* ---------- 커뮤니티 ---------- */
+
+.community-section { margin-top: 44px; }
+.community-intro {
+  margin: 0 0 16px; font-size: 0.9rem; color: var(--ink-2); max-width: 640px;
+}
+.giscus-mount {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 18px;
+  min-height: 80px;
+}
+.community-setup { margin: 0; font-size: 0.85rem; color: var(--muted); }
+.community-setup code {
+  background: var(--track); padding: 1px 6px; border-radius: 5px;
+  font-size: 0.82em; color: var(--ink-2);
+}
+
 /* ---------- 푸터 ---------- */
 
 .site-footer {
