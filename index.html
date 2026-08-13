@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>자이노하뉴스데스크</title>
+<meta name="description" content="세상이 관심있어하는 니즈를 매일 3건씩 선정하고, 호감도를 지속적으로 추적하는 뉴스데스크">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>📡</text></svg>">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="masthead">
+  <div class="masthead-inner">
+    <div class="brand">
+      <span class="brand-mark">📡</span>
+      <div>
+        <h1>자이노하<span class="brand-accent">뉴스데스크</span></h1>
+        <p class="tagline">ZAINOHA NEWS DESK — 세상의 니즈와 호감도를 매일 추적합니다</p>
+      </div>
+    </div>
+    <div class="masthead-side">
+      <div class="live-badge"><span class="live-dot"></span>DAILY</div>
+      <time id="today-label" class="today-label"></time>
+      <button id="theme-toggle" class="theme-toggle" title="테마 전환" aria-label="테마 전환">◐</button>
+    </div>
+  </div>
+</header>
+
+<main class="container">
+  <section aria-labelledby="today-heading">
+    <div class="section-head">
+      <h2 id="today-heading">오늘의 이슈 <span class="count-chip" id="issue-count"></span></h2>
+      <span class="updated-at" id="updated-at"></span>
+    </div>
+    <div id="issues" class="issue-grid">
+      <p class="loading">이슈를 불러오는 중…</p>
+    </div>
+  </section>
+
+  <section aria-labelledby="archive-heading" class="archive-section">
+    <div class="section-head">
+      <h2 id="archive-heading">지난 이슈 아카이브</h2>
+    </div>
+    <div id="archive-dates" class="archive-dates"></div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <p>자이노하뉴스데스크 · 매일 자동 수집 (Google News · Reddit · Hacker News) · 호감도는 방문자 투표와 커뮤니티 반응을 함께 반영합니다</p>
+</footer>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

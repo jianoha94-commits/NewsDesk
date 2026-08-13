@@ -1,0 +1,246 @@
+/* 자이노하뉴스데스크 — 스타일
+   팔레트 역할(role) 기반: 라이트/다크 값은 여기 한 곳에서만 바뀐다. */
+
+:root {
+  color-scheme: light;
+  --page:           #f9f9f7;
+  --surface:        #fcfcfb;
+  --ink:            #0b0b0b;
+  --ink-2:          #52514e;
+  --muted:          #898781;
+  --hairline:       #e1e0d9;
+  --border:         rgba(11, 11, 11, 0.10);
+  --accent:         #2a78d6;   /* 시리즈1 블루 */
+  --accent-strong:  #1c5cab;
+  --pos:            #2a78d6;   /* 다이버징: 긍정 = 블루 */
+  --neg:            #e34948;   /* 다이버징: 부정 = 레드 */
+  --gauge-neutral:  #f0efec;   /* 다이버징 중립 */
+  --track:          #f0efec;
+  --live:           #d03b3b;
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --page:           #0d0d0d;
+  --surface:        #1a1a19;
+  --ink:            #ffffff;
+  --ink-2:          #c3c2b7;
+  --muted:          #898781;
+  --hairline:       #2c2c2a;
+  --border:         rgba(255, 255, 255, 0.10);
+  --accent:         #3987e5;
+  --accent-strong:  #86b6ef;
+  --pos:            #3987e5;
+  --neg:            #e66767;
+  --gauge-neutral:  #383835;
+  --track:          #383835;
+  --live:           #d03b3b;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--page);
+  color: var(--ink);
+  font-family: system-ui, -apple-system, "Segoe UI", "Malgun Gothic", sans-serif;
+  line-height: 1.55;
+}
+
+a { color: inherit; }
+
+/* ---------- 마스트헤드 ---------- */
+
+.masthead {
+  border-bottom: 3px solid var(--ink);
+  background: var(--surface);
+}
+.masthead-inner {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 20px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+.brand { display: flex; align-items: center; gap: 14px; }
+.brand-mark { font-size: 2rem; }
+.brand h1 {
+  margin: 0;
+  font-size: 1.7rem;
+  letter-spacing: -0.02em;
+  font-weight: 800;
+}
+.brand-accent { color: var(--accent); }
+.tagline { margin: 2px 0 0; font-size: 0.78rem; color: var(--muted); letter-spacing: 0.04em; }
+
+.masthead-side { display: flex; align-items: center; gap: 12px; }
+.live-badge {
+  display: inline-flex; align-items: center; gap: 6px;
+  font-size: 0.72rem; font-weight: 700; letter-spacing: 0.1em;
+  color: var(--live);
+  border: 1px solid currentColor;
+  padding: 3px 9px; border-radius: 999px;
+}
+.live-dot {
+  width: 7px; height: 7px; border-radius: 50%;
+  background: currentColor;
+  animation: pulse 1.6s ease-in-out infinite;
+}
+@keyframes pulse { 50% { opacity: 0.25; } }
+.today-label { font-size: 0.9rem; color: var(--ink-2); font-weight: 600; }
+.theme-toggle {
+  background: none; border: 1px solid var(--border); border-radius: 8px;
+  color: var(--ink); font-size: 1.05rem; cursor: pointer;
+  width: 34px; height: 34px; line-height: 1;
+}
+.theme-toggle:hover { border-color: var(--muted); }
+
+/* ---------- 레이아웃 ---------- */
+
+.container { max-width: 1080px; margin: 0 auto; padding: 28px 24px 48px; }
+
+.section-head {
+  display: flex; align-items: baseline; justify-content: space-between;
+  gap: 12px; margin: 8px 0 16px; flex-wrap: wrap;
+}
+.section-head h2 { margin: 0; font-size: 1.15rem; letter-spacing: -0.01em; }
+.count-chip {
+  font-size: 0.75rem; font-weight: 700; color: var(--accent);
+  border: 1px solid currentColor; border-radius: 999px; padding: 1px 8px;
+  vertical-align: 2px;
+}
+.updated-at { font-size: 0.78rem; color: var(--muted); }
+.loading { color: var(--muted); }
+
+.issue-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 16px;
+}
+
+/* ---------- 이슈 카드 ---------- */
+
+.issue-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 18px 18px 16px;
+  display: flex; flex-direction: column; gap: 12px;
+}
+.issue-top { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+.cat-badge {
+  font-size: 0.72rem; font-weight: 700; letter-spacing: 0.06em;
+  padding: 3px 10px; border-radius: 999px;
+  color: #fff;
+}
+.cat-korea  { background: #2a78d6; }
+.cat-global { background: #eb6834; }
+.cat-tech   { background: #1baf7a; }
+:root[data-theme="dark"] .cat-korea  { background: #3987e5; }
+:root[data-theme="dark"] .cat-global { background: #d95926; }
+:root[data-theme="dark"] .cat-tech   { background: #199e70; }
+.issue-rank { font-size: 0.78rem; color: var(--muted); font-weight: 700; }
+
+.issue-title { margin: 0; font-size: 1.02rem; line-height: 1.45; font-weight: 700; }
+.issue-title a { text-decoration: none; }
+.issue-title a:hover { color: var(--accent); text-decoration: underline; }
+.issue-source { font-size: 0.78rem; color: var(--muted); }
+.issue-source a { color: var(--ink-2); }
+
+.related { margin: 0; padding: 0; list-style: none; border-top: 1px solid var(--hairline); }
+.related li { border-bottom: 1px solid var(--hairline); }
+.related a {
+  display: block; padding: 7px 2px;
+  font-size: 0.82rem; color: var(--ink-2); text-decoration: none;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.related a:hover { color: var(--accent); }
+
+/* ---------- 지표(미터/게이지) ---------- */
+
+.metrics { display: flex; flex-direction: column; gap: 10px; margin-top: auto; }
+
+.meter-row { display: grid; grid-template-columns: 64px 1fr 68px; align-items: center; gap: 10px; }
+.meter-label { font-size: 0.76rem; color: var(--ink-2); font-weight: 600; }
+.meter-value { font-size: 0.76rem; color: var(--ink-2); text-align: right; font-variant-numeric: tabular-nums; }
+
+.meter-track {
+  height: 8px; border-radius: 4px; background: var(--track);
+  overflow: hidden; position: relative;
+}
+.meter-fill {
+  height: 100%; border-radius: 4px;
+  background: var(--accent);
+  transition: width 0.5s ease;
+}
+
+/* 톤 게이지 — 다이버징(부정 ← 중립 → 긍정) */
+.gauge-track {
+  height: 8px; border-radius: 4px; background: var(--gauge-neutral);
+  position: relative; overflow: hidden;
+}
+.gauge-track::after {
+  content: ""; position: absolute; left: 50%; top: -2px; bottom: -2px;
+  width: 2px; background: var(--page); transform: translateX(-50%);
+}
+.gauge-fill { position: absolute; top: 0; bottom: 0; border-radius: 4px; }
+.gauge-fill.pos { left: 50%; background: var(--pos); }
+.gauge-fill.neg { right: 50%; background: var(--neg); }
+
+/* ---------- 투표 ---------- */
+
+.vote-box { border-top: 1px solid var(--hairline); padding-top: 12px; display: flex; flex-direction: column; gap: 8px; }
+.vote-head { display: flex; justify-content: space-between; align-items: center; }
+.vote-title { font-size: 0.8rem; font-weight: 700; color: var(--ink-2); }
+.vote-total { font-size: 0.74rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+
+.vote-bar { display: flex; height: 10px; border-radius: 5px; overflow: hidden; background: var(--track); gap: 2px; }
+.vote-bar .up   { background: var(--pos); border-radius: 5px 0 0 5px; transition: width 0.4s ease; }
+.vote-bar .down { background: var(--neg); border-radius: 0 5px 5px 0; transition: width 0.4s ease; }
+
+.vote-buttons { display: flex; gap: 8px; }
+.vote-btn {
+  flex: 1; display: inline-flex; align-items: center; justify-content: center; gap: 6px;
+  padding: 8px 10px; font-size: 0.85rem; font-weight: 600;
+  background: none; border: 1px solid var(--border); border-radius: 9px;
+  color: var(--ink); cursor: pointer;
+}
+.vote-btn:hover:not(:disabled) { border-color: var(--accent); color: var(--accent); }
+.vote-btn.down-btn:hover:not(:disabled) { border-color: var(--neg); color: var(--neg); }
+.vote-btn:disabled { cursor: default; opacity: 0.55; }
+.vote-btn.chosen { border-width: 2px; opacity: 1; }
+.vote-btn.up-btn.chosen { border-color: var(--pos); color: var(--pos); }
+.vote-btn.down-btn.chosen { border-color: var(--neg); color: var(--neg); }
+.vote-count { font-variant-numeric: tabular-nums; font-size: 0.8rem; }
+.vote-note { font-size: 0.7rem; color: var(--muted); }
+
+/* ---------- 아카이브 ---------- */
+
+.archive-section { margin-top: 40px; }
+.archive-dates { display: flex; flex-wrap: wrap; gap: 8px; }
+.date-chip {
+  font-size: 0.82rem; font-weight: 600;
+  padding: 6px 14px; border-radius: 999px;
+  border: 1px solid var(--border); background: var(--surface);
+  color: var(--ink-2); cursor: pointer;
+}
+.date-chip:hover { border-color: var(--accent); color: var(--accent); }
+.date-chip.active { border-color: var(--accent); color: var(--accent); font-weight: 700; }
+.archive-empty { color: var(--muted); font-size: 0.85rem; }
+
+/* ---------- 푸터 ---------- */
+
+.site-footer {
+  border-top: 1px solid var(--hairline);
+  padding: 20px 24px 32px;
+  text-align: center;
+  font-size: 0.76rem; color: var(--muted);
+}
+
+@media (max-width: 640px) {
+  .brand h1 { font-size: 1.35rem; }
+  .masthead-inner { padding: 16px; }
+  .container { padding: 20px 16px 40px; }
+}
