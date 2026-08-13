@@ -53,6 +53,13 @@ a { color: inherit; }
 .masthead {
   border-bottom: 3px solid var(--ink);
   background: var(--surface);
+  position: sticky; top: 0; z-index: 20;
+  backdrop-filter: saturate(1.1);
+}
+.masthead::after {
+  content: ""; display: block; height: 3px;
+  background: linear-gradient(90deg, #2a78d6 0%, #1baf7a 50%, #eb6834 100%);
+  margin-bottom: -3px;
 }
 .masthead-inner {
   max-width: 1080px;
@@ -126,15 +133,54 @@ a { color: inherit; }
   gap: 16px;
 }
 
+/* ---------- 통계 바 ---------- */
+
+.stats-bar {
+  display: flex; gap: 12px; margin-bottom: 18px; flex-wrap: wrap;
+}
+.stat {
+  flex: 1; min-width: 120px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 12px 16px;
+  display: flex; flex-direction: column; gap: 2px;
+}
+.stat-num {
+  font-size: 1.5rem; font-weight: 800; color: var(--accent);
+  font-variant-numeric: tabular-nums; line-height: 1.1;
+}
+.stat-lbl { font-size: 0.74rem; color: var(--muted); }
+
+/* ---------- 고스트 버튼 ---------- */
+
+.ghost-btn {
+  background: none; border: 1px solid var(--border); border-radius: 9px;
+  color: var(--ink-2); font-size: 0.8rem; font-weight: 600; cursor: pointer;
+  padding: 6px 12px;
+}
+.ghost-btn:hover:not(:disabled) { border-color: var(--accent); color: var(--accent); }
+.ghost-btn:disabled { opacity: 0.5; cursor: default; }
+
 /* ---------- 이슈 카드 ---------- */
 
 .issue-card {
   background: var(--surface);
   border: 1px solid var(--border);
+  border-left: 3px solid var(--muted);
   border-radius: 14px;
   padding: 18px 18px 16px;
   display: flex; flex-direction: column; gap: 12px;
+  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
 }
+.issue-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+.issue-card.accent-korea  { border-left-color: #2a78d6; }
+.issue-card.accent-global { border-left-color: #eb6834; }
+.issue-card.accent-tech   { border-left-color: #1baf7a; }
+:root[data-theme="dark"] .issue-card:hover { box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4); }
 .issue-top { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
 .cat-badge {
   font-size: 0.72rem; font-weight: 700; letter-spacing: 0.06em;

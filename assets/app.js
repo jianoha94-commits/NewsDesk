@@ -200,7 +200,7 @@ function metricLine(m) {
 
 function issueCard(issue) {
   const card = document.createElement("article");
-  card.className = "issue-card";
+  card.className = `issue-card accent-${issue.categoryEn || "korea"}`;
 
   const tone = issue.tone || { score: 0, label: "중립" };
   const toneWidth = Math.min(50, Math.abs(tone.score) / 2);
@@ -302,16 +302,63 @@ async function loadDay(date) {
   return res.json();
 }
 
+function renderStats(doc) {
+  const bar = $("#stats-bar");
+  if (!bar) return;
+  const n = doc.issues.length || 1;
+  const avg = Math.round(doc.issues.reduce((s, i) => s + (i.engagement || 0), 0) / n);
+  const sources = new Set(doc.issues.map((i) => i.source)).size;
+  bar.hidden = false;
+  bar.innerHTML = `
+    <div class="stat"><span class="stat-num">${avg}</span><span class="stat-lbl">${esc(t("statAvgInterest"))}</span></div>
+    <div class="stat"><span class="stat-num" id="stat-votes">–</span><span class="stat-lbl">${esc(t("statVotes"))}</span></div>
+    <div class="stat"><span class="stat-num">${sources}</span><span class="stat-lbl">${esc(t("statSources"))}</span></div>
+  `;
+  // 누적 참여수는 카드가 채운 값을 합산 (비동기)
+  setTimeout(() => {
+    const total = [...document.querySelectorAll('[data-role="total"]')]
+      .map((el) => parseInt((el.textContent || "").replace(/\D/g, ""), 10) || 0)
+      .reduce((a, b) => a + b, 0);
+    const el = $("#stat-votes");
+    if (el) el.textContent = total.toLocaleString();
+  }, 1200);
+}
+
 function renderDay(doc) {
   CURRENT_DOC = doc;
   const grid = $("#issues");
   grid.innerHTML = "";
   for (const issue of doc.issues) grid.appendChild(issueCard(issue));
   $("#issue-count").textContent = t("countUnit")(doc.issues.length);
+  renderStats(doc);
 
   const gen = new Date(doc.generatedAt);
   const locale = LANG === "en" ? "en-US" : "ko-KR";
   $("#updated-at").textContent = t("published")(doc.date, gen.toLocaleString(locale));
+}
+
+// ---------- 데이터 백업 (서버별 보관용) ----------
+
+async function downloadBackup() {
+  const btn = $("#backup-btn");
+  const orig = btn.textContent;
+  btn.disabled = true; btn.textContent = "…";
+  try {
+    const { dates } = await (await fetch(`data/index.json?t=${Date.now()}`)).json();
+    const days = {};
+    for (const d of dates || []) {
+      try { days[d] = await (await fetch(`data/archive/${d}.json`)).json(); } catch {}
+    }
+    const bundle = { site: "자이노하뉴스데스크", exportedAt: new Date().toISOString(), days };
+    const blob = new Blob([JSON.stringify(bundle, null, 2)], { type: "application/json" });
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = `zainoha-newsdesk-backup-${(dates && dates[0]) || "data"}.json`;
+    a.click();
+    URL.revokeObjectURL(a.href);
+  } finally {
+    btn.disabled = false; btn.textContent = orig;
+  }
 }
 
 async function renderArchive(activeDate) {
@@ -360,6 +407,7 @@ async function main() {
   }
 
   initCommunity();
+  $("#backup-btn")?.addEventListener("click", downloadBackup);
 
   setInterval(async () => {
     try { renderDay(await loadDay(CURRENT_DATE || undefined)); } catch {}

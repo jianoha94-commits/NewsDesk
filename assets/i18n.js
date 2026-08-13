@@ -35,6 +35,10 @@ window.ZND_I18N = {
     noArchive: "아직 아카이브가 없습니다.",
     mirrorNone: "설정된 대체 주소가 아직 없습니다. assets/config.js 의 mirrors 에 추가하세요.",
     langBtn: "EN",
+    backupBtn: "⭳ 데이터 백업 내려받기",
+    statAvgInterest: "평균 관심도",
+    statVotes: "누적 참여",
+    statSources: "수집 소스",
   },
   en: {
     tagline: "ZAINOHA NEWS DESK — Tracking what the world cares about, and how it feels, every day",
@@ -68,5 +72,9 @@ window.ZND_I18N = {
     noArchive: "No archive yet.",
     mirrorNone: "No alternate URLs configured yet. Add them to mirrors in assets/config.js.",
     langBtn: "한국어",
+    backupBtn: "⭳ Download backup",
+    statAvgInterest: "Avg. interest",
+    statVotes: "Total votes",
+    statSources: "Sources",
   },
 };
