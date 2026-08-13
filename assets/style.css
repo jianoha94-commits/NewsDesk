@@ -304,6 +304,11 @@ a { color: inherit; }
   margin: -6px 0 16px; font-size: 0.8rem; color: var(--muted);
   padding: 8px 12px; background: var(--track); border-radius: 8px; max-width: 640px;
 }
+.community-error {
+  margin: 0 0 14px; font-size: 0.85rem; color: var(--neg);
+  padding: 10px 14px; border: 1px solid var(--neg); border-radius: 8px;
+  background: color-mix(in srgb, var(--neg) 8%, transparent);
+}
 
 /* 로그인 영역 */
 .auth-area { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }

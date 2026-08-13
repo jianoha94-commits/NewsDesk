@@ -38,6 +38,14 @@
       return;
     }
 
+    // 리다이렉트 로그인 복귀 처리 (팝업이 COOP에 막히는 환경 대비)
+    try {
+      await fb.api.getRedirectResult(fb.auth);
+    } catch (e) {
+      console.error("redirect result", e);
+      showAuthError(authErrorText(e));
+    }
+
     fb.api.onAuthStateChanged(fb.auth, async (user) => {
       if (user) {
         const nickname = await ensureUserProfile(user);
@@ -78,6 +86,8 @@
       api: {
         GoogleAuthProvider: auth.GoogleAuthProvider,
         signInWithPopup: auth.signInWithPopup,
+        signInWithRedirect: auth.signInWithRedirect,
+        getRedirectResult: auth.getRedirectResult,
         signOut: auth.signOut,
         onAuthStateChanged: auth.onAuthStateChanged,
         doc: fs.doc, getDoc: fs.getDoc, setDoc: fs.setDoc, deleteDoc: fs.deleteDoc,
@@ -150,12 +160,66 @@
       $("#logout-btn", area).onclick = () => fb.api.signOut(fb.auth);
     } else {
       area.innerHTML = `<button class="btn-primary" id="login-btn">${esc(t("authLogin"))}</button>`;
-      $("#login-btn", area).onclick = async () => {
-        try {
-          await fb.api.signInWithPopup(fb.auth, new fb.api.GoogleAuthProvider());
-        } catch (e) { console.error(e); }
-      };
+      $("#login-btn", area).onclick = () => login();
     }
+  }
+
+  async function login() {
+    clearAuthError();
+    const btn = $("#login-btn");
+    if (btn) btn.disabled = true;
+    const provider = new fb.api.GoogleAuthProvider();
+    try {
+      // 1차: 팝업. 실패 시 리다이렉트로 폴백.
+      await fb.api.signInWithPopup(fb.auth, provider);
+    } catch (e) {
+      console.error("popup login", e);
+      const popupIssue = [
+        "auth/popup-blocked", "auth/popup-closed-by-user",
+        "auth/cancelled-popup-request", "auth/web-storage-unsupported",
+        "auth/internal-error",
+      ].includes(e.code) || /Cross-Origin-Opener-Policy|popup/i.test(e.message || "");
+      if (popupIssue) {
+        try {
+          await fb.api.signInWithRedirect(fb.auth, provider); // 페이지가 구글로 이동 후 복귀
+          return;
+        } catch (e2) {
+          console.error("redirect login", e2);
+          showAuthError(authErrorText(e2));
+        }
+      } else {
+        showAuthError(authErrorText(e));
+      }
+      if (btn) btn.disabled = false;
+    }
+  }
+
+  function authErrorText(e) {
+    const hints = {
+      "auth/unauthorized-domain": t("errUnauthorizedDomain"),
+      "auth/operation-not-allowed": t("errOperationNotAllowed"),
+      "auth/popup-blocked": t("errPopupBlocked"),
+      "permission-denied": t("errPermissionDenied"),
+    };
+    return hints[e.code] || `${e.code || ""} ${e.message || ""}`.trim();
+  }
+
+  function showAuthError(msg) {
+    const section = document.querySelector(".community-section");
+    if (!section) return;
+    let box = $("#community-error");
+    if (!box) {
+      box = document.createElement("p");
+      box.id = "community-error";
+      box.className = "community-error";
+      section.insertBefore(box, $("#comment-list"));
+    }
+    box.textContent = "⚠ " + msg;
+  }
+
+  function clearAuthError() {
+    const box = $("#community-error");
+    if (box) box.remove();
   }
 
   // ---------- 작성창 ----------
