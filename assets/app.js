@@ -10,6 +10,7 @@ const $ = (sel, el = document) => el.querySelector(sel);
 let LANG = "ko";
 let CURRENT_DOC = null;   // 현재 표시 중인 날짜 데이터 (언어 전환 시 재렌더용)
 let CURRENT_DATE = null;  // 아카이브 활성 날짜
+let LATEST_DATE = null;   // 가장 최신(오늘) 날짜
 
 const t = (key) => (window.ZND_I18N[LANG] || {})[key] ?? key;
 
@@ -260,11 +261,36 @@ function wireVotes(card, issueId) {
 
 // ---------- 데이터 로드 ----------
 
+// 로컬 아카이브 인덱스에 날짜 기록
+function cacheDate(date) {
+  try {
+    const arr = JSON.parse(localStorage.getItem("znd-archive-dates") || "[]");
+    if (!arr.includes(date)) {
+      arr.push(date);
+      localStorage.setItem("znd-archive-dates", JSON.stringify([...new Set(arr)].sort().reverse()));
+    }
+  } catch {}
+}
+
+// 날짜 데이터 로드: 네트워크 성공 시 로컬DB에 보관, 실패 시 로컬 캐시로 대체
 async function loadDay(date) {
   const url = date ? `data/archive/${date}.json` : "data/latest.json";
-  const res = await fetch(`${url}?t=${Date.now()}`);
-  if (!res.ok) throw new Error(`데이터 로드 실패 (${res.status})`);
-  return res.json();
+  const cacheKey = `znd-day-${date || "latest"}`;
+  try {
+    const res = await fetch(`${url}?t=${Date.now()}`);
+    if (!res.ok) throw new Error(`데이터 로드 실패 (${res.status})`);
+    const doc = await res.json();
+    try {
+      localStorage.setItem(cacheKey, JSON.stringify(doc));
+      if (doc.date) { localStorage.setItem(`znd-day-${doc.date}`, JSON.stringify(doc)); cacheDate(doc.date); }
+    } catch {}
+    return doc;
+  } catch (e) {
+    // 오프라인/차단 시 로컬DB에서 복원
+    const cached = localStorage.getItem(cacheKey) || (date ? localStorage.getItem(`znd-day-${date}`) : null);
+    if (cached) { const doc = JSON.parse(cached); doc._fromCache = true; return doc; }
+    throw e;
+  }
 }
 
 function renderStats(doc) {
@@ -289,6 +315,28 @@ function renderStats(doc) {
   }, 1200);
 }
 
+function renderArchiveBanner(date, fromCache) {
+  const section = $("#issues")?.closest("section");
+  let banner = $("#archive-banner");
+  const isPast = LATEST_DATE && date && date !== LATEST_DATE;
+  if (!isPast && !fromCache) { if (banner) banner.remove(); return; }
+  if (!banner) {
+    banner = document.createElement("div");
+    banner.id = "archive-banner";
+    banner.className = "archive-banner";
+    section.insertBefore(banner, $("#stats-bar"));
+  }
+  const label = fromCache ? t("offlineArchive")(date) : t("viewingArchive")(date);
+  banner.innerHTML = `<span>📅 ${esc(label)}</span><button class="ghost-btn" id="back-today">${esc(t("backToToday"))}</button>`;
+  $("#back-today", banner).onclick = async () => {
+    try {
+      const doc = await loadDay();
+      renderDay(doc); renderArchive(doc.date);
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    } catch (e) { console.error(e); }
+  };
+}
+
 function renderDay(doc) {
   CURRENT_DOC = doc;
   const grid = $("#issues");
@@ -296,6 +344,7 @@ function renderDay(doc) {
   for (const issue of doc.issues) grid.appendChild(issueCard(issue));
   $("#issue-count").textContent = t("countUnit")(doc.issues.length);
   renderStats(doc);
+  renderArchiveBanner(doc.date, doc._fromCache);
 
   const gen = new Date(doc.generatedAt);
   const locale = LANG === "en" ? "en-US" : "ko-KR";
@@ -329,26 +378,33 @@ async function downloadBackup() {
 async function renderArchive(activeDate) {
   CURRENT_DATE = activeDate;
   const wrap = $("#archive-dates");
+  let dates = [];
+  let local = [];
+  try { local = JSON.parse(localStorage.getItem("znd-archive-dates") || "[]"); } catch {}
   try {
     const res = await fetch(`data/index.json?t=${Date.now()}`);
-    const { dates } = await res.json();
-    if (!dates?.length) { wrap.innerHTML = `<span class="archive-empty">${esc(t("noArchive"))}</span>`; return; }
-    wrap.innerHTML = "";
-    for (const d of dates) {
-      const chip = document.createElement("button");
-      chip.className = "date-chip" + (d === activeDate ? " active" : "");
-      chip.textContent = d;
-      chip.addEventListener("click", async () => {
-        try {
-          renderDay(await loadDay(d));
-          renderArchive(d);
-          window.scrollTo({ top: 0, behavior: "smooth" });
-        } catch (e) { console.error(e); }
-      });
-      wrap.appendChild(chip);
-    }
+    dates = (await res.json()).dates || [];
   } catch {
-    wrap.innerHTML = `<span class="archive-empty">${esc(t("noArchive"))}</span>`;
+    // 인덱스 로드 실패 시 로컬DB에 보관된 날짜 목록으로 대체
+  }
+  // 서버 + 로컬DB 병합 후 저장 (로컬에만 있는 날짜도 보존)
+  dates = [...new Set([...dates, ...local])].sort().reverse();
+  try { localStorage.setItem("znd-archive-dates", JSON.stringify(dates)); } catch {}
+
+  if (!dates.length) { wrap.innerHTML = `<span class="archive-empty">${esc(t("noArchive"))}</span>`; return; }
+  wrap.innerHTML = "";
+  for (const d of dates) {
+    const chip = document.createElement("button");
+    chip.className = "date-chip" + (d === activeDate ? " active" : "");
+    chip.textContent = d;
+    chip.addEventListener("click", async () => {
+      try {
+        renderDay(await loadDay(d));
+        renderArchive(d);
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      } catch (e) { console.error(e); }
+    });
+    wrap.appendChild(chip);
   }
 }
 
@@ -365,6 +421,7 @@ async function main() {
 
   try {
     const doc = await loadDay();
+    LATEST_DATE = doc.date;
     renderDay(doc);
     renderArchive(doc.date);
   } catch (e) {

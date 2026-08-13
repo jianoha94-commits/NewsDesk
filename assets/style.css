@@ -133,6 +133,17 @@ a { color: inherit; }
   gap: 16px;
 }
 
+/* ---------- 아카이브 배너 ---------- */
+
+.archive-banner {
+  display: flex; align-items: center; justify-content: space-between; gap: 12px;
+  margin-bottom: 16px; padding: 10px 16px;
+  border: 1px solid var(--accent); border-radius: 10px;
+  background: color-mix(in srgb, var(--accent) 8%, transparent);
+  font-size: 0.88rem; font-weight: 600; color: var(--ink);
+  flex-wrap: wrap;
+}
+
 /* ---------- 통계 바 ---------- */
 
 .stats-bar {
