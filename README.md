@@ -9,7 +9,9 @@
 | 수집 소스 | Google News RSS (국내), Reddit r/worldnews (글로벌), Hacker News (테크) — 전부 무료, API 키 불필요 |
 | 발행 주기 | 매일 07:30 KST, GitHub Actions 크론 자동 실행 |
 | 호감도 | ① 방문자 👍/👎 투표 (Abacus 무료 카운터 API, 전역 집계) ② 커뮤니티 반응 지표 (업보트·댓글 → 관심도 0~100) ③ 보도 톤 (헤드라인 키워드 기반 긍정/부정 게이지) |
-| 배포 | GitHub Pages (정적 사이트) |
+| 배포 | GitHub Pages (정적 사이트) · 차단 대비 미러(Cloudflare Pages·Netlify) 지원 |
+| 언어 | 한국어 / English UI 토글 |
+| 정보 접근성 | 미러 안내 + 독자용 Tor·VPN 가이드 + 게시자 보호 (자세히: [ANTI-CENSORSHIP.md](ANTI-CENSORSHIP.md)) |
 
 ## 로컬 실행
 

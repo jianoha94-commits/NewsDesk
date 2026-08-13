@@ -15,12 +15,13 @@
       <span class="brand-mark">📡</span>
       <div>
         <h1>자이노하<span class="brand-accent">뉴스데스크</span></h1>
-        <p class="tagline">ZAINOHA NEWS DESK — 세상의 니즈와 호감도를 매일 추적합니다</p>
+        <p class="tagline" data-i18n="tagline">ZAINOHA NEWS DESK — 세상의 니즈와 호감도를 매일 추적합니다</p>
       </div>
     </div>
     <div class="masthead-side">
       <div class="live-badge"><span class="live-dot"></span>DAILY</div>
       <time id="today-label" class="today-label"></time>
+      <button id="lang-toggle" class="lang-toggle" title="Language">EN</button>
       <button id="theme-toggle" class="theme-toggle" title="테마 전환" aria-label="테마 전환">◐</button>
     </div>
   </div>
@@ -29,44 +30,64 @@
 <main class="container">
   <section aria-labelledby="today-heading">
     <div class="section-head">
-      <h2 id="today-heading">오늘의 이슈 <span class="count-chip" id="issue-count"></span></h2>
+      <h2 id="today-heading"><span data-i18n="todayHeading">오늘의 이슈</span> <span class="count-chip" id="issue-count"></span></h2>
       <span class="updated-at" id="updated-at"></span>
     </div>
     <div id="issues" class="issue-grid">
-      <p class="loading">이슈를 불러오는 중…</p>
+      <p class="loading" data-i18n="loading">이슈를 불러오는 중…</p>
     </div>
   </section>
 
   <section aria-labelledby="archive-heading" class="archive-section">
     <div class="section-head">
-      <h2 id="archive-heading">지난 이슈 아카이브</h2>
+      <h2 id="archive-heading" data-i18n="archiveHeading">지난 이슈 아카이브</h2>
     </div>
     <div id="archive-dates" class="archive-dates"></div>
   </section>
 
   <section aria-labelledby="community-heading" class="community-section">
     <div class="section-head">
-      <h2 id="community-heading">커뮤니티 광장</h2>
-      <span class="updated-at">사실을 나누고, 함께 검증합니다</span>
+      <h2 id="community-heading" data-i18n="communityHeading">커뮤니티 광장</h2>
+      <span class="updated-at" data-i18n="communitySub">사실을 나누고, 함께 검증합니다</span>
     </div>
-    <p class="community-intro">
+    <p class="community-intro" data-i18n="communityIntro">
       오늘의 이슈에 대한 사실 확인, 추가 근거, 다른 시각을 자유롭게 남겨주세요.
       모든 글은 GitHub 계정으로 작성되며 공개 기록으로 보존됩니다.
     </p>
     <div id="giscus-mount" class="giscus-mount">
-      <p class="community-setup">
-        커뮤니티는 배포(GitHub Pages) 후 <code>assets/config.js</code>의 Giscus 설정을
+      <p class="community-setup" data-i18n="communitySetup">
+        커뮤니티는 배포(GitHub Pages) 후 assets/config.js의 Giscus 설정을
         입력하면 자동으로 활성화됩니다. 설정 방법은 README를 참고하세요.
       </p>
     </div>
   </section>
+
+  <section aria-labelledby="access-heading" class="access-section">
+    <div class="section-head">
+      <h2 id="access-heading" data-i18n="accessHeading">접속이 막혔다면</h2>
+    </div>
+    <p class="access-intro" data-i18n="accessIntro">
+      이 사이트가 특정 지역에서 차단될 경우, 아래 대체 경로나 도구로 접속할 수 있습니다.
+    </p>
+    <div id="mirror-list" class="mirror-list"></div>
+    <ul class="access-tips">
+      <li data-i18n="accessTip1"><strong>Tor 브라우저</strong> — torproject.org 에서 내려받아 실행하면 위치와 무관하게 접속됩니다.</li>
+      <li data-i18n="accessTip2"><strong>신뢰할 수 있는 VPN</strong> — 해외 서버를 경유해 차단을 우회합니다.</li>
+      <li data-i18n="accessTip3"><strong>미러 주소 저장</strong> — 위 대체 주소를 미리 저장해 두세요.</li>
+    </ul>
+    <p class="access-warning" data-i18n="accessWarning">
+      ⚠️ 이 안내는 접근성을 위한 것으로, 완전한 익명성을 보장하지 않습니다.
+      신변 위험이 있다면 EFF Surveillance Self-Defense 등 전문 보안 자료를 함께 참고하세요.
+    </p>
+  </section>
 </main>
 
 <footer class="site-footer">
-  <p>자이노하뉴스데스크 · 매일 자동 수집 (Google News · Reddit · Hacker News) · 호감도는 방문자 투표와 커뮤니티 반응을 함께 반영합니다</p>
+  <p data-i18n="footer">자이노하뉴스데스크 · 매일 자동 수집 (Google News · Reddit · Hacker News) · 호감도는 방문자 투표와 커뮤니티 반응을 함께 반영합니다</p>
 </footer>
 
 <script src="assets/config.js"></script>
+<script src="assets/i18n.js"></script>
 <script src="assets/app.js"></script>
 </body>
 </html>

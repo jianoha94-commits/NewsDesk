@@ -96,6 +96,12 @@ a { color: inherit; }
   width: 34px; height: 34px; line-height: 1;
 }
 .theme-toggle:hover { border-color: var(--muted); }
+.lang-toggle {
+  background: none; border: 1px solid var(--border); border-radius: 8px;
+  color: var(--ink); font-size: 0.78rem; font-weight: 700; cursor: pointer;
+  height: 34px; padding: 0 10px; line-height: 1;
+}
+.lang-toggle:hover { border-color: var(--accent); color: var(--accent); }
 
 /* ---------- 레이아웃 ---------- */
 
@@ -247,6 +253,33 @@ a { color: inherit; }
 .community-setup code {
   background: var(--track); padding: 1px 6px; border-radius: 5px;
   font-size: 0.82em; color: var(--ink-2);
+}
+
+/* ---------- 접속 안내 / 미러 ---------- */
+
+.access-section { margin-top: 44px; }
+.access-intro { margin: 0 0 14px; font-size: 0.9rem; color: var(--ink-2); max-width: 640px; }
+
+.mirror-list { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 16px; }
+.mirror-chip {
+  display: flex; flex-direction: column; gap: 2px;
+  padding: 10px 14px; border-radius: 10px;
+  border: 1px solid var(--border); background: var(--surface);
+  text-decoration: none; min-width: 180px;
+}
+.mirror-chip:hover { border-color: var(--accent); }
+.mirror-chip.here { border-color: var(--accent); border-width: 2px; }
+.mirror-label { font-size: 0.82rem; font-weight: 700; color: var(--ink); }
+.mirror-url { font-size: 0.74rem; color: var(--muted); font-variant-numeric: tabular-nums; word-break: break-all; }
+.mirror-none { margin: 0; font-size: 0.85rem; color: var(--muted); }
+
+.access-tips { margin: 0 0 14px; padding-left: 20px; color: var(--ink-2); font-size: 0.88rem; }
+.access-tips li { margin: 5px 0; }
+.access-tips strong { color: var(--ink); }
+.access-warning {
+  margin: 0; padding: 12px 14px; border-radius: 10px;
+  background: var(--track); color: var(--ink-2);
+  font-size: 0.82rem; line-height: 1.5; max-width: 680px;
 }
 
 /* ---------- 푸터 ---------- */
