@@ -13,11 +13,11 @@ window.ZND_CONFIG = {
   //  4) 프로젝트 설정 → 웹 앱 추가 → firebaseConfig 값을 아래에 복사
   //     (이 값들은 공개되어도 안전한 "publishable" 키입니다)
   firebase: {
-    enabled: false,
-    apiKey: "",
-    authDomain: "",       // 예: zainoha-newsdesk.firebaseapp.com
-    projectId: "",
-    appId: "",
+    enabled: true,
+    apiKey: "AIzaSyAn10uQHdcfhDVT8BrbtAb0nIla7n1hRw8",
+    authDomain: "jianoha-newsdesk.firebaseapp.com",
+    projectId: "jianoha-newsdesk",
+    appId: "1:1006408483856:web:4dfb5bb8377f675a887695",
     // Firestore 규칙을 반드시 적용하세요(무단 쓰기 방지). firestore.rules 참고.
   },
 
