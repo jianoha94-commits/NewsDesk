@@ -4,29 +4,28 @@ window.ZND_CONFIG = {
   // ----- 기본 언어 ("ko" | "en") -----
   defaultLang: "ko",
 
-  // ----- 커뮤니티 (Giscus) -----
-  // GitHub Pages 배포 후 값을 채우면 커뮤니티 광장이 자동 활성화됩니다.
-  //  1) 저장소를 public 으로 만들고 Settings → Features → Discussions 체크
-  //  2) https://github.com/apps/giscus 에서 giscus 앱 설치
-  //  3) https://giscus.app 에서 repoId / categoryId 발급
-  giscus: {
+  // ----- 커뮤니티: Firebase + 구글 로그인 -----
+  // 아래 값을 채우면 커뮤니티(구글 로그인·닉네임·댓글·좋아요/싫어요)가 활성화됩니다.
+  // 설정 방법:
+  //  1) https://console.firebase.google.com 에서 프로젝트 생성 (본인 구글 계정)
+  //  2) Authentication → Sign-in method → Google 사용 설정
+  //  3) Firestore Database 생성 (프로덕션 모드), firestore.rules 내용 붙여넣기
+  //  4) 프로젝트 설정 → 웹 앱 추가 → firebaseConfig 값을 아래에 복사
+  //     (이 값들은 공개되어도 안전한 "publishable" 키입니다)
+  firebase: {
     enabled: false,
-    repo: "OWNER/zainoha-newsdesk",
-    repoId: "",
-    category: "General",
-    categoryId: "",
-    mapping: "pathname",
+    apiKey: "",
+    authDomain: "",       // 예: zainoha-newsdesk.firebaseapp.com
+    projectId: "",
+    appId: "",
+    // Firestore 규칙을 반드시 적용하세요(무단 쓰기 방지). firestore.rules 참고.
   },
 
   // ----- 차단 대비 미러(대체 접속 경로) -----
-  // 같은 사이트를 여러 호스트에 배포한 뒤, 각 주소를 여기에 넣으세요.
-  // 방문자에게 "이 주소가 막히면 아래로 접속" 안내가 표시됩니다.
   mirrors: [
     // { label: "GitHub Pages", url: "https://OWNER.github.io/zainoha-newsdesk/" },
     // { label: "Cloudflare Pages", url: "https://zainoha-newsdesk.pages.dev/" },
     // { label: "Netlify", url: "https://zainoha-newsdesk.netlify.app/" },
   ],
-
-  // Tor(.onion) 미러가 있다면 여기에. (Cloudflare Onion 또는 자체 hidden service)
   onion: "",
 };

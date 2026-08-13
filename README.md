@@ -26,16 +26,13 @@ python -m http.server 8090 # http://localhost:8090 에서 확인
 2. 저장소 **Settings → Pages → Source: Deploy from a branch → `main` / `/ (root)`** 선택
 3. Actions 탭에서 "일일 이슈 수집" 워크플로가 매일 데이터를 갱신하면 Pages가 자동 반영
 
-## 커뮤니티 (Giscus)
+## 커뮤니티 (Firebase + 구글 로그인)
 
-배포 후 방문자들이 GitHub 계정으로 사실 확인·토론을 남길 수 있는 공개 게시판이 붙습니다.
+배포 후 방문자가 **구글 계정으로 로그인**해 닉네임으로 댓글을 쓰고, 각 글에 **좋아요/싫어요**를 남길 수 있습니다.
+개인정보는 최소화합니다 — 저장하는 것은 uid + 닉네임 + 글 내용뿐이며, **IP는 수집·저장하지 않습니다.**
 
-1. 저장소를 **public** 으로 만들고 **Settings → General → Features → Discussions** 체크
-2. https://github.com/apps/giscus 에서 giscus 앱을 저장소에 설치
-3. https://giscus.app 에 저장소 주소를 넣어 `repoId` / `categoryId` 발급
-4. `assets/config.js` 에 값을 채우고 `enabled: true` 로 변경
-
-서버·DB 없이 동작하며, 모든 글은 저장소의 GitHub Discussions에 공개 기록으로 보존됩니다.
+설정 방법은 [COMMUNITY-SETUP.md](COMMUNITY-SETUP.md) 참고. Firebase 무료 티어로 동작하고,
+보안은 [firestore.rules](firestore.rules)(누구나 읽기 / 로그인 본인만 쓰기 / 1인 1반응)가 담당합니다.
 
 ## 데이터 구조
 

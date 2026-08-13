@@ -300,6 +300,60 @@ a { color: inherit; }
   background: var(--track); padding: 1px 6px; border-radius: 5px;
   font-size: 0.82em; color: var(--ink-2);
 }
+.community-privacy {
+  margin: -6px 0 16px; font-size: 0.8rem; color: var(--muted);
+  padding: 8px 12px; background: var(--track); border-radius: 8px; max-width: 640px;
+}
+
+/* 로그인 영역 */
+.auth-area { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.me-badge { font-size: 0.85rem; font-weight: 700; color: var(--ink-2); }
+.btn-primary {
+  background: var(--accent); color: #fff; border: none; border-radius: 9px;
+  font-size: 0.85rem; font-weight: 700; cursor: pointer; padding: 8px 14px;
+}
+.btn-primary:hover { background: var(--accent-strong); }
+.btn-primary:disabled { opacity: 0.55; cursor: default; }
+.nick-form { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+.nick-input {
+  padding: 7px 10px; border: 1px solid var(--border); border-radius: 8px;
+  background: var(--surface); color: var(--ink); font-size: 0.85rem;
+}
+.nick-error { font-size: 0.76rem; color: var(--neg); }
+
+/* 작성창 */
+.composer {
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: 12px; padding: 14px; margin-bottom: 18px;
+}
+.composer-input {
+  width: 100%; border: 1px solid var(--border); border-radius: 8px;
+  background: var(--page); color: var(--ink); padding: 10px;
+  font-family: inherit; font-size: 0.9rem; resize: vertical;
+}
+.composer-actions { display: flex; justify-content: space-between; align-items: center; margin-top: 10px; gap: 10px; }
+.composer-hint { font-size: 0.74rem; color: var(--muted); }
+
+/* 댓글 목록 */
+.comment-list { display: flex; flex-direction: column; gap: 10px; }
+.comment-empty { color: var(--muted); font-size: 0.88rem; }
+.comment {
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: 12px; padding: 14px;
+}
+.comment-head { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; }
+.comment-nick { font-size: 0.85rem; font-weight: 700; color: var(--ink); }
+.comment-time { font-size: 0.72rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+.comment-body { margin: 8px 0 10px; font-size: 0.92rem; color: var(--ink-2); white-space: pre-wrap; word-break: break-word; }
+.comment-foot { display: flex; gap: 8px; }
+.react-btn {
+  background: none; border: 1px solid var(--border); border-radius: 8px;
+  color: var(--ink-2); font-size: 0.8rem; cursor: pointer; padding: 4px 10px;
+}
+.react-btn:hover { border-color: var(--accent); color: var(--accent); }
+.react-btn.active { border-color: var(--accent); color: var(--accent); border-width: 2px; }
+.react-btn.del { margin-left: auto; }
+.react-btn.del:hover { border-color: var(--neg); color: var(--neg); }
 
 /* ---------- 접속 안내 / 미러 ---------- */
 

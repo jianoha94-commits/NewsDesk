@@ -34,6 +34,7 @@ function initLang() {
     applyStaticLang();
     if (CURRENT_DOC) renderDay(CURRENT_DOC);
     renderMirrors();
+    window.ZND_communitySetLang?.(LANG);
   });
 }
 
@@ -48,49 +49,13 @@ function initTheme() {
     const next = document.documentElement.dataset.theme === "dark" ? "light" : "dark";
     document.documentElement.dataset.theme = next;
     localStorage.setItem("znd-theme", next);
-    syncGiscusTheme(next);
   });
 }
 
-// ---------- 커뮤니티 (Giscus) ----------
-
-function giscusTheme() {
-  return document.documentElement.dataset.theme === "dark" ? "dark_dimmed" : "light";
-}
-
-function syncGiscusTheme(theme) {
-  const frame = document.querySelector("iframe.giscus-frame");
-  if (!frame) return;
-  frame.contentWindow.postMessage(
-    { giscus: { setConfig: { theme: theme === "dark" ? "dark_dimmed" : "light" } } },
-    "https://giscus.app"
-  );
-}
+// ---------- 커뮤니티 (Firebase, community.js 에서 구현) ----------
 
 function initCommunity() {
-  const cfg = window.ZND_CONFIG?.giscus;
-  const mount = $("#giscus-mount");
-  if (!mount) return;
-  if (!cfg?.enabled || !cfg.repoId || !cfg.categoryId) return;
-
-  mount.innerHTML = "";
-  const s = document.createElement("script");
-  s.src = "https://giscus.app/client.js";
-  s.async = true;
-  s.crossOrigin = "anonymous";
-  s.setAttribute("data-repo", cfg.repo);
-  s.setAttribute("data-repo-id", cfg.repoId);
-  s.setAttribute("data-category", cfg.category || "General");
-  s.setAttribute("data-category-id", cfg.categoryId);
-  s.setAttribute("data-mapping", cfg.mapping || "pathname");
-  s.setAttribute("data-strict", "0");
-  s.setAttribute("data-reactions-enabled", "1");
-  s.setAttribute("data-emit-metadata", "0");
-  s.setAttribute("data-input-position", "top");
-  s.setAttribute("data-theme", giscusTheme());
-  s.setAttribute("data-lang", LANG);
-  s.setAttribute("data-loading", "lazy");
-  mount.appendChild(s);
+  window.ZND_initCommunity?.(LANG);
 }
 
 // ---------- 미러(대체 접속 경로) ----------
