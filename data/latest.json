@@ -1,62 +1,29 @@
 {
-  "date": "2026-10-12",
-  "generatedAt": "2026-10-12T01:26:41.117Z",
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-13T03:05:19.791Z",
   "issues": [
     {
       "category": "국내",
       "categoryEn": "korea",
-      "title": "[단독]한동훈 딸 ‘허위 스펙 의혹’ 경찰 수사, 압색영장 신청 전무…배우자만 1회 ‘서면 조사’",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLVHpzd3ZjS2x6ODZ4MEFCaFh5SXNHNVJ3d0VWZkJjR3hXSXlhNENhdzhIWjJQSExlM25nck1EMHpIREdUdHU5U3hXTDFoS2ZYbHppS0xIT3VBd9IBX0FVX3lxTE8zMm41WGU1dTJ4ajhLSFNaZm1fQ2pobUl6VDV3cXpqNHdfYzAtVTVOdGZHd3NfUktjZkptLURneUY5U0Y2S1hJOGxCNGRzU1kyN0g4VWg4MlR6UzhiSmFR?oc=5",
+      "title": "[단독]김지용 “인사 공개 비판 유의해야”···임은정엔 인사조치 않고 “함께 하겠다”",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUamZCelNHeHFZSEhpNTRTQlJYZHo5cVlibkR0VkxoMWJGdTFEQnVXQ28yaWVKMk9NdEZRNWxaNHNBOGtMUFhOM1U2U1RvZS1zMS1tVVZIVC1wd9IBX0FVX3lxTE9sV0k1VnhzYUpYVzNDS1l6RzZoQW9acXlUM2Vfa2lRYnJuWGRzOEFzLXJ1T3hzakVMZFVkbzQ4UlJYVmhMZUliUDdTSnVGSkZEUDE2T0thbkVOMGRSSXJF?oc=5",
       "source": "경향신문",
       "related": [
         {
-          "title": "‘한동훈 딸’을 때리자... ‘김민석 아들’로 반격",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOTB3eWQtaFNpVXVTRUVjUDIzbW1SdHBCeVhFZmptXzdIOXVuRkk3RUpDSVlvOE5iNmxjX0stWlg1dzdnQzJxVGcwalBTYm9wU0NvT08zcjRPRUl0YTJyaUZMSFZWVzVWT1hhZWFmTU9VOVIxYTVZU19QZFE1YTRrSEt5cG9udll2SnhxUVQzdEs?oc=5"
+          "title": "[단독]김지용, 윤석열 전 대통령에 “근무연 없어 잘 몰라\"...\"법무부 감찰 불응, 비판받아야”",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fc1pxRldobXJLUE1zNzFIS3JqMVd4dFNVUlFlblc1c05xNlZmbzB2TVlPckFyWVVvWjc2RDhVWXZiUGtkeC1kSnUxa3B4NHRqaXVzZA?oc=5"
         },
         {
-          "title": "與, ‘한동훈 딸 허위 스펙’ 의혹 집중… 주말 논평 6건 쏟아내",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xZ19CeWZmbWxERUVxWTdaOW5qSjRBV3F0akVvQ1dJRmx2VzFnRzEwT0NZZGxZNVdnLWtrbjhPV2VaWXN1enVqX2Z6N1hmbmxvemNwbmpMSXFNcGZoUERseHF5WjBYQlplOTk2SEZaZzhVaGhKVE9B0gFmQVVfeXFMTzZYOWYxRW12Sm9CQk5kRFI4XzVjT1RzaXdlMUdvVXE2Nk5DRWVPN0Z5TTdsR3hXS25yYjNRNk80SlZYOVdERGllR2trdXlCVy1mMEN5a3lRS193a1lYXzV2Z0x4UzVR?oc=5"
+          "title": "[사설] 민심 안중 없는 자중지란 여권, 지지율 하락 자초",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6OGpucU9GcXRzb0pYT2lhMVZtNWN2eTJISmkxN1JQOV80bE0xSU5DVTNNQkJwSDZ6NElMV2tPOW1KT0Vtb3ctMUt3cXdXZFQ1eVJWamx0WlLSAVRBVV95cUxQZ0ZZXzVOM2cwc2JjUW5MemtUZF9lRkFBeFBOTW9BTDUzS3g0WGtKN3ZfTi1jTjR6OHFPeXpBRkNKSjdJTUx4VGFLdDdrZWVyajJoNjU?oc=5"
         },
         {
-          "title": "與, \"韓, 딸 논문 케냐인이 대신 썼나\"…대필 의혹 연일 공세",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fMlVtM0g0X2ppT0pfWVZBTVdtUkJHS2hqc0Z1TDlTT1U1czJfMUtwWEZwbzJKSWpHQm95MmlWWVRyVjdYdkNxS20tZ3hfYVdxZHBMVWZYZ3FTRVHSAWBBVV95cUxNejd6cFg5UmRic2diaVZWQXNUUFZ6ZXFreFFhV1lSTFNlMFFGTzVwc0pXS1lFOFFYSkdjSDAyMloxNE4wcXNzOE42UGd5TnNHXzlkanVqYXlXY0VVZjNDUlc?oc=5"
-        }
-      ],
-      "metrics": {
-        "kind": "coverage",
-        "value": 4,
-        "unit": "개 매체 보도"
-      },
-      "engagement": 79,
-      "tone": {
-        "score": 0,
-        "label": "중립"
-      },
-      "id": "2026-10-12-korea",
-      "rank": 1
-    },
-    {
-      "category": "글로벌",
-      "categoryEn": "global",
-      "title": "트럼프의 ‘러시아 경유 거래’ 후폭풍…공화당·민주당 상원 6명 “즉각 철회”",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSHh3U3VQNWZ0YXFBTU9YOGJxY1Rsa3hPSmRiUVdYZDJJS1VSb1E5X1RrdDlHbE1sdzlVVDFUT2xqeGNkck5FN195N3NQUlVDVUs0aExFWVRBeXVTZFdSOFZBemhrSXNEb3ZPSW0tT05vYzdfNXZhVjRiOFpBcVp3Qk1B?oc=5",
-      "source": "한겨레",
-      "related": [
-        {
-          "title": "정유주 동반약세…트럼프 \"러·우, 에너지 휴전\" - 머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83WFk2TnJZVXc1OTFhYlhtNTAxVEpLZExzdGJpb1JHQkdpR0pWemZQQmhkWjctVzhoLUs0MkE0ZGU1VDg1b0U5MjhEX1pnT0NGOExwa2xNZnBNSDJnVjEybklURkZaR3Vt0gFuQVVfeXFMUEplS0VsRmM2REgwZTJYNUR0cjlmZUJEcEZ4aFI0Yi0tc2twMGliMlB4dDdmR1U5b1V4S1lMR3VvSE1hNVdWcWQ3MFg2TTdleElxT010eUJvMjAzMjV2MjZwXy02WXNYT0NhOFBaLWc?oc=5"
+          "title": "중수청장 후보자 인사청문회 D-1",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkWVlKRkMyWVdaX3UwU0E4Q05ETnVBelFYT3NCbHdfMW5IbU1XN1lLN0tfY1l0SE9ERE9qVS1kdnpaZzlmcnRzTEprRFFZTmlOQ3Bpdm1rZElBaVAyOF9FUHhEYXNXZw?oc=5"
         },
         {
-          "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZMjU1N3FoVWF2RS1yNURYS2J3MjZhVTdDamVPUll1V1V0X1QxOFZ6UUdidGFMUGpJNUF5cjdfS2NncXZvYnlmaEV1bEludUFZc1Fzb05HMVZMMTA?oc=5"
-        },
-        {
-          "title": "\"미, 러 정유시설 공격 멈추라며 우크라에 무기 공급 차단 위협\"",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13SmZpbHJHcXR0X0dNeFRjSDNIQmVsM3hfNFd2SGZyaE9HQUdkX3Y0b2xEV0ZrR0VmTkpudGFvLXRRdW9IYmI1NlFHV2FuU0w3TVVEWkxNRTY1QTJGaWlqTTR1dy1IeW1MOHc?oc=5"
-        },
-        {
-          "title": "“이번엔 진짜 멈추나”…트럼프, 러·우 ‘에너지 휴전’ 선언",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNS2JjTEUwYTY1Qk9oQVp5Y1R1YmlfMXRYNUdrYUk5OUxrcmZfb1dXVzNPX3VPSlhzLW9ZeUdEMW02NE9TX05RUHJaU3gxSDZFQ1dKSkVONWpIZEk?oc=5"
+          "title": "'팀킬' 부메랑 된 대통령의 칼 … 임(林)을 위한 행진곡",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ycTJwcGo4T0pweXVDOHJzc2xvMHQ4R29FSDhZVEUxT0d5cjdZN243NkZqMGJDWG80dS1sTGhXUV9LcnlLUVo4ZXRJTTFmUENPSFNOdHBNQjc2WTZETXltd1doTzRnT2NHamF6Y19zYmFMaWUtX2JBUGc0b9IBgAFBVV95cUxQZWJyY3hLZEpId21faFVod2FyLThrUzIyWE05UnVHNlR3cmRyRG8weXlFZjVCZUdyWmdhZUgxSHQ5LThRUTFoTjJGVkwyaEN5eFJYdG5PbGZBMWkyaXpUZFE0SmlCTjNjOTFfT3lnak5RNkhmVTlzendHdHNTMmZsQQ?oc=5"
         }
       ],
       "metrics": {
@@ -66,46 +33,83 @@
       },
       "engagement": 90,
       "tone": {
-        "score": 0,
-        "label": "중립"
+        "score": -100,
+        "label": "부정"
       },
-      "id": "2026-10-12-global",
+      "id": "2026-10-13-korea",
+      "rank": 1
+    },
+    {
+      "category": "글로벌",
+      "categoryEn": "global",
+      "title": "이란 혁명수비대 “이틀 사이 호르무즈서 세 번째 초대형 유조선 타격”",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xWk43Sjk0WnphTXoxSXdaR09LQ0xobTN2LTZCYTdEa2xZN2FHc0RMcUpOT2d6MHo3WDhwMjZMdzV2MG9FNkNmQUpfNjlROWhRX0hoclRyczRZQdIBX0FVX3lxTE9OMjFxSncyQzhyY29zQXJMdml6a216TGljREdvSWFrOF9kdFViMXhqZkR2eW1CLWZDMUZrVmZRTWp3UzB6Ykg0Y0MzQzZoSU1jR1htWGpxTlBOQ1dzd0JR?oc=5",
+      "source": "경향신문",
+      "related": [
+        {
+          "title": "호르무즈해역에서 12일 하루 선박 6척 피격 --英해사무역기구(UKMTO)",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41N0ZVUjF5SFRRQkhoQmY0VE1zay04UktGRlVUMUlwS3kxNk9aZnJLbTExRDdvb1ljS0J1VGMtUEdPRzdYOHktanNzUHk1dllSa1g5bEV5QXpSZnpudHFCUTZ2d1DSAXhBVV95cUxObzVDbGZUNVh5WEt4WFJ4SmNpV1hISG1iYkwwZERLTTgxWUI1Q2h0YUZKXzdsamlrRmVmWi1UY3VHTW50aV9ZS1YtdmJLU3hXc1h6UnQ3alBjNVFvRVNKb0JwVTBzZHZwSzhjYkpYTTduV0xqT0pvcm0?oc=5"
+        },
+        {
+          "title": "해운 및 보험 비용, 원유 가치의 3분의 1 수준으로 급등",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1aNy1sT2hfYnJ2amFTMFVtNWQ2a21hdndFb29DZTM0Q1ZEdVhzYUtNZ2JlYlhXSlVpV09XMGlZX1JlNmxIWFhvSGEyMmpMdXhjSDF1RHZZc3RwMzlQeGx6LVVlTW5RZmRGcVE?oc=5"
+        },
+        {
+          "title": "이란 혁명수비대 \"호르무즈 해협서 유조선 기뢰 충돌\"",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ja1U1M1d2TFhhZkxmOElfNkpSQk5OZEVpMVdaekgteGtUWDhoQnA2a2g0N0Q5Y25YalpESjNuYmV4Q1htOXRseWtsLWRrTUJfZndBUFctVVdmZmPSAWBBVV95cUxOeFRST2hZdVduNnpjYmJsN0I0dWZhd1hyZEhxOXFwUmYtSkpBWFZ2bmVSYU1OR3h6VHFHTTVMRFktNUp2TlRKSVQxM2dPcG8wZWxwazdNQmdBQnpBRWN1cWY?oc=5"
+        },
+        {
+          "title": "이란 혁명수비대 \"호르무즈서 초대형 유조선 타격‥경고 무시\"",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8weHZKUFR6cXNQcm1TaV94TkVaU2l3YWZwODRZX3VOMVdWcVN3OUxITU91ZFZ6bXJ5X29iTEh2cW10VDlOcXF3SHEtLTJQbmllOWFtM1RBTFlaY3owTVlRaXl2MnRNS08wOE9UTnlQb0NhVjFS0gF0QVVfeXFMTjlxdGlrNkhZWkprOC01LUk0YjZPUE9WY3JYNEhBOFRVc3NqRkpFLXlWbXZCQkVJU2JjNDBtQVAzUE02dG9nR1RfMHZIVUppX09lRE95THhSSnBlZzJWZXY0aFM3MHRQZ25lNTcxZklXZHdtU0o?oc=5"
+        }
+      ],
+      "metrics": {
+        "kind": "coverage",
+        "value": 5,
+        "unit": "개 매체 보도"
+      },
+      "engagement": 90,
+      "tone": {
+        "score": -100,
+        "label": "부정"
+      },
+      "id": "2026-10-13-global",
       "rank": 2
     },
     {
       "category": "테크",
       "categoryEn": "tech",
-      "title": "Total Annihilation, rebuilt for modern computers",
-      "url": "https://nanolathe.gg",
-      "discussionUrl": "https://news.ycombinator.com/item?id=50045984",
+      "title": "Muse Wonder",
+      "url": "https://research.meta.ai/blog/muse-wonder",
+      "discussionUrl": "https://news.ycombinator.com/item?id=50059115",
       "source": "Hacker News",
       "related": [
         {
-          "title": "IRCv3",
-          "url": "https://ircv3.net/"
+          "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+          "url": "https://github.com/openai/codex/issues/48195"
         },
         {
-          "title": "NYC's \"Click to Cancel\" rule is now in effect",
-          "url": "https://www.nyc.gov/main/click-to-cancel"
+          "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+          "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident"
         },
         {
-          "title": "Terence Tao: Math 2.0 [pdf]",
-          "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf"
+          "title": "GLM-Legal",
+          "url": "https://z.ai/blog/glm-legal"
         }
       ],
       "metrics": {
         "kind": "hn",
-        "score": 359,
-        "comments": 150,
-        "value": 359,
+        "score": 546,
+        "comments": 302,
+        "value": 546,
         "unit": "포인트"
       },
-      "engagement": 56,
+      "engagement": 61,
       "tone": {
         "score": 0,
         "label": "중립"
       },
-      "id": "2026-10-12-tech",
+      "id": "2026-10-13-tech",
       "rank": 3
     }
   ]
