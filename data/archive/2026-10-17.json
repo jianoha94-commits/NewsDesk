@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-17",
+  "generatedAt": "2026-10-17T00:37:15.528Z",
+  "issues": [
+    {
+      "category": "국내",
+      "categoryEn": "korea",
+      "title": "소방관 6명이 쓰러졌다, 이래도 ‘재정 빨대’인가요",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdHByMk5yaDd1QUpfWHhoaWZTY2E3eVFrRGgxU3FIbEVDYlFjak1KZ25JWmRMNGFvQWl4Nk9UY0hkMUF0dW1ZYmVZWTlVVWpTS2xmQ3ZxYjdaNmJlRkRfTENUMko2SUdhLVNkNy14NXdtck5icmZkVjdSUUZQeHhObVQzbWxMQQ?oc=5",
+      "source": "조선일보",
+      "related": [
+        {
+          "title": "‘부천 공장 화재’ 심정지로 구조된 40대 소방관 사망",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xbE94Mk0wZjJtcTBwQlRRSnM4RVBHeXM0N2pkTjllUzA1TnpoMnhWZk9rZnJIZkpWaVdYaWQxV1pNVWRVUmIyV1BJdi10enNjbEJQZW9TSS15dm8?oc=5"
+        },
+        {
+          "title": "추미애 ‘재정 빨대’ 논란 속...李대통령 “소방관에 천금을 준들 아깝겠나”",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeTM2X0xNS09hZTRxOW9VOFhYNGota2ItV1ZTOVNVcDRFWndsTDZzN3JnZkNTaDlPZXE4SmdOWkRzTnVndWt6ZXloYUowekF3SnVZTUoxMm1vRlN6ZWNXM2QwUW5CbEZqRktCQzhrSFgzaUlXUnpWNWNSR3Z4dUtsRTNRQnVuQVNr?oc=5"
+        },
+        {
+          "title": "‘소방관 6명 중경상’...‘검은 연기’ 부천 화재 현장 합동감식",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwR0k1NldLazdGV29RZlpLaHZReWhXZUVlbGJseUYyZThyaF9LX3VDXzQxU2g0NG9fNUFBbmxsQzNhUE45Nk4zaVVUdVZka3lXbVFLbkFvUFdDSHM?oc=5"
+        },
+        {
+          "title": "'아파트식' 부천 공장 화재…인화물질 안전 사각지대였나(종합)",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE50SHdVQkdybVNaMVpsMFBiQ24tTGE2dGVlcjhCdFVnMFppQWJTbFB2dk82WU1kNGs5UG1mWUZ6cm96bDFkZzRHYXdudkE5X0w2WUpWeFJoOVBfcTTSAWBBVV95cUxPQmlzdnBvNDBqaG5ONFVDVTQyeExhdnROZHpXOGFsU0cxc3NyengybDhzc09FMVJtWHRkMlV3TU9mVFpHRl9meGdOQWdRa2FFYjl1V2RpWF9OXzdtcWpvckE?oc=5"
+        }
+      ],
+      "metrics": {
+        "kind": "coverage",
+        "value": 5,
+        "unit": "개 매체 보도"
+      },
+      "engagement": 90,
+      "tone": {
+        "score": -100,
+        "label": "부정"
+      },
+      "id": "2026-10-17-korea",
+      "rank": 1
+    },
+    {
+      "category": "글로벌",
+      "categoryEn": "global",
+      "title": "’변호사 사칭 논란’ 백악관 대변인 나흘 만에 경질…역대 최단명",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93NE1Ca0JNRFhVOUVMN0FnN0p0cUJMLWdDTkpfYkliX0R1ZFVGQWxyNHZVSjhBTUhpMUdaWkRrTTE3OFlhdmpjTUtWaFpoMElGdVdrRzJzSGVtS045VmVUQV9ERlQ1R3c?oc=5",
+      "source": "연합뉴스TV",
+      "related": [
+        {
+          "title": "백악관 신임 대변인, 나흘 만에 전격 경질…“허위 경력·자질 논란”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LYVRTR05Bb1hvY1B2ZjhKMHA3cHdUMUJJa3c2c0VGeVFBSmtnX3Y1UUpIcHVhX3haaGFEQThaamVOSXdnaUxkUDZWSTdJLXVLSjFqaTZpMkk5WVU?oc=5"
+        },
+        {
+          "title": "“중국엔 제대로 된 화장실도 없다”…백악관 대변인 발언에 中 “다시 와보라” 응수",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kTlAxaUdTbDZyQlNQOHZnNUNmZ2VhUmNzUS1SSFRKQjFiMEYxT1FRemNnUlMzR3RtQ01RTE1HbGxka1pYYlh2enJScl93Z1Fh?oc=5"
+        },
+        {
+          "title": "[율곡로] 미국판 만주 변호사",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xTFcwU1l4cjNWdkdva3BQb2ROLTd2ZmJLazJnRlpyLU5DZXN3QnkyR0djRURFWHJoeWR2VjRtaXlLc28yalZBXy1PY0lpSHFZSjB2SDY1d1BrM0nSAWBBVV95cUxOc1BadVZCSzlqVkVhYVZtTTA1RE9HaDBsYVNzTmZqZ1RUcm1aeV9PRThLbXc2M0V4Qk5HOTBxUlUtMlc3ZkFXWGhOaW1pUXdwLUdHUzYxS2dmQlhZTEUyVmc?oc=5"
+        },
+        {
+          "title": "‘허위 경력’ 백악관 대변인, 취임 5일만에 초스피드 경질",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS2VCV2xIVTltbExEdVNwWDFhdVllLVdhTUpKSmhkVmFZSlNkRVBjU0tBb3JJeU8xaHdHaEVHOUs2R1BJT2RoU0RKX0hVNHZYUXpKNFY5d1hRRlZvRXR1bzFRRGFHb1FwazctNXFHNFY1VHl0el9TZ2xEdzBuZDl2Ti1wU20?oc=5"
+        }
+      ],
+      "metrics": {
+        "kind": "coverage",
+        "value": 5,
+        "unit": "개 매체 보도"
+      },
+      "engagement": 90,
+      "tone": {
+        "score": -100,
+        "label": "부정"
+      },
+      "id": "2026-10-17-global",
+      "rank": 2
+    },
+    {
+      "category": "테크",
+      "categoryEn": "tech",
+      "title": "Tesla Roadster",
+      "url": "https://www.tesla.com/roadster",
+      "discussionUrl": "https://news.ycombinator.com/item?id=50112657",
+      "source": "Hacker News",
+      "related": [
+        {
+          "title": "Claude reveals ECDSA curve origins",
+          "url": "https://www.anthropic.com/research/ecdsa-curve-origins"
+        },
+        {
+          "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "url": "https://www.mercor.com/research/labor-index/benchmark-map/"
+        },
+        {
+          "title": "I Love Software Rendering",
+          "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/"
+        }
+      ],
+      "metrics": {
+        "kind": "hn",
+        "score": 1139,
+        "comments": 2051,
+        "value": 1139,
+        "unit": "포인트"
+      },
+      "engagement": 74,
+      "tone": {
+        "score": -100,
+        "label": "부정"
+      },
+      "id": "2026-10-17-tech",
+      "rank": 3
+    }
+  ]
+}
