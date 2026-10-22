@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-22T00:45:46.622Z",
+  "issues": [
+    {
+      "category": "국내",
+      "categoryEn": "korea",
+      "title": "[속보] 김여정 “전 국경선 새 대응수단 임무대기, 확성기도 수일내 대기”",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SZjhtZk1rYVgzYVRKdElybWtxUXR5eUVJUkl2LUdHSmJnY05rMkdRYU13WV9pbU9FSkxmLURTQlBOSUMtdGpGNDZIeDFmY3R6U1ZZM3Z6TTNPZ9IBX0FVX3lxTE5UNE5TbDRwUnhRZnV5Rm90NWJ4TFd3LXZZaDAyX2pOeVlNblBTNUhGVGM0NW1oYU9YSHkzNnI4WmJjeFFmeVNDTkNYYkVZeGpvakRIeDVIaDVUZkR5YmFj?oc=5",
+      "source": "경향신문",
+      "related": [
+        {
+          "title": "김여정 \"전 국경선 새 대응수단 임무 대기…사태 파악 잘하라\" 위협",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WZEZmWkEwamRpYjdyWkhWR3B6dDhMSlFsZkJEQ1Q3NVZOM2NjVzd2YjJPdldiYUYzLXJNbnp0TjhyblZ4alRmRDVCcGgyUlI0V2xxZw?oc=5"
+        },
+        {
+          "title": "김병주 \"北, 대응 절제하는 듯…대남확성기 가동은 최악의 수\"",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CRzdLRHBYaE5xa05zb2piQ3lxam5VM0w0Yk9QbWZ1QkZhNl9jcjdvVnZueWV3UzEteGRiMkFXUDBtSHNqdXN0RFpTU0J6Skd6R1M3dVpPTTJPRzTSAWBBVV95cUxQcWw3aGhCQ080NE04NFhqYXZOTHUtYkJZZjJvaTJUbVhoYmlaRHc2ZC1NY1NfSldleld6Q1hfN0Zlb2VCU2dVUnh3bjFoY1RqVl9kazJzeHloY25IelpfOHQ?oc=5"
+        },
+        {
+          "title": "北 “군사적 도발 시 즉시 반격” 위협… 접경지 긴장감 최고조",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE13VE5hYTdORXY1ZEJJcmc2SEp3SVVhanFwUjVYRGxEOUM5SWdHMkJidXZqc1lFcW9od0xfQmJNbmtyRnY1YVpDWEdQbEwtYUNK0gFUQVVfeXFMTk5HQVhiT3BTSDBOQjdLTmFfaXN2aTJVSTE4V1lMbWM1UXRDcG5TbWM4dl96cUoxYU1jb3VMY3Y0Tk5xeDY3ODRtWnM0YklFaHR3T0JZ?oc=5"
+        },
+        {
+          "title": "정점식 \"北 지뢰 도발 한 달째 정부 대응 전무…정동영·이종석 경질해야\"",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VNU5LSTctSXFta1JuRlVyQ1FIOW1Ec2ZmUmdlV1ZLYnhhYzEtMkRMbnBXTzNvZDJqTGIwNDVPalVBTEQ0dUI1MzRsbkRtR3ZQN0lwLVJVSllwb19u?oc=5"
+        }
+      ],
+      "metrics": {
+        "kind": "coverage",
+        "value": 5,
+        "unit": "개 매체 보도"
+      },
+      "engagement": 90,
+      "tone": {
+        "score": 100,
+        "label": "긍정"
+      },
+      "id": "2026-10-22-korea",
+      "rank": 1
+    },
+    {
+      "category": "글로벌",
+      "categoryEn": "global",
+      "title": "트럼프 \"우크라 종전 어느때보다 가까워…러 미국인 석방 감사\"",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52UkZHLU5ocHJIT29pZ1hUdDQ3dkZoMGRJbm1rb0o3dGEtRld0cnMyVl9CdHp4dTA3WjU1RldOOTBFNDQzVC1WS2xCNmt1MlN5WTZXejZsdDhGRE3SAWBBVV95cUxPamk0YWVsV29yRFFnVTEwY2pEMmctSkFweG12b1VnSW5ScVVxN1d4SHhGeDFfMDhoOGg3QWVfaUZ1TmRmdjB4QzdrcUVyT2tCemppYl9vZC10cHhwQl93VVg?oc=5",
+      "source": "연합뉴스",
+      "related": [
+        {
+          "title": "푸틴, 다음 달 이후 '미·우크라와 3자 종전협상 재개' 동의",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTWxXOHhxOVROUVhnWmVTSWRqdjNZTmV4RmxhMmp0MEtFY0lwOVdCaWNLeGltanhMOUJDdFItekJuTHFCWkZ2aWk1SXdxSlMyeHp2NVhDNlNCa1lVdzd2LVFGREthOHVKQl9CNGw5VnMwcTdpYXRMX2lLZW1QWU1uRWZpdGFka1RRR0hNdDY5b0J4YXc?oc=5"
+        },
+        {
+          "title": "내달 제2의 얄타회담 열리나",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc1NrOTdsdFpjUUVTTDU5S001anV4UmtpYTE3Q0M1MTJZQWtreFdqbE1NYkFJV1lmZG9MazE0WTYwT29pbEdJclVtV19Wdm9MQmVrU01WUUx2NDliTFd1LXRyM09sN2U5MDZaOHBLVEluQmZKaDQxaXNqbU9DQlFFQi1EXzRzQlFJbjBjZHRxX1RJdE1vZEQwSVkxc1lZZw?oc=5"
+        },
+        {
+          "title": "트럼프, “부패한 민주당” 공세 최고조…‘푸틴 인도주의자’ 발언 논란",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rX18zbEFfY2tLMkY3V0JXYUZ0QVI3eV9aUVYzdVhNSE9VU2t5cDQ5SC0tbVE1dVE2WmpnZjhZMlVMTDVTUWJIaVZOb3hHTUZIUk9weHgwdVpSeWs?oc=5"
+        },
+        {
+          "title": "\"다음 달 사상 첫 미중러 3자회담\"...우크라 \"우리만 빼지 마라\"",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40TlJ5UGZmZXZTRWtyMXhDaEdxM1ZJN3NnYjZsVzZrQlJBbV9kRXo1Z2VXZE9CdjViMG1mcE1fVjFfYnd5UDlMeHBUT3FuQzdWWG1MUHBiTVhzcFZvRTB3RXNtYjZnVnEtZHMxdm9BVQ?oc=5"
+        }
+      ],
+      "metrics": {
+        "kind": "coverage",
+        "value": 5,
+        "unit": "개 매체 보도"
+      },
+      "engagement": 90,
+      "tone": {
+        "score": 0,
+        "label": "중립"
+      },
+      "id": "2026-10-22-global",
+      "rank": 2
+    },
+    {
+      "category": "테크",
+      "categoryEn": "tech",
+      "title": "PHP 8.2.35",
+      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+      "discussionUrl": "https://news.ycombinator.com/item?id=50180873",
+      "source": "Hacker News",
+      "related": [
+        {
+          "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
+          "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/"
+        },
+        {
+          "title": "Today's PHP security release, and how we're strengthening security",
+          "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/"
+        },
+        {
+          "title": "EA is shutting down BioWare",
+          "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware"
+        }
+      ],
+      "metrics": {
+        "kind": "hn",
+        "score": 963,
+        "comments": 532,
+        "value": 963,
+        "unit": "포인트"
+      },
+      "engagement": 66,
+      "tone": {
+        "score": -100,
+        "label": "부정"
+      },
+      "id": "2026-10-22-tech",
+      "rank": 3
+    }
+  ]
+}
