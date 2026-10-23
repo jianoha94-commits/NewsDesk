@@ -1,66 +1,29 @@
 {
-  "date": "2026-10-22",
-  "generatedAt": "2026-10-22T00:45:46.622Z",
+  "date": "2026-10-23",
+  "generatedAt": "2026-10-23T00:45:29.051Z",
   "issues": [
     {
       "category": "국내",
       "categoryEn": "korea",
-      "title": "[속보] 김여정 “전 국경선 새 대응수단 임무대기, 확성기도 수일내 대기”",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SZjhtZk1rYVgzYVRKdElybWtxUXR5eUVJUkl2LUdHSmJnY05rMkdRYU13WV9pbU9FSkxmLURTQlBOSUMtdGpGNDZIeDFmY3R6U1ZZM3Z6TTNPZ9IBX0FVX3lxTE5UNE5TbDRwUnhRZnV5Rm90NWJ4TFd3LXZZaDAyX2pOeVlNblBTNUhGVGM0NW1oYU9YSHkzNnI4WmJjeFFmeVNDTkNYYkVZeGpvakRIeDVIaDVUZkR5YmFj?oc=5",
-      "source": "경향신문",
+      "title": "시장직 걸린 오세훈 ‘여론조사 대납’ 오늘 2심 선고... 오후 2시 생중계",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORTlKTHBLWV9iU3FrZlBlRmZVOEVsVE5mSVdlNVAyTmdZbjByX25MUWdQM0VRSG9tcVdqejBmOGJGbVNHc2dRLXJHSEFLT09XWjBDVFBROHNqcnZXNGRhWnV3UGlkQVlvbTBLc205akVHUlY1R0gzeHNyVTNCekxBazE5czBvZlE?oc=5",
+      "source": "조선일보",
       "related": [
         {
-          "title": "김여정 \"전 국경선 새 대응수단 임무 대기…사태 파악 잘하라\" 위협",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WZEZmWkEwamRpYjdyWkhWR3B6dDhMSlFsZkJEQ1Q3NVZOM2NjVzd2YjJPdldiYUYzLXJNbnp0TjhyblZ4alRmRDVCcGgyUlI0V2xxZw?oc=5"
+          "title": "오세훈, 오늘 2심 선고 생중계…‘정치생명’ 운명의 갈림길",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBJRXc4TjZhSi0zeHhLY1RmdnZWbS1BZ3ROQnJHWVVjVWsybmY5VkUzUFJYR1V5MXNCQ3d6aEJ3eklTNUc2Vy1jZWxGdXBQVjgyaXczWA?oc=5"
         },
         {
-          "title": "김병주 \"北, 대응 절제하는 듯…대남확성기 가동은 최악의 수\"",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CRzdLRHBYaE5xa05zb2piQ3lxam5VM0w0Yk9QbWZ1QkZhNl9jcjdvVnZueWV3UzEteGRiMkFXUDBtSHNqdXN0RFpTU0J6Skd6R1M3dVpPTTJPRzTSAWBBVV95cUxQcWw3aGhCQ080NE04NFhqYXZOTHUtYkJZZjJvaTJUbVhoYmlaRHc2ZC1NY1NfSldleld6Q1hfN0Zlb2VCU2dVUnh3bjFoY1RqVl9kazJzeHloY25IelpfOHQ?oc=5"
+          "title": "오세훈 ‘여론조사 대납 의혹’ 항소심 오늘 선고…시장직 운명은",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VS3d6eUNfcmhkZ2Fmdkh0TmgxTXVPNjA1eU1wa0ZzOTRzWndHTktzWUtyMExyVTZXVTROUEJPSFRPdy1oU1V2dFRUVUV3ejEwWkpzVmtmcHo4aWM?oc=5"
         },
         {
-          "title": "北 “군사적 도발 시 즉시 반격” 위협… 접경지 긴장감 최고조",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE13VE5hYTdORXY1ZEJJcmc2SEp3SVVhanFwUjVYRGxEOUM5SWdHMkJidXZqc1lFcW9od0xfQmJNbmtyRnY1YVpDWEdQbEwtYUNK0gFUQVVfeXFMTk5HQVhiT3BTSDBOQjdLTmFfaXN2aTJVSTE4V1lMbWM1UXRDcG5TbWM4dl96cUoxYU1jb3VMY3Y0Tk5xeDY3ODRtWnM0YklFaHR3T0JZ?oc=5"
+          "title": "김민석 \"오세훈 항소심 유죄에 무게…서울시장 선거 마음의 준비\"",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSGQ0aWpkREVFcDV2UWRjTTU2V1gwMWNRUFR5U0ZqdHYxaEVISk11aVlxWVhpTGJQZUVNU1RuWUUwUW93RnBjSHRyN05vTzl6dXdvMDd4c2xRamNYNnJDdno1dDFvT3d4bE90SWZPV2txOUx2VmVUck5Lem4zYTBpbmxjcjhsQQ?oc=5"
         },
         {
-          "title": "정점식 \"北 지뢰 도발 한 달째 정부 대응 전무…정동영·이종석 경질해야\"",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9VNU5LSTctSXFta1JuRlVyQ1FIOW1Ec2ZmUmdlV1ZLYnhhYzEtMkRMbnBXTzNvZDJqTGIwNDVPalVBTEQ0dUI1MzRsbkRtR3ZQN0lwLVJVSllwb19u?oc=5"
-        }
-      ],
-      "metrics": {
-        "kind": "coverage",
-        "value": 5,
-        "unit": "개 매체 보도"
-      },
-      "engagement": 90,
-      "tone": {
-        "score": 100,
-        "label": "긍정"
-      },
-      "id": "2026-10-22-korea",
-      "rank": 1
-    },
-    {
-      "category": "글로벌",
-      "categoryEn": "global",
-      "title": "트럼프 \"우크라 종전 어느때보다 가까워…러 미국인 석방 감사\"",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52UkZHLU5ocHJIT29pZ1hUdDQ3dkZoMGRJbm1rb0o3dGEtRld0cnMyVl9CdHp4dTA3WjU1RldOOTBFNDQzVC1WS2xCNmt1MlN5WTZXejZsdDhGRE3SAWBBVV95cUxPamk0YWVsV29yRFFnVTEwY2pEMmctSkFweG12b1VnSW5ScVVxN1d4SHhGeDFfMDhoOGg3QWVfaUZ1TmRmdjB4QzdrcUVyT2tCemppYl9vZC10cHhwQl93VVg?oc=5",
-      "source": "연합뉴스",
-      "related": [
-        {
-          "title": "푸틴, 다음 달 이후 '미·우크라와 3자 종전협상 재개' 동의",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTWxXOHhxOVROUVhnWmVTSWRqdjNZTmV4RmxhMmp0MEtFY0lwOVdCaWNLeGltanhMOUJDdFItekJuTHFCWkZ2aWk1SXdxSlMyeHp2NVhDNlNCa1lVdzd2LVFGREthOHVKQl9CNGw5VnMwcTdpYXRMX2lLZW1QWU1uRWZpdGFka1RRR0hNdDY5b0J4YXc?oc=5"
-        },
-        {
-          "title": "내달 제2의 얄타회담 열리나",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc1NrOTdsdFpjUUVTTDU5S001anV4UmtpYTE3Q0M1MTJZQWtreFdqbE1NYkFJV1lmZG9MazE0WTYwT29pbEdJclVtV19Wdm9MQmVrU01WUUx2NDliTFd1LXRyM09sN2U5MDZaOHBLVEluQmZKaDQxaXNqbU9DQlFFQi1EXzRzQlFJbjBjZHRxX1RJdE1vZEQwSVkxc1lZZw?oc=5"
-        },
-        {
-          "title": "트럼프, “부패한 민주당” 공세 최고조…‘푸틴 인도주의자’ 발언 논란",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rX18zbEFfY2tLMkY3V0JXYUZ0QVI3eV9aUVYzdVhNSE9VU2t5cDQ5SC0tbVE1dVE2WmpnZjhZMlVMTDVTUWJIaVZOb3hHTUZIUk9weHgwdVpSeWs?oc=5"
-        },
-        {
-          "title": "\"다음 달 사상 첫 미중러 3자회담\"...우크라 \"우리만 빼지 마라\"",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40TlJ5UGZmZXZTRWtyMXhDaEdxM1ZJN3NnYjZsVzZrQlJBbV9kRXo1Z2VXZE9CdjViMG1mcE1fVjFfYnd5UDlMeHBUT3FuQzdWWG1MUHBiTVhzcFZvRTB3RXNtYjZnVnEtZHMxdm9BVQ?oc=5"
+          "title": "오세훈, 운명의 날...'명태균 여론조사비 대납' 2심 선고",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1KY2J3dUNfVUhKaldOTWVEcTZTa0lzM1NQeHYzeExUbVN1QmlZaGdPaWxPZVh6aTFadTdvM3loUzVNcVY5QldVYTVfMHZRdHRTd3BKUmlvM1J3Z1VSRk5INDFLQjR1Zlc1MnNsMWQ5dw?oc=5"
         }
       ],
       "metrics": {
@@ -73,43 +36,80 @@
         "score": 0,
         "label": "중립"
       },
-      "id": "2026-10-22-global",
+      "id": "2026-10-23-korea",
+      "rank": 1
+    },
+    {
+      "category": "글로벌",
+      "categoryEn": "global",
+      "title": "마크롱, 주말시위 앞 “강력 대응”…이탈리아도 “군 500명 더 투입”",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeDRSTW55NlNaLXlZam9sSkxNZEk3SnFRN0hqYTktYUE1OEhMZThOcFh5eFM3Q2RSby1lTUc2VEV0dEwwN2tpeWFFZWI5eHhBc28zOUNvRHdhU01vdkVoUWwwWVlUMk41QU1FVUY5ckNlMnNkYVFKZkhkVGwyWGI0eFFn?oc=5",
+      "source": "한겨레",
+      "related": [
+        {
+          "title": "프랑스 10여 개 도시 시위 금지령…파리는 장갑차 동원 예고",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hYmpSYk5NaEs0dFRDaExZZVV2aDlBSHZiTkRTQV9PNGJYU1ZtQm1mb0huS1VySmlTa1BMdUZSTEt6c0NUV29wWXh6MFk3T0toSktZdTUyTW40anc?oc=5"
+        },
+        {
+          "title": "佛파리 상점가, 주말 시위 앞 긴장…\"약탈 대비 무기구매 10배\"",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4V1dsZGZWOGJMRWxkV0k0UFRmc2JDcU9kSjdYaUlZMFJMU18yeTFNbWVWT0ZWUEExczFNZU1mUm1ZZC1WdGI0ZjlnUF9fU09QeWZV?oc=5"
+        },
+        {
+          "title": "20명의 공격에도 안 뚫린 루이비통 유리… 파리 폭동에 드러난 명품의 역설",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5Qc2hybUxNdWdycjFSREN5UFU1SV82TVlpVldCaVVvbFZwY01LZTlzQzU2NGlpb3h0b2d0a0Zndlpzd2dDYWNGaFdyOUJlWjJL?oc=5"
+        },
+        {
+          "title": "[동서남북] 프랑스 청년시위가 한국에 던진 ‘폭탄’",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMGZDQlVIMkRjelpWSE1NcWNsUldublNZUnRNV3g1M2Rvby1yOURyRjZreVVNLS1qajAtN3hHQi1ib2wzeWVsc3N0bWNmNUFNQ0JLNE1sTlcybm91UDd3RFk4MHRrWUZvbjk4MTVDYlZSZnFMSm9jbU9YQzVtVGN0b1A3Sm5xTHdFQTlz?oc=5"
+        }
+      ],
+      "metrics": {
+        "kind": "coverage",
+        "value": 5,
+        "unit": "개 매체 보도"
+      },
+      "engagement": 90,
+      "tone": {
+        "score": 0,
+        "label": "중립"
+      },
+      "id": "2026-10-23-global",
       "rank": 2
     },
     {
       "category": "테크",
       "categoryEn": "tech",
-      "title": "PHP 8.2.35",
-      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
-      "discussionUrl": "https://news.ycombinator.com/item?id=50180873",
+      "title": "Quad9 (DNS Resolver) to Exit France",
+      "url": "https://quad9.net/news/blog/au-revoir-france/",
+      "discussionUrl": "https://news.ycombinator.com/item?id=50195959",
       "source": "Hacker News",
       "related": [
         {
-          "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
-          "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/"
+          "title": "eMudhra to exit global SSL/TLS certificate business",
+          "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business"
         },
         {
-          "title": "Today's PHP security release, and how we're strengthening security",
-          "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/"
+          "title": "Jailbreaking the Switch 2",
+          "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/"
         },
         {
-          "title": "EA is shutting down BioWare",
-          "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware"
+          "title": "Woman faces six years in prison over Cash App account she never opened",
+          "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html"
         }
       ],
       "metrics": {
         "kind": "hn",
-        "score": 963,
-        "comments": 532,
-        "value": 963,
+        "score": 973,
+        "comments": 351,
+        "value": 973,
         "unit": "포인트"
       },
-      "engagement": 66,
+      "engagement": 64,
       "tone": {
-        "score": -100,
-        "label": "부정"
+        "score": 0,
+        "label": "중립"
       },
-      "id": "2026-10-22-tech",
+      "id": "2026-10-23-tech",
       "rank": 3
     }
   ]
