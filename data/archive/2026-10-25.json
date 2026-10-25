@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T00:24:00.499Z",
+  "issues": [
+    {
+      "category": "국내",
+      "categoryEn": "korea",
+      "title": "김정은 '당일치기 방중' 끝났다…'中 서열 4위' 왕후닝과 회담",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE15cXNjZG9TMGJkQjRFem83ZG40SVV5dzZWUFIzemFIU0lrMUstczVhM3NLTThXOFdaclhPOTJoMG1rNWdlbGNsVHpxaGZxSVpkMkEzUHluYUpLUQ?oc=5",
+      "source": "한국경제",
+      "related": [
+        {
+          "title": "김정은, 중국 서열 4위 왕후닝과 회담…“경제 협력 강화”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10ZkFWcjROT0ppMVFDNlpWMnEwN0RGQ19UUTZOQWRIX2ZzUG81ckw3aFgtT3dSN08zc2dLaEUwVUpjTnVvckE3QlltY3lYQmowNkRvNk9ib1Z2RmM?oc=5"
+        },
+        {
+          "title": "자신감 붙은 김정은, 트럼프 방중 앞두고 중국행",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWUhsWlRxTHBzSWk2R21DdmtfT0w4bnBybm5odTdKdklueUk1QTQ4TmJHUHpIM1pRdUtJQVBDMGpENGx4LUstSlJZTm14VDZuNzJuTkxneHpaZ0FWR05sT0UyaF85SXk4Qll5SFViY01VRDFjbW8taTlVdU81U2Q0NEVsczVxYm01WFZQLTRnQ1ZjZw?oc=5"
+        },
+        {
+          "title": "김정은, 中과 밀착 행보 지속…“피로 맺어진 혈맹 재확인”",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52QjR2a0xRMk1qR2ZwTW5seFlyWmViVTJ5cm9Ja0hOTGVESjZrbC1VblV2aUh5OU1uRWFfRjNWWGlIRDlDZjRyVUpJNjBlMEZLUmV5aUFMOGxTNlR0TUZvenl0MmdCYThXN2piUFE1YUFLTWJldjZz0gFmQVVfeXFMTldYWnh5ZzA3a19mcTljU3NZV2psMF9tSmRKU21GeWhtV3M1YTY5Zlc1aGZfbTFySE5HNkx1MkpoQjYxcWVjeVNXbjB0S1dNRUNsNnlsMXRnd1d3MGVQWWpFX25yRnpB?oc=5"
+        },
+        {
+          "title": "민주 정보위 간사 윤건영 “김정은, 리창 아닌 왕후닝 만나…계획 변경”",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mWm9tNEo1X1pkU2g4REF3b2hZd2lvWXNHaVdVRGM3RVU3cG9PUVNxWXpTVElTZUR3aTBoNXVZYm16RkxacndrV25ONjZnM1ZPUERHZElnZU82aG5xZXc?oc=5"
+        }
+      ],
+      "metrics": {
+        "kind": "coverage",
+        "value": 5,
+        "unit": "개 매체 보도"
+      },
+      "engagement": 90,
+      "tone": {
+        "score": 0,
+        "label": "중립"
+      },
+      "id": "2026-10-25-korea",
+      "rank": 1
+    },
+    {
+      "category": "글로벌",
+      "categoryEn": "global",
+      "title": "김정은, 단둥서 중국 권력서열 4위 만나…“신압록강대교까지 배웅 받아”",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rT0tYVDZwX2hwWTYzbkJRYks5eDdVSXZoZjVOOURwWmxITk9ZYnNuWGlfQ3h5eWRmZG5HY193emZxWEFLeGtWVDgzd1V0dWdQdmJPZmZILUlyUnlTU0pHUVd5SFhtZGhY?oc=5",
+      "source": "한겨레",
+      "related": [
+        {
+          "title": "김정은, 중국 서열 4위 왕후닝과 회담…“경제 협력 강화”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10ZkFWcjROT0ppMVFDNlpWMnEwN0RGQ19UUTZOQWRIX2ZzUG81ckw3aFgtT3dSN08zc2dLaEUwVUpjTnVvckE3QlltY3lYQmowNkRvNk9ib1Z2RmM?oc=5"
+        },
+        {
+          "title": "자신감 붙은 김정은, 트럼프 방중 앞두고 중국행",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWUhsWlRxTHBzSWk2R21DdmtfT0w4bnBybm5odTdKdklueUk1QTQ4TmJHUHpIM1pRdUtJQVBDMGpENGx4LUstSlJZTm14VDZuNzJuTkxneHpaZ0FWR05sT0UyaF85SXk4Qll5SFViY01VRDFjbW8taTlVdU81U2Q0NEVsczVxYm01WFZQLTRnQ1ZjZw?oc=5"
+        },
+        {
+          "title": "김정은, 中과 밀착 행보 지속…“피로 맺어진 혈맹 재확인”",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52QjR2a0xRMk1qR2ZwTW5seFlyWmViVTJ5cm9Ja0hOTGVESjZrbC1VblV2aUh5OU1uRWFfRjNWWGlIRDlDZjRyVUpJNjBlMEZLUmV5aUFMOGxTNlR0TUZvenl0MmdCYThXN2piUFE1YUFLTWJldjZz0gFmQVVfeXFMTldYWnh5ZzA3a19mcTljU3NZV2psMF9tSmRKU21GeWhtV3M1YTY5Zlc1aGZfbTFySE5HNkx1MkpoQjYxcWVjeVNXbjB0S1dNRUNsNnlsMXRnd1d3MGVQWWpFX25yRnpB?oc=5"
+        },
+        {
+          "title": "민주 정보위 간사 윤건영 “김정은, 리창 아닌 왕후닝 만나…계획 변경”",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1mWm9tNEo1X1pkU2g4REF3b2hZd2lvWXNHaVdVRGM3RVU3cG9PUVNxWXpTVElTZUR3aTBoNXVZYm16RkxacndrV25ONjZnM1ZPUERHZElnZU82aG5xZXc?oc=5"
+        }
+      ],
+      "metrics": {
+        "kind": "coverage",
+        "value": 5,
+        "unit": "개 매체 보도"
+      },
+      "engagement": 90,
+      "tone": {
+        "score": 0,
+        "label": "중립"
+      },
+      "id": "2026-10-25-global",
+      "rank": 2
+    },
+    {
+      "category": "테크",
+      "categoryEn": "tech",
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "url": "https://edjefferson.com/localwiki/",
+      "discussionUrl": "https://news.ycombinator.com/item?id=50202285",
+      "source": "Hacker News",
+      "related": [
+        {
+          "title": "No signs of AI payoff outside the tech sector",
+          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector"
+        },
+        {
+          "title": "Show HN: Steal My Bitcoin",
+          "url": "https://stealmybitcoin.com/"
+        },
+        {
+          "title": "Twelve years of distributed SQLite",
+          "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/"
+        }
+      ],
+      "metrics": {
+        "kind": "hn",
+        "score": 1544,
+        "comments": 242,
+        "value": 1544,
+        "unit": "포인트"
+      },
+      "engagement": 66,
+      "tone": {
+        "score": 0,
+        "label": "중립"
+      },
+      "id": "2026-10-25-tech",
+      "rank": 3
+    }
+  ]
+}
