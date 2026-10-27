@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-27",
+  "generatedAt": "2026-10-27T01:32:20.383Z",
+  "issues": [
+    {
+      "category": "국내",
+      "categoryEn": "korea",
+      "title": "미 중간선거 사전투표 4년 전보다 37% 증가…민주·무당층 참여 열기",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YcmU4S2ZZVGh2Wlk2UUFWM1U2QTFRelNGaXl4WjFPS0JLZ3pKOEF4bmxYQ3A4SzdOVnZOakp2V3l5c0R3TlZ6Tms5UGx2V2ROektQYlF2WkVybGNxLWQyTDBBZ2U3NS0wRkhLUFVtaw?oc=5",
+      "source": "한겨레",
+      "related": [
+        {
+          "title": "패배 직감한 트럼프 \"모조리 거부권\" 폭주…한국까지 사정권",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zaVVPSEhsLUtFdXlhMDRkaXRycDdWUkxYRVExdU9SMC1GcG1ncUVIOHhHQm4yN0h3bVhGM0c4dmViZmNYLTNQMnBQaUdnMGRzeVVnMA?oc=5"
+        },
+        {
+          "title": "美상원 7곳서 박빙… 재산세-구직난 등 ‘먹고사는 문제’ 화두로",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1yWlpwRW8zUGVHYkpuVWU2U3ZESGpoNHZUTnVycW9JS2RCVjBiOFZRdmVXRVhqMlhSVHV0UmEzTnV3NlpBTGwyQUZDaEpCbE1aYlRJc2FvcEs2RXNfWTB6Sko4eVVTNUxicUVBWDBCdFBSYm_SAWZBVV95cUxNVmQxclpFbUpVemJlOXUwcFg0X0Z3SVRZWHhvUGxsaGktOW0wX3k5allXRm9ER2o5a0kyTHl0NWFLZmdDVUYzNFl1bzlrbFpaSGFPZEIwczR6SEVpeU5WUW1vcC1qMkE?oc=5"
+        },
+        {
+          "title": "'공화당 텃밭'까지 밀릴 위기...트럼프, 결국 직접 유세 나섰다 [자막뉴스]",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82NWJjaGFsX0ZoS1FkS3lJTFljTFphRU1saWxoLTF5ZzhwWms4RjFzQk42WmNWR1pjZE9jem1QRl9IRjhKS3E1X0JXOW5sUFpXU1E3TFM3d3E3Ny1HQnc?oc=5"
+        },
+        {
+          "title": "하원, 민주 과반 전망·상원은 초접전… ‘샤이 트럼프’ 투표 변수[10문10답]",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KazRaVlNNWWlGVW9JT3VlV2RHZ1B4Q2t1bF9zUWxTTE9GbEZnZHluel91ZUp4ZGpwN3M3SjAyRk5sZFEyOC1XRFlORWJPeFQ5?oc=5"
+        }
+      ],
+      "metrics": {
+        "kind": "coverage",
+        "value": 5,
+        "unit": "개 매체 보도"
+      },
+      "engagement": 90,
+      "tone": {
+        "score": -100,
+        "label": "부정"
+      },
+      "id": "2026-10-27-korea",
+      "rank": 1
+    },
+    {
+      "category": "글로벌",
+      "categoryEn": "global",
+      "title": "미 중간선거 사전투표 4년 전보다 37% 증가…민주·무당층 참여 열기",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YcmU4S2ZZVGh2Wlk2UUFWM1U2QTFRelNGaXl4WjFPS0JLZ3pKOEF4bmxYQ3A4SzdOVnZOakp2V3l5c0R3TlZ6Tms5UGx2V2ROektQYlF2WkVybGNxLWQyTDBBZ2U3NS0wRkhLUFVtaw?oc=5",
+      "source": "한겨레",
+      "related": [
+        {
+          "title": "패배 직감한 트럼프 \"모조리 거부권\" 폭주…한국까지 사정권",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zaVVPSEhsLUtFdXlhMDRkaXRycDdWUkxYRVExdU9SMC1GcG1ncUVIOHhHQm4yN0h3bVhGM0c4dmViZmNYLTNQMnBQaUdnMGRzeVVnMA?oc=5"
+        },
+        {
+          "title": "美상원 7곳서 박빙… 재산세-구직난 등 ‘먹고사는 문제’ 화두로",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1yWlpwRW8zUGVHYkpuVWU2U3ZESGpoNHZUTnVycW9JS2RCVjBiOFZRdmVXRVhqMlhSVHV0UmEzTnV3NlpBTGwyQUZDaEpCbE1aYlRJc2FvcEs2RXNfWTB6Sko4eVVTNUxicUVBWDBCdFBSYm_SAWZBVV95cUxNVmQxclpFbUpVemJlOXUwcFg0X0Z3SVRZWHhvUGxsaGktOW0wX3k5allXRm9ER2o5a0kyTHl0NWFLZmdDVUYzNFl1bzlrbFpaSGFPZEIwczR6SEVpeU5WUW1vcC1qMkE?oc=5"
+        },
+        {
+          "title": "'공화당 텃밭'까지 밀릴 위기...트럼프, 결국 직접 유세 나섰다 [자막뉴스]",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82NWJjaGFsX0ZoS1FkS3lJTFljTFphRU1saWxoLTF5ZzhwWms4RjFzQk42WmNWR1pjZE9jem1QRl9IRjhKS3E1X0JXOW5sUFpXU1E3TFM3d3E3Ny1HQnc?oc=5"
+        },
+        {
+          "title": "하원, 민주 과반 전망·상원은 초접전… ‘샤이 트럼프’ 투표 변수[10문10답]",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5KazRaVlNNWWlGVW9JT3VlV2RHZ1B4Q2t1bF9zUWxTTE9GbEZnZHluel91ZUp4ZGpwN3M3SjAyRk5sZFEyOC1XRFlORWJPeFQ5?oc=5"
+        }
+      ],
+      "metrics": {
+        "kind": "coverage",
+        "value": 5,
+        "unit": "개 매체 보도"
+      },
+      "engagement": 90,
+      "tone": {
+        "score": -100,
+        "label": "부정"
+      },
+      "id": "2026-10-27-global",
+      "rank": 2
+    },
+    {
+      "category": "테크",
+      "categoryEn": "tech",
+      "title": "Anthropic S-1",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "discussionUrl": "https://news.ycombinator.com/item?id=50242939",
+      "source": "Hacker News",
+      "related": [
+        {
+          "title": "Microsoft offers mass buyouts for roughly a quarter of its workforce",
+          "url": "https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/"
+        },
+        {
+          "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+          "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models"
+        },
+        {
+          "title": "GPT-6.1 Terra",
+          "url": "https://openai.com/index/introducing-gpt-6-1-terra/"
+        }
+      ],
+      "metrics": {
+        "kind": "hn",
+        "score": 1468,
+        "comments": 1445,
+        "value": 1468,
+        "unit": "포인트"
+      },
+      "engagement": 73,
+      "tone": {
+        "score": 0,
+        "label": "중립"
+      },
+      "id": "2026-10-27-tech",
+      "rank": 3
+    }
+  ]
+}
