@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T01:53:16.491Z",
+  "issues": [
+    {
+      "category": "국내",
+      "categoryEn": "korea",
+      "title": "이진숙, 오세훈은 했는데…장동혁이 ‘박정희 추모사’ 안 한 까닭은",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tQThnQ3RWRnVmeEpNNDFjdVF4eUVDRE93aFJuSE1PM3Q2dUVzUXNYY3JRcXNsN1NOcEVxQmxqalVCT21hbzRUUC01cURsR3JOb0pCV2o1Yy1odW5iUlF4MDUwRFhuYlN4?oc=5",
+      "source": "한겨레",
+      "related": [
+        {
+          "title": "가상자산 과세 당정협의",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NbVVNdFd6RWp2UVFTeUx2SDJDdnY3YnBiZXAzYkxYVS1wYmhaZUowNDcxeHBrY0Z4SUlTVEZGUEdzZ29mSEhDMG5JTEFqMHZPa3c?oc=5"
+        },
+        {
+          "title": "구미시, 박정희 생가 재단 설립 추진에 시민단체 반발",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95a2VEdzBfdjZuQnVibGkyamQwZFFaeVVoRnBRX09wdWltLVhaekxWb1V6OEZxeGo1Y0F3X0RZS2VqRnZ3eDZmQ3FNWU1NYXBrMDFPdVR1ei1ELUHSAWBBVV95cUxOS1Z3d3doa2FnalNFcjBFNnJLOGVjaG8yVWtSQ0Ztdm5qUjBERk1FN3ZRQ09iWGRSd2c0dTc5cTM4TklLN1FDVlFNeHVULXJVcS1SSThCSHVzNjZaNGFlQjY?oc=5"
+        },
+        {
+          "title": "추모사하는 나경원 국민의힘 의원",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Udjh5X1U3R01CVW1hSE0wWndUNEpmMEFsQ2JaRHlzbDFDd3dneE5CWDRFX0NoRkVLVEUtMHI0cXpBYzZCVTNERjBjU1djNmZBWVB2T2FNMXY5QzdG?oc=5"
+        },
+        {
+          "title": "‘박정희 자료관’이 뭐길래···195억 들여 또 짓고 매년 30억씩 지원하나",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rZEN6OVM3dG50aUk2eFFBTHdvcFJlcjVmek1ua0NFMTVpY0p4ZXFoQVFVXzdEcUNnMnRFdzRQSndfLURvQTNSZkhOaVJsSU1jTW9mZFdCd2hzQdIBX0FVX3lxTE15OGRDVkl3RExBSEdEa0oyZlF0Rm1iTlBvc1g3WWdOXzRfV1M1eVYwMVZ1a0xDbjZzUVNicF9wbnJZb3ZJOFRtUzdDNkNoMGs4WWg2MVZxZGpUQ0NNdjZv?oc=5"
+        }
+      ],
+      "metrics": {
+        "kind": "coverage",
+        "value": 5,
+        "unit": "개 매체 보도"
+      },
+      "engagement": 90,
+      "tone": {
+        "score": 0,
+        "label": "중립"
+      },
+      "id": "2026-10-29-korea",
+      "rank": 1
+    },
+    {
+      "category": "글로벌",
+      "categoryEn": "global",
+      "title": "\"美, 중간선거 후 이란 재공격 준비 통보\"…국제유가 3% 가까이 급등",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SbWpHN2p6eEcwUWJrRnNwOWFRcXhyMzBBcVM3OGFYSjZkRE5OMUVsZTdhR1MxRGtEUGJteGdDb1dNRm83aXc4OUtEV3MyNTNMU3JHSTVhd285dw?oc=5",
+      "source": "파이낸셜뉴스",
+      "related": [],
+      "metrics": {
+        "kind": "coverage",
+        "value": 1,
+        "unit": "개 매체 보도"
+      },
+      "engagement": 46,
+      "tone": {
+        "score": 0,
+        "label": "중립"
+      },
+      "id": "2026-10-29-global",
+      "rank": 2
+    },
+    {
+      "category": "테크",
+      "categoryEn": "tech",
+      "title": "Apple's git still trusts the compromised eMudhra certificates",
+      "url": "https://emudhra.we-have-a-problem.com/apple.html",
+      "discussionUrl": "https://news.ycombinator.com/item?id=50271640",
+      "source": "Hacker News",
+      "related": [
+        {
+          "title": "Why is this fingerprinting script creating bioweapons?",
+          "url": "https://nullpt.rs/fingerprinting-bioweapons"
+        },
+        {
+          "title": "Gemini 4 Carbon",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+        },
+        {
+          "title": "Start Doing Graph Theory",
+          "url": "https://vertex.degree/"
+        }
+      ],
+      "metrics": {
+        "kind": "hn",
+        "score": 1043,
+        "comments": 378,
+        "value": 1043,
+        "unit": "포인트"
+      },
+      "engagement": 65,
+      "tone": {
+        "score": 0,
+        "label": "중립"
+      },
+      "id": "2026-10-29-tech",
+      "rank": 3
+    }
+  ]
+}
