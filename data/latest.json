@@ -1,29 +1,66 @@
 {
-  "date": "2026-10-29",
-  "generatedAt": "2026-10-29T01:53:16.491Z",
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-30T02:02:51.877Z",
   "issues": [
     {
       "category": "국내",
       "categoryEn": "korea",
-      "title": "이진숙, 오세훈은 했는데…장동혁이 ‘박정희 추모사’ 안 한 까닭은",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1tQThnQ3RWRnVmeEpNNDFjdVF4eUVDRE93aFJuSE1PM3Q2dUVzUXNYY3JRcXNsN1NOcEVxQmxqalVCT21hbzRUUC01cURsR3JOb0pCV2o1Yy1odW5iUlF4MDUwRFhuYlN4?oc=5",
+      "title": "다문화·이주노동자, 대통령이 키운 논란…참모진·장관들 수습 ‘급급’",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hWlVNMGlXcGJzWDNSYzltalFtM1VidUhERkdhVzJEZHhhQTdHbDJqNm9oWkw5STF3ZlRyYmI4dlc2NVh5VGtEeUpzQlFTQ0NNeTZfN0I4emF4dkMtVWJONVdfZXJpRDhURW1R?oc=5",
       "source": "한겨레",
       "related": [
         {
-          "title": "가상자산 과세 당정협의",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NbVVNdFd6RWp2UVFTeUx2SDJDdnY3YnBiZXAzYkxYVS1wYmhaZUowNDcxeHBrY0Z4SUlTVEZGUEdzZ29mSEhDMG5JTEFqMHZPa3c?oc=5"
+          "title": "李 ‘다문화 우대 폐지’ 언급에… 與 우려, 오세훈은 화답",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcWxzNUJXU3ZtTkVvbHZHUVNnVWhfYVlNQTEwSkhWczNhTV9WRTVoTF9MVGN5bjZsVkt6T2l1S3NsQm9zOFZnbFl5SVBYQ002WkpoTFhYdGw0QlhtOWNMVmcwUmdwTnJKRDB6Sm4zWjNkd2JYMVE5LTBPaHo1WmdTTy1TRklxWDBjcmdudkI0X00?oc=5"
         },
         {
-          "title": "구미시, 박정희 생가 재단 설립 추진에 시민단체 반발",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95a2VEdzBfdjZuQnVibGkyamQwZFFaeVVoRnBRX09wdWltLVhaekxWb1V6OEZxeGo1Y0F3X0RZS2VqRnZ3eDZmQ3FNWU1NYXBrMDFPdVR1ei1ELUHSAWBBVV95cUxOS1Z3d3doa2FnalNFcjBFNnJLOGVjaG8yVWtSQ0Ztdm5qUjBERk1FN3ZRQ09iWGRSd2c0dTc5cTM4TklLN1FDVlFNeHVULXJVcS1SSThCSHVzNjZaNGFlQjY?oc=5"
+          "title": "[서울시 팩트브리핑] 市, 대통령 발언(10.28) 이전부터 다문화 지원정책 개선 검토에 착수하였습니다",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5aGtpN0VpWkpiZTZKMzY4VHliTURVeVdrbWpaTjlxS2pvVTNLWEJFaTRFSVRab2JKcWh1WGJoNlNBakpOMjAtNTVkYzQyTVU2U2pBMFB4dHk?oc=5"
         },
         {
-          "title": "추모사하는 나경원 국민의힘 의원",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9Udjh5X1U3R01CVW1hSE0wWndUNEpmMEFsQ2JaRHlzbDFDd3dneE5CWDRFX0NoRkVLVEUtMHI0cXpBYzZCVTNERjBjU1djNmZBWVB2T2FNMXY5QzdG?oc=5"
+          "title": "[여적]‘역차별’ 단어의 쓰임",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90WndZZmJMMTlWVHVkUngzSUxkVWZySl9VT3FrenVUR2Z5ZWFUcjFnTnFMem96VmJHYngtVkNwNldna1BicFRJWXhzZF9Gcmg3SmdxaEx6NWlDZ9IBX0FVX3lxTE1VVGhLc18xSHlOM3dsbHhVNDY4dDNLTGRGQnl6S2hjUU1iRWUtRXdKNzF6ZmdWVzV0RC1jbnB1UUxPNlRYbEliSmE5aVhjN2NzUkJyajBOWkIzcWRwRGlr?oc=5"
         },
         {
-          "title": "‘박정희 자료관’이 뭐길래···195억 들여 또 짓고 매년 30억씩 지원하나",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5rZEN6OVM3dG50aUk2eFFBTHdvcFJlcjVmek1ua0NFMTVpY0p4ZXFoQVFVXzdEcUNnMnRFdzRQSndfLURvQTNSZkhOaVJsSU1jTW9mZFdCd2hzQdIBX0FVX3lxTE15OGRDVkl3RExBSEdEa0oyZlF0Rm1iTlBvc1g3WWdOXzRfV1M1eVYwMVZ1a0xDbjZzUVNicF9wbnJZb3ZJOFRtUzdDNkNoMGs4WWg2MVZxZGpUQ0NNdjZv?oc=5"
+          "title": "이 대통령 \"내국인 가정 역차별 안 돼\"...청와대도 적극 수습",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90RnNVSGdZR01iY2h1RDNtSGwza1ZDSEcwVXVDTjVBRkg3aWtMR2NHcjhaRk5hTE5Hc0hpVFBDM3JnTGVPOXF1WHpMUEhJdWVnczdJQnY0YUJ3QWF3aGc?oc=5"
+        }
+      ],
+      "metrics": {
+        "kind": "coverage",
+        "value": 5,
+        "unit": "개 매체 보도"
+      },
+      "engagement": 90,
+      "tone": {
+        "score": -33,
+        "label": "부정"
+      },
+      "id": "2026-10-30-korea",
+      "rank": 1
+    },
+    {
+      "category": "글로벌",
+      "categoryEn": "global",
+      "title": "미, 이란 공습 재개 임박했나···“미 중동지역 사령관, 백악관 찾아 트럼프에 직보”",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qTUZPNHhMejFTOUttTG40ZTBITXMydHk1NHFIQ3JQNmRfandxWFRYVWgtbWVCdFdPdXJST3o4YnhsSjJRamplN1hLYnlCNlNBdjFPbkdYYjAxUdIBX0FVX3lxTFBSdVhJNktENnkwdHo2ZW9jT1RKUTFfLW16SkJDWkgtaVdrdEVtZ3ZwLTd6M2ozbV8yeFRhS1BsWXVLdTJHMlNac0pWdU5vUTRGc2MyS1l0d2N5ZU5ROXpv?oc=5",
+      "source": "경향신문",
+      "related": [
+        {
+          "title": "미국 대이란 공격 재개 임박…긴장고조 속 극적인 협상판 열릴까",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlSkV1VmFEU09SWW9PU0ZSdFBvNUppbkJ3Rl9LSmNLS1NpVXNGY01JaUtkOEptV0lYczQ3M2g0SEZzUzJaYnhMZ2htSWk1QnFsU1dvOUNSZ2Z2X3fSAWBBVV95cUxNUHU2UXJFbjNtNDZrS0w0bWFySzJvbzZydFRhNnQyalYyQXcyUGIxM1BrMXdaQjkxc3NpV01YY29PSnB6bjZGTWtGSXVqdXFocmxKNzBsd2M5a3Z2Qm5BSnY?oc=5"
+        },
+        {
+          "title": "미 중간선거 D-5...트럼프, 이란 '물밑 교섭' 지시 [앵커리포트]",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrdmhKSUdiU2x2akVWbXM3NmFLYXc5TUQ5R0tqRTdaNFBjOWh2Sk8ycGV6RVdTeElKek9MclpsdXRKZHNObVdNbm9mMEt0OFUxR055OTIzWGZqOTNhMFE?oc=5"
+        },
+        {
+          "title": "[뉴욕유가] 이란에 서한 보낸 美 부통령…WTI 0.8%↓",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yQWVCN1EyOGhFYXpBeDNoV2RHcDdaRkd5MG1UMHBWdXU0TFpvUEE3SjlZVmpDNy1ydHJrWXJoUktLX1Z2Rkg1b1BMSF9DSElEQ2JndFlmNkxXaXlsS2Z4RGlpdXZDdTBNazhLTGxzcEE?oc=5"
+        },
+        {
+          "title": "밴스 미 부통령 협상 제안 상대는 이란 강경파 지도자",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BdWNjd1MxbmZSd21wS2daY19uMXRHLUpobVZSMjNuV1BnTUlDejdYU3dDRkhEVUtuMlJLamZXaGdPcDZfRkxfZHpRQnJ1Nlk3OFplMkFrX0pfXy0zc3BPYi1MN1LSAXhBVV95cUxNZkZuLUZhN05kY2JaeXl4VlBmcDE4dHhHMF9VdU5qLTkxMm9kS2gwUWk4c2V4UnVjeTB4Q1pHWTkzZm92YWlJWWduMTBPMGZncEdEZUpJTHlJaVhHVU9LeDV2MUttMXViVGZiQ3hXczVrRU5LemJuU20?oc=5"
         }
       ],
       "metrics": {
@@ -36,63 +73,43 @@
         "score": 0,
         "label": "중립"
       },
-      "id": "2026-10-29-korea",
-      "rank": 1
-    },
-    {
-      "category": "글로벌",
-      "categoryEn": "global",
-      "title": "\"美, 중간선거 후 이란 재공격 준비 통보\"…국제유가 3% 가까이 급등",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SbWpHN2p6eEcwUWJrRnNwOWFRcXhyMzBBcVM3OGFYSjZkRE5OMUVsZTdhR1MxRGtEUGJteGdDb1dNRm83aXc4OUtEV3MyNTNMU3JHSTVhd285dw?oc=5",
-      "source": "파이낸셜뉴스",
-      "related": [],
-      "metrics": {
-        "kind": "coverage",
-        "value": 1,
-        "unit": "개 매체 보도"
-      },
-      "engagement": 46,
-      "tone": {
-        "score": 0,
-        "label": "중립"
-      },
-      "id": "2026-10-29-global",
+      "id": "2026-10-30-global",
       "rank": 2
     },
     {
       "category": "테크",
       "categoryEn": "tech",
-      "title": "Apple's git still trusts the compromised eMudhra certificates",
-      "url": "https://emudhra.we-have-a-problem.com/apple.html",
-      "discussionUrl": "https://news.ycombinator.com/item?id=50271640",
+      "title": "Patrick Stewart has died",
+      "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+      "discussionUrl": "https://news.ycombinator.com/item?id=50294702",
       "source": "Hacker News",
       "related": [
         {
-          "title": "Why is this fingerprinting script creating bioweapons?",
-          "url": "https://nullpt.rs/fingerprinting-bioweapons"
+          "title": "We're releasing the weights of Mistral Large 4",
+          "url": "https://mistral.ai/news/mistral-large-4-oss/"
         },
         {
-          "title": "Gemini 4 Carbon",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/"
+          "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+          "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8"
         },
         {
-          "title": "Start Doing Graph Theory",
-          "url": "https://vertex.degree/"
+          "title": "DoorDash to acquire Instacart",
+          "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart"
         }
       ],
       "metrics": {
         "kind": "hn",
-        "score": 1043,
-        "comments": 378,
-        "value": 1043,
+        "score": 2434,
+        "comments": 505,
+        "value": 2434,
         "unit": "포인트"
       },
-      "engagement": 65,
+      "engagement": 71,
       "tone": {
-        "score": 0,
-        "label": "중립"
+        "score": -100,
+        "label": "부정"
       },
-      "id": "2026-10-29-tech",
+      "id": "2026-10-30-tech",
       "rank": 3
     }
   ]
