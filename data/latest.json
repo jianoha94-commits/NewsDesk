@@ -1,29 +1,29 @@
 {
-  "date": "2026-11-02",
-  "generatedAt": "2026-11-02T01:37:55.394Z",
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-03T03:32:00.236Z",
   "issues": [
     {
       "category": "국내",
       "categoryEn": "korea",
-      "title": "[속보] 이 대통령 “한국 경제 뚜렷한 V자 회복세…K자 성장 극복은 새 성장 공식으로”",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NYWFKZjFVM250YXhxY2RDb0RWLWVEemg2YXZnYWVoSGR4TEVsdHdaRFBMdmJyeHZBcFhzamZUSHlUNUIzaXRrUXN1b21JMkNmSGlnajd3UGRTd9IBX0FVX3lxTFBJbUR4Sno2V2VmR1NLM3RKLUtJOEY5R0ktVnRfUXVLNC1VUFF3U2Z6T0g2S2pSaXhCRzEtSzhnajhJYXEtVVE2SjhfdzAweEl0WFp5OTNLUEF3WS1OSEZV?oc=5",
-      "source": "경향신문",
+      "title": "[속보]외교부 “대통령 여권 재발급 조치…유출정보 확산은 확인 안돼”",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ndmwxeUthc1I3RVNtN1I0MnJacVdvLTdzTFlCNVZGNmZaMjV0bDJocjBiRjVxWWNIRWtiU19UaE5wcGRKcVV0MU1ybkJtdFY4cVZpZkFPZlphRGRFTzFEcF9aYzhtc05wMmpHUzRfanh3U1FjVkJn0gFmQVVfeXFMTmpCc1NFXzUxUDBHOEJyUDNYRUREbm1vdXFjNlJaVFZkcGZHOUYzV0thRVpNSHBPaldHMldUaWNCSW5jTHdld3MzR0N1MDNQN3doMmZNSXZXRHQwblQ3Q1VRLTNLbmVn?oc=5",
+      "source": "동아일보",
       "related": [
         {
-          "title": "이 대통령, 오늘 예산안 시정연설…역대 최대 821조원 직접 설득",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tMEFMNjJ2VUJCcU9fMV9FMkcwSWd5UXlaNFB5RjNXeUtGeHdBam5OT0ZFNTJOUTR2R2VIa0ZUeXU1OHdOeTZGLUJ2MGx2dVZMaTZLSA?oc=5"
+          "title": "[속보] 외교부 \"대통령 내외 포함한 모든 인사 여권 재발급 조치 진행\"",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUbENVbFdfei1nWFhaczlzQzdmVllqTmpzT2JrNWF2bUl1VFI1dXMybmNNRGlrczVjblQtWmUzV1BoN1lQRWJPeHlwbTE0N1JaRnJzSjkwS3ZBZEd2aEJvVHJHNDVLSXhTOFpNWmwySjY2Ujh6anVmS9IBeEFVX3lxTE5VLU1KdXoybmVBX2xDN1hDUDNKNjB3RFlhZjk2ZmkxN2laaUFMTFEyeDJTbzB5MWVMYl9icm9ZWlNHQjNYbWFvX3gtd1hqSVIxSjJsZ1VVNm83bF9wN19ZYnFvZmdMbWltSmVFak1pT200cVExbi03dA?oc=5"
         },
         {
-          "title": "[속보]李대통령 \"소수의 성장이 아닌 모두의 성장으로 대전환\"",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVGhZSzY5b2NCeTUzSWhyRXE1R29FQWZ1UHdhYVdjZDIwbXpGTjJ2WG1uYWFTZl9yWVRva2hfc3NCeFE3cVM4S09CRUQwSmJ2N1JNeC1tS2JTVGQ2aWxMRWFmbmhtZWdBU2pfN0xvYWhiWWFXeXZydk1RSi1xREFvUzBhSm5KLVhKczE4c2FHRG8?oc=5"
+          "title": "이재명 대통령 여권번호까지 유출…청와대 “중대 사안, 경위 철저 조사”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRbzRtQlZzb29wWUxJWlBJdnFQZi16VTBuUUlLSWcwY2pQRHQwcUN5OGsyVE5NUk16cTFqcGJkOFJsQkR4endKd2p4S3llbFRZVmpBM0xvMC1rbFE?oc=5"
         },
         {
-          "title": "개혁신당 \"세금으로 쓰는 무책임한 외상장부에 도장 안 찍어\"",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZdHFyRDdiU2Y2ZnY2cThvMmxQRmZJZjQwXzNVUXRqSGllbVNSWGliX2JzcTZWNUlnSUlRTklUMjdVVGkyVURYUEZRSmRfN1hiVmsxNTE5U29DaDTSAWBBVV95cUxQZXRZeExMelA1TU5KVEJ2bjNxeGNuc214Mm1Pay16XzJCUDZLSGVLNV9EV3hWWHV1U3BLSWU5b3BWQUV2MXJ1UkhXd3dYS3RKQTVvbHNfYVphYWp5WlIwWmw?oc=5"
+          "title": "외교부 \"대통령 내외 등 여권 재발급 조치…유출 경위 조사 중\"",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxYXZrWEhqejVmRlVqRnpvZVhMbmFQVjVnLTQtVzJkOWxhZzVYTzBkMVluekk3QmNfRVZiRlg2b0hlSVpOWjBFMnNLanpETHQxLVB3Sg?oc=5"
         },
         {
-          "title": "민주당, 국힘 ‘예산 삭감’ 주장에 “민생으로 맞대응”…“내일 또는 모레 의총서 신천지 보고”",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oS21oUXZUMVN4aC13OE1KS2U1eWlhVk8wQWthRVFyVUhhMXZUeGtIV1BXNVJNamZHdm8ybGlpVEVMeS1mODdEam9YWEtqWXZGNVo4MG9RTkRJdFE?oc=5"
+          "title": "외교부 현안 관련 브리핑",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51TjlqbTBmZjAtRDRSeXhnUXFVdUpWbG5KMU1QVHdmQWZHMnh6cjVnSi1PNWdGb1RJUjlxaWUyZkZ0T0FuQy1MN0xZU0ZxdzM0U2NEOUpRNVV5SVVHSWN1ZW03Z0ZlY3k0OW93NDV2SVZSR2JXSXc4?oc=5"
         }
       ],
       "metrics": {
@@ -33,71 +33,75 @@
       },
       "engagement": 90,
       "tone": {
-        "score": 100,
-        "label": "긍정"
+        "score": 0,
+        "label": "중립"
       },
-      "id": "2026-11-02-korea",
+      "id": "2026-11-03-korea",
       "rank": 1
     },
     {
       "category": "글로벌",
       "categoryEn": "global",
-      "title": "이란 \"호르무즈 해협서 유조선 2척 기뢰에 폭발…1척 화재\"",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDSHR3ajQ3R0VWMmUydXU5VEpTLUx4ajB6czduNDVrOVBGWHFPVDBweTd2UzU5T2J4QVlSR2RjQ3lvQnpGeHZDWXNhc2Uta2kxU3VBUlhLVmZKbFnSAWBBVV95cUxQeTBGSnpMWUNPam1LcTBtdkM1Q3VBX1pOTkpqbWdQV3NCV1JDa0M1YlYyeTRYR09SQ0ZyYnpzeFViV0xQaFpGRU43cHZQeGlUY2JxcUVmUnBHb2JyLVctbjI?oc=5",
-      "source": "연합뉴스",
+      "title": "트럼프, 선거 전날 ‘연못 공사’ 자랑 20분 뒤에야 “생애 가장 중요한 중간선거”",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16ZE41ZzlYZXB2dk9QWDVMWGZwOVVSa1ozOE9rQ1N0Y0tEWTI5WTlLMVBSQndLZlpxcnlNekRtUUFJM0l2c3p4VGpBSFN2UURFVFZxWWY3bHA4UXFIT2hWbWtHeXQ5c1h4WDQ5eXRZcw?oc=5",
+      "source": "한겨레",
       "related": [
         {
-          "title": "[속보] 이란IRGC ,호르무즈서 \"위반\"유조선들 2척 또 기뢰 충돌 폭발 주장",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBJMkZ3WmRYbWJuZHlNZndiSGkzVGtPNDVnNUd4V21vTmtnUlFjeV9USGYyY01waTFpanVyMy1FcnVzZmQwSXNNekNPT1FHeXVJZ0ZQZ1ExRFhfTEhfbUNpLU1HUjnSAXhBVV95cUxNOEtsRjhWeFZhcFpCV0RKWkVtcnJmWGhvZVFhRjNQcVdILXVIeUhLa0ZJdktZeGtjUmJfN2tueHhELVRjeml0bkEybmxmWTV2SXZnTjhEN2huZVU1Zjl5YU9JWVZEUVVTeW1rclEyYjhCa2s5VDJzUV8?oc=5"
+          "title": "중간선거 직전 트럼프 지지율 최저 수준···긍정 평가 32% 그쳐",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9INC1LbXBybjNWRHFiY0RuNjZWbExlR2Q2T1NaWk9uUnZJX2trNkdzQlNPNFhBcjZqWHozcFFYRklLd2xnUDRHMXdFUVJ0RlZGbklnRUJiTzN6Z9IBX0FVX3lxTFBzeGFHQW9KeEltRE5kUkRrVjUyRDIzbmd5RXRHUzN4WGowNUVIYWltQkVaMnhFRFhsSDBKYkpoVFdIbUdXajlWTHZHaUVOVEMwWW14dHFhbUNzZmNVUEg0?oc=5"
         },
         {
-          "title": "따개비처럼 선체에 붙인뒤 펑…이란, 7년만에 부착식 기뢰 공격",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pbmlVekZNVTR0R1hESlNzZ3o3ZmhUZm5FWk5PTmphWUxpSTUzWFBKMWhjUzRVTmRWbVJVQldoYnNLNkszSFpBR25mVHl1Tnh5dEVXcF9rcTUtdE3SAWBBVV95cUxOY3dRYnFMejJ3QzhHUXV5YXRZMWlhUDJwZ1hiTy1oMDJrcmN1ZHBIQjdvbTBRZWFZbU1OWDhiWW53T3gyanJnOEl2QlU3d0Y4ek1ORUt0SEM2LVNxcUhCWDk?oc=5"
+          "title": "다가온 결전의 날…한국 시각 오늘 밤 투표 개시",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHS1NabFhKVEF0d0pHM2JwNUZHeTN5ZmRoeEZVZGhOWGFCWTk1MzNYLUNienBLS3U5ajFLS2NEQ2xOSW1RRVdjb2FqS0h0T3U3bktzVXMtMzNLWmM?oc=5"
         },
         {
-          "title": "\"호르무즈 유조선에 2개 붙이더니\"…기관실 '쾅', 정체는?",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9INWZwb0lNRU1ERE9LVkgtWUxqTHpBQVQwcXdwM2RzbWozVWFQMGFkR2VqeVBUZDFHVzB0MjhGT0tVQm1TWjBZbjRzbGNKQVEzakJmWUZZMGxiX01ReXJvbw?oc=5"
+          "title": "오늘 미국 중간선거…민주, 상·하원 장악 가능성 주목",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3My1LeDl1SlZwOTdmbHQxMlFXdEk4cDRYS2I5ZXdDN1E1bTFMcXNmVi1ha1dmNGFsUzVKdzBxd3lEM2g1VDJURlZUbXpxQ2YzdURaRA?oc=5"
+        },
+        {
+          "title": "'트럼프 운명의 날' 美 중간선거…민주당 하원 탈환 유력",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43WFpxTzV6c25vWHdCaEJzbndhOGZjMEFob0xyNFhpN1JUMTJETGNsMXJyQWl5YU5ZQjFFRnhicEZhSmMtbWhKVG1xRmp4c0pQMjZVYzBTR3V3dw?oc=5"
         }
       ],
       "metrics": {
         "kind": "coverage",
-        "value": 4,
+        "value": 5,
         "unit": "개 매체 보도"
       },
-      "engagement": 79,
+      "engagement": 90,
       "tone": {
-        "score": -100,
-        "label": "부정"
+        "score": 0,
+        "label": "중립"
       },
-      "id": "2026-11-02-global",
+      "id": "2026-11-03-global",
       "rank": 2
     },
     {
       "category": "테크",
       "categoryEn": "tech",
-      "title": "HackerTube: YouTube built from videos recommended by HN",
-      "url": "https://karpathy.bearblog.dev/hacker-tube/",
-      "discussionUrl": "https://news.ycombinator.com/item?id=50319510",
+      "title": "Astra can read and write weights to improve Qwen",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "discussionUrl": "https://news.ycombinator.com/item?id=50341174",
       "source": "Hacker News",
       "related": [
         {
-          "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-          "url": "https://hackerbooks.org"
+          "title": "WTF Ubuntu?",
+          "url": "https://chalmovsky.com/posts/wtf-ubuntu"
         },
         {
-          "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-          "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/"
+          "title": "Show HN: Subvocal – Talk to your computer without making noise",
+          "url": "https://news.ycombinator.com/item?id=50340088"
         },
         {
-          "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
-          "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/"
+          "title": "If you love a website, back it up",
+          "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/"
         }
       ],
       "metrics": {
         "kind": "hn",
-        "score": 2283,
-        "comments": 540,
-        "value": 2283,
+        "score": 2088,
+        "comments": 676,
+        "value": 2088,
         "unit": "포인트"
       },
       "engagement": 71,
@@ -105,7 +109,7 @@
         "score": 0,
         "label": "중립"
       },
-      "id": "2026-11-02-tech",
+      "id": "2026-11-03-tech",
       "rank": 3
     }
   ]
