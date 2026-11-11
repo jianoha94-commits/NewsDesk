@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-11",
+  "generatedAt": "2026-11-11T02:01:10.660Z",
+  "issues": [
+    {
+      "category": "국내",
+      "categoryEn": "korea",
+      "title": "출근길 차량 32대 연쇄 추돌에 아수라장...버스기사 \"제동 안 돼\"",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zX19jWEFEbDJmMFZiTTlvS3JGeFN1V2dDTkpuSGk2OXlwSGhFd2Z5NXZEd0Fla0d5VDBzc3JfSndwY24xcUg2R0hzRG1DMDlTcEIxRkJDU1B6OURjeDdicDVn?oc=5",
+      "source": "KBC광주방송",
+      "related": [
+        {
+          "title": "경기 성남 분당서 버스가 차량 16대 연쇄 추돌‥최소 34명 부상",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03RlNKS2p5ekJWN1FlS1hVam9EdGhjOW9HSlhQNGIyREdPN3ZCbFRGNkdELWp0MDVaOEkxZGNpQmN5aUJUY0E0ekZEeWgtVXNnWFk5Z1RSbnk3cktfVlNhcDdlVDVyV3RFWlJVV2xaLW9Hal9fUks40gF3QVVfeXFMTXdQQ1c1VXU0bjcwWTNyZm9hRlRvNUpBS0taeUdTc2RySkU3X1hRUUdJWWZzeWxKUkFqODdGZXgydFlranJOZDRvX0xNOV96Sm8zZElaQWdxQ29RRWRZM0RrNUVkMnZ4dWxHSWM5VEhpOHNXOURxeEU?oc=5"
+        },
+        {
+          "title": "속보 소방 \"성남 연쇄 추돌 사고로 중상 9명·경상 48명\"",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16Ykg0R0RiTVJyR1RreFlTUDN2N29yaEVvckVnOW5EeGdJOWZCblFYRXpKSk1zT29jbUNfVVNSRzRISV9uRkRSM3VUZTg2WFRKajhHMEM3WTZhWXpUbnc?oc=5"
+        },
+        {
+          "title": "성남 야탑동서 17중 추돌사고…다수 부상자 예상",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xeFl3TzFKbUFEYjZZdU0yLW5KMmlXNVBTS3RndFdyX0ZFQlVNUkJwZ2FNRXFqWTQyb3dhYW5JQWVnTEJxWEhMbWRvWVMxY2RuWUJ4VDlfdEJYV2Y0OXYzekRCVkVMOUpyOVQtQ214Qko?oc=5"
+        },
+        {
+          "title": "[속보]분당서 출근길 시내버스가 차량 10여대 연쇄 추돌…30여명 중·경상",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOUllMalhUa3hMdkdHdVl0YUZEY2MwVF95OThmYi02V2lkaGJDVXVRSDNiM05fV3ZUSW9JLVJKNkppcXVmcm1QQm5SX0FxT09Z?oc=5"
+        }
+      ],
+      "metrics": {
+        "kind": "coverage",
+        "value": 5,
+        "unit": "개 매체 보도"
+      },
+      "engagement": 90,
+      "tone": {
+        "score": -100,
+        "label": "부정"
+      },
+      "id": "2026-11-11-korea",
+      "rank": 1
+    },
+    {
+      "category": "글로벌",
+      "categoryEn": "global",
+      "title": "[속보] 美 10월 CPI 전월보다 0.4%↑…핵심 CPI는 0.3% 상승",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnUFBXc2xpSHJJQWYwM2ZiOU9od18zbjRMeFg1MjJEX0hWcTNtWVBEV3AzUVhOR2NSX05LUXl4Tlk4QjI4ZWRqb0tjeEkza2JWSEtJMkxyLS14Zw?oc=5",
+      "source": "한국경제",
+      "related": [
+        {
+          "title": "[속보]이틀간 10% 급락 엔비디아…나스닥 0.74%↓",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ycDJwNnlKTjgtTjRQQTBFM09iMkNUTkJ6cFR6dWs2bWpxRmZkTE1iblUtaVNLYXBGMU5fZC1jMkpPeXBVcU0wMm5RMUlNXzl6?oc=5"
+        },
+        {
+          "title": "월가 전문가 \"연준 50bp 인상은 비현실적\"",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tTzUzbW9peW5FQW1reHl3dmNpN05xNE85SnprcldMYk1vSG44WTRJX0w1X2l3eFJqSVVoaWd6WTdLOEU2NmpqR2FDemNlOWVlTW5JODZ2YXRGZGI4YVdDWXdTa3BDZE9zby1nRERYdlA?oc=5"
+        },
+        {
+          "title": "미 소비자물가 한달 새 0.4% 상승···다음달 금리 인상 가능성 커졌다",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RaVQ1ZXlHeDZkVjRnUHl6QTlIcXpwclRwcW1lSjRBbmVvOW1GZ1BReXRDVHNUdEt2dmNRaUVLQU9tVXFfMXZDZms0OFBaOGlKc0x4M0dJWDZHUdIBX0FVX3lxTE9CWlZXb3YxazV2NlRuWlgyaVppYVhBQTNJOUp3bnFGS1Qxby1UVUQzX19sbnRYbzBnN041NVJnOW1qNVZub1p5MDM1aWY4N3pNdklJZzZwLTBvcVBURk8w?oc=5"
+        },
+        {
+          "title": "[뉴욕 인사이트] 예상 웃돈 CPI·국채금리 급등에 기술주 약세… 나스닥 0.7% 하락 마감 (영상)",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEcDBuZGp0RVJSV3BDQTJLYjRMYkpKREhaZU9kbmczdDM3MlFXTTdQeDZCdm9HWlYxNTdfV0tjRWp4LVkxZWlaNHNRNlBqNVpwUkxtUk5vNXZyNVlxOGR2Nw?oc=5"
+        }
+      ],
+      "metrics": {
+        "kind": "coverage",
+        "value": 5,
+        "unit": "개 매체 보도"
+      },
+      "engagement": 90,
+      "tone": {
+        "score": 0,
+        "label": "중립"
+      },
+      "id": "2026-11-11-global",
+      "rank": 2
+    },
+    {
+      "category": "테크",
+      "categoryEn": "tech",
+      "title": "Smart home devices should work without the internet",
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "discussionUrl": "https://news.ycombinator.com/item?id=50441707",
+      "source": "Hacker News",
+      "related": [
+        {
+          "title": ".name Grandfathered",
+          "url": "https://neil.fraser.name/news/2026/11/10/"
+        },
+        {
+          "title": "AlphaProof Code",
+          "url": "https://deepmind.google/blog/introducing-alphaproof-code/"
+        },
+        {
+          "title": "Blender 5.3 released with Gaussian Splat support",
+          "url": "https://www.blender.org/download/releases/5-3/"
+        }
+      ],
+      "metrics": {
+        "kind": "hn",
+        "score": 713,
+        "comments": 253,
+        "value": 713,
+        "unit": "포인트"
+      },
+      "engagement": 62,
+      "tone": {
+        "score": 0,
+        "label": "중립"
+      },
+      "id": "2026-11-11-tech",
+      "rank": 3
+    }
+  ]
+}
