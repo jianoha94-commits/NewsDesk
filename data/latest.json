@@ -1,66 +1,29 @@
 {
-  "date": "2026-11-13",
-  "generatedAt": "2026-11-13T02:43:14.317Z",
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T02:31:51.171Z",
   "issues": [
     {
       "category": "국내",
       "categoryEn": "korea",
-      "title": "’AI 안경 의혹’ 리트 첫 만점자…“수능 국어 라이브로 풀겠다“",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IMm95ZTFHdVk3WS1VM29Wd1hpdVdXTng2MjBoeW9xMWhDWnlnaVI3X3lZQ1ZPSzg3TFlIMTVPTEI2bHQyX3puYnhzd3UybG12bERQVWlPaURDLUY1R1pqelZwYnNkQWs?oc=5",
-      "source": "연합뉴스TV",
+      "title": "\"스마트안경 못 잡은거 아니야?\" 다른 자격시험까지 번진 불신",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRG5OSVRiQUM0blhHQzdDS25XVjh3UFAxTng4dGJmNm84V2k0TThORUVzQlA1VklaU3JKbFZoeTRNcmJEeGFWMzRHN2MtbHBHVXFsODZRV3VJRjVEengwdTNQbkRGQUdBTkQ1anNOWVd1QTgwRkRRM1IzTXVpME11bWJHUGs3d2tlUXJsZmMtMnU?oc=5",
+      "source": "조선일보",
       "related": [
         {
-          "title": "‘AI 안경 의혹’ 세무사 수석, 감독관 바로 앞에서 시험…“특이사항 없어”",
+          "title": "‘AI 안경 의혹’ 세무사 수석 합격자, CCTV는 없었지만 감독관 바로 앞에서 시험",
           "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBneTVWZVd2bE9vMGxHUjZJZnZmNGRiM2hvUFM2QTRFU21taTBQQm5ZcHM2ZURMRUJFeDI3WF8tRlFTU19nVUl5R19HZVRUZlkteUIxWmk5MHIxUdIBX0FVX3lxTFBNU1YyX1N5dEdZN2JKOVhCMWZHQXJMTkJ4ams1SV8zR3JBekhmMWZRNjF3ZVpEazU0c3ZOX0NvSjNaV1pXNDloYm1GdmZMOGpQbm16WXdOdV9vdVBYbzNJ?oc=5"
         },
         {
-          "title": "“너도 AI 안경?” 의심에 리트 만점자 “수능 국어 생중계 풀이”",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvWmRfdFY1VGlLeTVpWEJpQm1EMFAzMTNXYk1xWmVISjY1Y1ZOZk8zSFJJUHhrc3pXelVmUGtKX1JGX1pOelFwZGZab0tQdjQ5cmpTeEVMd0F1VGxYV2dsNDNDZFJkdlFXaF9TVXFucVYzUQ?oc=5"
+          "title": "세무사 수석 합격자…\"AI 안경 논란 말도 안 되는 얘기\" - 머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPODYxS191NEU3S0t3cTFlWWJjYzhRNGotcEdKTVhNeGNoNTVvMDV2em8xOEhvRG8xVWFCYnloVU9KXzZGSlBobldUcm9kdzktbFhwZGNkLXBSVVRDWjRTcVNjaDJuV3F1d2tZ0gFwQVVfeXFMUDktcmpERkRiUU5lZzROTVdwbUJ5VEdmVm93QjR0WERtM1hHTm1memZVQlZkaHdYUDNlQ0QySm5ibnBoZHNtRjVEblpQR0J1RlRqRWsyMTMwZU9ITm9GOW5XbnNCM0lQY1E3aXNxM3JvNQ?oc=5"
         },
         {
           "title": "63회 세무사시험 수석 한원석씨 “매일 새벽 2시30분 싸주신 김밥...어머니가 합격 시켰다”",
           "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01Mkg2a3pMSGxvQkx2ZVByLVgzTzQtQlFhUGNxdW1WWUhTU3lLcE5laUpEZkdOWWlSNkFyOWNyRmpUZThhZFJBVEdKRFJ0cDdKNVRtZ0hsX1o2YzFUTnVHYVY3alFLNi10c0E?oc=5"
         },
         {
-          "title": "\"세무사 수석 책은 멀쩡, 차석 책은 너덜\"…합격자 교재 비교 '시끌'",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYQjFORUhoR3lYdmdiVFkyeGExY1FjVmVvUjVDem05RjVHaXZmU3RlTW9wbFpnTkZ4MkJlV0YxaHk4a1E2b2FPb1R5Q015V2E5MWNZanN3a3p3Q1ZzMDBEX3ln?oc=5"
-        }
-      ],
-      "metrics": {
-        "kind": "coverage",
-        "value": 5,
-        "unit": "개 매체 보도"
-      },
-      "engagement": 90,
-      "tone": {
-        "score": 0,
-        "label": "중립"
-      },
-      "id": "2026-11-13-korea",
-      "rank": 1
-    },
-    {
-      "category": "글로벌",
-      "categoryEn": "global",
-      "title": "우크라, 발트해서 러 군함 공격…전례없는 사태에 확전 우려",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fUVJ2YUcxYXBEUTIxV2VSZEtsTjM1X3BJb0lSUDRMV21FWmxpRVZpTmJITE5HZmtKck0xR3I4Y3REWERFODc1dmFscnEyYm42MUs4bWpsVThGelHSAWBBVV95cUxPb1RIelJYZ1VzdFZQQnZiMmU1ODhyVjE0Wno5UF9BUmx3cXpCQ1g5VHg0UjhPVGtScHZHejkwNlhBZGxiWDl4Vm9zYk9Tb2pKU2hfN0ZQbm5yOGRqOXN2a0E?oc=5",
-      "source": "연합뉴스",
-      "related": [
-        {
-          "title": "드론 발사 준비하는 우크라이나 군인들",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDUkNKemI4eEdiSkpUeU5ZSFhiYThDTU1wQklHcEpGQlBhQXhIRG9XeW5ORWhNZ3RISnF4cTlNVjEyei1pb0xPSWRiRkpGdWdQM2VPRDhPSDVreXFPSFpNbEJJOWd0UQ?oc=5"
-        },
-        {
-          "title": "\"우크라 드론 대응 중 러 헬기 최대 3대 손실·승무원 7명 사망\"",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zVHJKem53OXdnWVRXLTRteUhmOFRQQkV6eDFlZkpLV1RKUzJCN0NmTi1jdk1OVmhScGVOMEh5dG9TQUhiWEpZMVU4NWRyQnVhOWlF?oc=5"
-        },
-        {
-          "title": "우크라, 드론 공격 강화…“러 정유능력 30% 타격”",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tSHRsbHQ4YWd6RFA0ZEdyV29KQmpwYTR5UDYxZ3JBZU5lLU9CUDNaYVlXTVptbHRzTFllU25GZGltWUpoNXFxRFdJaC1fMWlDNnFtY0pibXlFQjA?oc=5"
-        },
-        {
-          "title": "러, 우크라 공습에 정제능력 최대 35% 가동 중단…배급제도 시행",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBQZnBNczBYbVdiTXlJZm5aN2l3cTNHanhHbzdaOXREMEhlWUtqQnRGZlRkYjRJVF84cDY0LWJEMzRkdkVwbWFPcWRDckJsZDjSAVNBVV95cUxNbkU5UkZLMTRFbGZ1VUplRVdQSlM1dkxIZEFEOTFZamRtUFhpdldMcjI1TUpHNWJPOEVCX0hKZ0N3dnhmVVk4YU1aeE8yVFp3LWJnVQ?oc=5"
+          "title": "‘AI 안경 의혹’ 일파만파에…세무사 수석, 변호사 선임",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1rX3NjZjhERFNHRWZ1UDZmZ3p5dUdwNjlxWUY0dld6dUM3VEoxOWtjd2xZMURUV1otTzVmeVNiYURtcnRUU0FlRzZ0VjUtYjBZSHoweVMyNDdXRVpnVnJwSEgwVnBJOGFHblE5ZHZTWEJmMk5DZ0HSAWZBVV95cUxOMUZocm1YeDVHVUJ1cUhfU1psS1YwUmRlbE5EalJEZkloZEIzeENQRE1Vd0k2VWtVWk9vY0dQVlVmRkhIMjNfZGF0UFBJTVh3djd0NUs1SEViSUFRWVQ4Q1E4VENGakE?oc=5"
         }
       ],
       "metrics": {
@@ -73,43 +36,80 @@
         "score": -100,
         "label": "부정"
       },
-      "id": "2026-11-13-global",
+      "id": "2026-11-14-korea",
+      "rank": 1
+    },
+    {
+      "category": "글로벌",
+      "categoryEn": "global",
+      "title": "EU \"우크라 종전협상에 독일 등 5개국·EU가 유럽 대표로 참여\"",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mTHAtZGZJZ0lydHM0dFlVTEphM1lDWENycldXYVNEZkxZX2J0X2JjVG5qcWRmVlNSUHpkbE1henZaOFJMZlZFa2JCR25rejVhRGpDQXYycmhSUDDSAWBBVV95cUxPM3l6ckhQeTFIOUhhSHFLVVIwb19qSkJRWnRJTjdDZzBLeTJRQUxfdkhFUXpRTjJzZFpxbEV0anJpYVp3eGRhYTk2OGpySFZQSWExS3FOeEhFNFB6UzEwdlE?oc=5",
+      "source": "연합뉴스",
+      "related": [
+        {
+          "title": "EU “우크라이나 종전협상에 독일 등 5개국·EU가 유럽 대표로 참여”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1la3gxclhPVHB0eE1EZVhXN0ZxdHJPbmNPVm1ycFF5RW04RTd0RXFtVjNia2xZWF85U09rZ1N3TzZlaE5sM0dRalFjdWlJdER3aUdGeHBMbndqRjQ?oc=5"
+        },
+        {
+          "title": "평화 협상서 물러서지 않는 푸틴···영토 요구 고수·평화유지군 배치 거부",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BVFpOb3ZZNnp3NUFMU01Ham4wUzFzakRaZlhwZXk5clhQUk1RS3ZlWWRvVGFua21mSkVISUVrWFJxejd6dnM2RTdzMWNrWTlGWXNWUjlnSU1zd9IBX0FVX3lxTFAtUW5NdUxFRHNtQXNoWGRNQTBFR0JLQl9QT0ZqcVozSmRuVU5pa1QwbEs4S0x5OW5DVDlFYWRKU0ViekRwOE9XVExPdnVKWFJaejhCUUFiVC1wYU5SZFIw?oc=5"
+        },
+        {
+          "title": "러시아 \"유럽 평화 의지 확인돼야 종전협상 참여 가능\"",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zOVM3NnRhdlZnaGRoeGlyRUMzTGZEWVFhSW95aWFfWU9xWjhveTAwTUJqNUotN3lkOHBCSlZxNWUyd0tNZ0lrTVdlbXR2Y29HdVQyUWV6VXJiaUxZdHNMY0Z3cTd3TVR3N2J6STNnQ0ZDT1pK0gF0QVVfeXFMUExMcmlqVGtDZ2VsYkotRFJPZjd1cWZmSmpPM19DaVBuclNSU3g1ckNwbjRQcHBOY1FncWNTRXNOSGpaREF0aWRBTjFwY1plcTRPZVdqdEl6UWxjWjYyOTFaOG5rQmgyajZRMm4zNUsySHFzSVg?oc=5"
+        },
+        {
+          "title": "러 \"유럽, 우크라 협상 참여하려면 먼저 대표부터 정하고 푸틴 승인 받아야\"",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4ybnVPbGhGS0dqY1hoSnZqV043Y01QYThDTDR1M2p2NDRnX3JjVkJvamxSYkU0am5DNXlhYzFEbFdOYmpYVXJ1S3NEMzI5VFZ5V1pOeThXSzNTYmpq?oc=5"
+        }
+      ],
+      "metrics": {
+        "kind": "coverage",
+        "value": 5,
+        "unit": "개 매체 보도"
+      },
+      "engagement": 90,
+      "tone": {
+        "score": 0,
+        "label": "중립"
+      },
+      "id": "2026-11-14-global",
       "rank": 2
     },
     {
       "category": "테크",
       "categoryEn": "tech",
-      "title": "Jensen Huang resigns",
-      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-      "discussionUrl": "https://news.ycombinator.com/item?id=50467087",
+      "title": "FAA issues national ground stop",
+      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "discussionUrl": "https://news.ycombinator.com/item?id=50489641",
       "source": "Hacker News",
       "related": [
         {
-          "title": "Anthropic IPO",
-          "url": "https://ipo.anthropic.com/us/"
+          "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+          "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/"
         },
         {
-          "title": "Service degradation on Microsoft 365",
-          "url": "https://status.cloud.microsoft/"
+          "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+          "url": "https://www.science.org/doi/10.1126/science.132.3436.1291"
         },
         {
-          "title": "Gemini 4 Hydrogen",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/"
+          "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+          "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths"
         }
       ],
       "metrics": {
         "kind": "hn",
-        "score": 3029,
-        "comments": 2836,
-        "value": 3029,
+        "score": 1343,
+        "comments": 827,
+        "value": 1343,
         "unit": "포인트"
       },
-      "engagement": 79,
+      "engagement": 70,
       "tone": {
         "score": 0,
         "label": "중립"
       },
-      "id": "2026-11-13-tech",
+      "id": "2026-11-14-tech",
       "rank": 3
     }
   ]
