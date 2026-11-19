@@ -1,29 +1,29 @@
 {
-  "date": "2026-11-18",
-  "generatedAt": "2026-11-18T03:45:13.612Z",
+  "date": "2026-11-19",
+  "generatedAt": "2026-11-19T03:42:48.822Z",
   "issues": [
     {
       "category": "국내",
       "categoryEn": "korea",
-      "title": "[속보] ‘삐~’ 수능 중에도 울린다…정부, 위급재난문자 불시 발송 방침",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SLWVpanJqTHIxb0VlNHVGNmNHeFFPSFJWNDRJcVFyS2tMazNrekRydi1OSXQzYkxHOU8tNklMdGo3RTN2UGJycU9DVzRGdVpyY2swTGZyd25HN1E?oc=5",
-      "source": "경기일보",
+      "title": "단추 없는 집업, 얇은 안경…‘AI 커닝’ 논란에 더 분주한 수능 아침",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFZlpvc2g1ekN6VGNhdW1yc2ZaZnNQak9FSElGQm9DQmJvZ0NKX2RFa1FWQll1X05UbmxtSE9fQjN5VXpaZ19PLXZaSmo1WHZ2RTBsOGI0SWRCNTRrQ293Tlh1UUtLSmJ4SHpjWk12Q0p4UQ?oc=5",
+      "source": "한겨레",
       "related": [
         {
-          "title": "[단독] '세무사 시험 AI 부정행위' 한 씨, 수정테이프에 초소형 카메라 부착해 사용",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54bTNhdFc3M1RINHVKa0dKMEk5QXlJNVprRDZUcGc3aDJUOU5YQW15dldIVnp4aTdrRkNpUWh0WXF3eG02Uk51R0VxZF92OFBCLVlUOUpvUmZZSV9XOW1uUFlGem1uOTU0VmswcmVxbUFtLTdneDR30gF3QVVfeXFMUEdnWEJmMHNyOXZGakk5ZU12czl0M1RDc3JmSF94OFotRWtwdVdXVUs2b2dLaW1BOUU2VWhfY3NMb3dMa1N5SzFHUWpacW92YjVmSWdXMnRrT2t2OXE4YXV0Umd0cWNfNXhUOHhmX1pyb2VfUHZwOVE?oc=5"
+          "title": "[단독] \"세무사 수석도 우리 작품\"‥중국어 텔레그램 등 3건 경찰 수사 의뢰",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9IYU9NMDhUVm1XR3NBUU9paWItQ0Nkc0M4QzRLZDhVZ1l1Ym5ldnhTQWxXMTFRbWFaelVwVHZlZEdtZVBDWVdST0EzSlR1VnI1ZWt4dnI1ZUtHQkdDeW5yNjliOVhDTDFRT2ZYX280RmRjdnZxWG1v0gF3QVVfeXFMTU5sMHNteUl2amt6YjNLa1F3NlhSVmJUZG5YVV9JQnJnRzN3SUNwSl9Ba1NPZ2hXcURZMFBIYkVrRG10eGpZR2xUX1VOdnZFNjVVY2E2WlQ4X0k1dS1xOU9lWjFTQ2txYVpqcktPM3BIZnhiS1hLcVU?oc=5"
         },
         {
-          "title": "커닝 잡는 AI, 억울한 의심도 막아야…수능 활용 조건은",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpODRDMGJ6d0pRemlPNzdhMEk0RHlHVjV4OWhSSjdEd3p6LXN2ZHdXV2ZKdEdHZFhfNEZyVUFuOFFpVnpmVG5RWTNvVkM0MTZjX2Z6M0NR?oc=5"
+          "title": "수능 부정행위 22건 적발...\"위급재난문자로 확인\"",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE51TFpGcWZqRDVZeE9tQmRLY0RtQ3pZT2twelowT0x6OGpmY25acTJrLU9LNU91QXlJZGxTTngwYnN5OHNTbG53d3VUQ2x2U2J5elNPSzJwc3NscW81VkxiZktpYmFhWDJ1X3hoUU5uWQ?oc=5"
         },
         {
-          "title": "경찰 \"부정행위 신고 14건 접수...8건 수사 중\"",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jVVRwYXZSWWlJRnFlTEZyZHByOGp4bDFLUDV2czJ0UFNybmFLV2h4WFlBU0pSTXc1bFB1cE03ekdOcTNEZ3o4Qmp4d1kwTDJlb25EbHdxcHQ4TElpVlY1NW9BVXJReGNxV3loWFhFMnI3OHd3UWc?oc=5"
+          "title": "교육부 “재난문자에 스마트폰 22대 적발…AI 기기 적발, 시험 지연 없어”",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wWmE1RUlBZVZZTlBMd0RUTHl3aGFYbHZhVVJUdmNUSDZ0WkFvWXZzZ2k5YjYxVkxJc1c2aFItYkRxMVY2ZC0yV1JtTUcxbGloaWduRkJDdkg4cktLd3B5OXR4NWpxQWVaeFhjZkVIeUxlb2d3bHc?oc=5"
         },
         {
-          "title": "나경원 \"부정행위 1억 포상? 이준석 앱, 전문가 대책을 적극 검토하라\" - 머니투데이",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9udGtSV0FTUkh2cFJTNTlYU19pMU9laDZXRVdNNnhxd1lETHBONkg2U0FGYXg0MjBGb2szdTdiakdTc2NtWkM5V0J5bUVLN1RFV21fUEJYYUVVZHlWTHFfb2R3VXR4dVlhdmxSN9IBckFVX3lxTE5DRTdfTWd3NnlQMjVvUUhHcjg1TFN2VHlNM0FxY2VPX0QzNUpsVlpMMS1xRVNtOF92UU5lM2ktNmpPdE1Pdl9rRERuWEdjLUhJM0QtaGVoWUg0dHJSa1pOX3FqNmhHMmJYNERMTU5feC12QQ?oc=5"
+          "title": "이 대통령 \"수능 문제지 AI 업로드 전수조사…부정행위 철저히 엄단\"",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsbjY0V09Sc2JpV25qbmU5TVpQT1pNYmlNMWZpNkkzbVZwS2xOcHZMdENUbnQtNEU3T3RQQ2txTlFWdlhPcWNaa09wS2sxc2xMb0JmX1hMUnpLSkV4UXN3blhwRU5BX3ItUVVpSA?oc=5"
         }
       ],
       "metrics": {
@@ -33,34 +33,34 @@
       },
       "engagement": 90,
       "tone": {
-        "score": 0,
-        "label": "중립"
+        "score": -100,
+        "label": "부정"
       },
-      "id": "2026-11-18-korea",
+      "id": "2026-11-19-korea",
       "rank": 1
     },
     {
       "category": "글로벌",
       "categoryEn": "global",
-      "title": "아세안 정상회의 폐막…트럼프, 쿼드·아세안 정상들과 회동(종합2보)",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9VTm1mSHgyblJMUXVNdzNkUmEyS2Q0ODVZSnJiVDF5OGd0dzZLd056eVRubm5BRVB5WFFweEdXbllIdWxGRXZfekdsVHJUUDVDalIxdk0xODF6dGvSAWBBVV95cUxQZ2lLNEhuNWVUN2JsNnI4VWpPemViN1NWOGRMS3Y1YnRwTUJnblNkY3VsLU1hV2ZvQ2JrWk02SjRzaUNOU1NEZHRUR1hNRjVEY0RpYzVkeHFHS3hydTY2Mlo?oc=5",
+      "title": "中, APEC 만찬에 바닷가재·생선찜 등 광둥요리와 중국산 와인",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRZ2xUSFd1LVh4Q0stNkhHNXJaeUgyR1d2UFVYWmFkMXpRRGFJSGtDV1BnN3kxXzNEaTd4cUY4WlJwcW5Wb2J1S0JfdzA4RG9HWTN3TUdOQUs5VmfSAWBBVV95cUxPYWNHckl5S1dxZU9aWG93ZFU5MW5qamZtV0JLOHJ1Y09JaEw1enlCWHR4R1dpVzdPbnExUDVaSlRXYWNYT2k4QTFSYkgtUEpQcDRxcmFSZHJfbFZqeGxMbXY?oc=5",
       "source": "연합뉴스",
       "related": [
         {
-          "title": "2년 만에 모인 쿼드… 트럼프 \"4국 관계 탁월, 다카이치는 터프한 분\"",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWWRVVi1ZVDA4Rks1dUlwdHl4aktsaUI2UmRUT3drMlZFWEZ3M21jSEViV3hyUEJPY29JT2IxWHlLSXNHWnVLb0VFbE1NTjA3UENGT3pBT2F3VHBmb3N1LU1kQVpGT0RMMXFWRHh6US1LZWFEZ2ZtOE56Ym9qa1FBM1pJRDE?oc=5"
+          "title": "트럼프 손짓에도 푸틴 떼냈다 …APEC 사진서 드러난 시진핑 계산법",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9uSVVXc3U3ZWQ3WGg0NGI4VFdQUjNSQ05kWjhYXzZwLV8za1FyUS1XZmhPZG5FeHpjVHI0czFXemU4azdpMmFTWnlQd3EtekYtU1E2ZEFn?oc=5"
         },
         {
-          "title": "日총리, 쿼드서 북한 비핵화·납북자 문제 강조…공동 의제엔 빠져",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9DRDZzTXRXRUs2ZmRodUpselllNE8wVndfeTN5b1dVZDhUWllkOTZHb1hMUEFlQUloMGlrQnlOWlVtdTdqb2dfbjdFdk54MzJ0QldRay1MNnVfSkowbjl2TzVFb0bSAXhBVV95cUxQaGVBREM4TG92b2lWc3V1cjRSbnpZR3VqeDBXZm1xRk5zZ1BvN3NVeml6U1AwN0c1UVJVYS1ONC1WN0dlVmFJMzFhRDhWNnh2OER5STlTc3k0YTNsc1VqZmJ6Z3JPV3lyRkYwTzc4NG1ZRXpuS2RmUkg?oc=5"
+          "title": "시진핑 \"아태 투자 장벽 낮춰야…AI·데이터 협력 강화\"",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPcVRHMVZ0ZU5LbnpzdVpvZ09uWmgwV3l4UFpmZ0c1M00tM3pDYW1DMXA3MnNkWktDWVA4dHpFSm5zd3JOTmpxRUItajhiZjNueXlOX0tHYmhKQTFSQzR3NFR0QmlMdzA?oc=5"
         },
         {
-          "title": "아세안, 한일 등 정상과 중동전쟁발 위기대응·경제회복력 논의",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xSjhoclc2VDZmOVc4b0VHdG1XS0EyaHlNNDVIY0huU0JSaTktRUFVX29oeFp6dEdWTUlKcnFtZUVBelVtM29JZGhHT3J2T2RoSXotREFvY3dvRjDSAWBBVV95cUxNOGt5OWRhRFdTX0ZJS3hiSm01NEVqMVo5cnVHT19weklPTnZieEFBNENCMXVkeVNvZXB1Y0pOSEY4MlA4bENZZ3hrYWZGT3hid3otZ09oTGdvMnMtUVJ1YWo?oc=5"
+          "title": "중국, APEC 만찬에 광둥요리와 중국산 와인 선보여",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ydTU1YW5uMHN5S213MlhpQjVOS0ZxY2hfeHVxcHB3QkpEeUQwVG9kSENCZDZCVmJCcHFUSjRNWGk3Z2NwNjc0SkV3OERvS1BldTkxTFBGRHBUSjA?oc=5"
         },
         {
-          "title": "쿼드 정상회의서 중국 겨냥…“군사·경제적 강압 우려”",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xRWEwUDdQOU9rWmlsaXJjTDVxSV9VMlpfUjA5cDdfUS1XZTVBdmtKbzJNdXZqdE1XN0NRYWUtckJodUh4OG1RWnE3ZnFBZy05QUpibW9Ka1pBNDA?oc=5"
+          "title": "조금 뒤 APEC 정상회의 본회의...한반도 문제 논의 관심",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9waVZEMHZjZWxBNmpWYk14NExsb1VXbjZMNVBzUkg1aXd2V01jQWZ1RjZlaFFvOVFlR0Y5WndlcmZtSUR0X0w3NTF0SjBGQzRseEJvdHh4QnhwbVY0bjZpcHZ6NFU4bTZpcUpjSkFzWQ?oc=5"
         }
       ],
       "metrics": {
@@ -70,46 +70,46 @@
       },
       "engagement": 90,
       "tone": {
-        "score": -20,
+        "score": 0,
         "label": "중립"
       },
-      "id": "2026-11-18-global",
+      "id": "2026-11-19-global",
       "rank": 2
     },
     {
       "category": "테크",
       "categoryEn": "tech",
-      "title": "GPT‑6.2 Astra and Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
-      "discussionUrl": "https://news.ycombinator.com/item?id=50535230",
+      "title": "Unauthenticated remote code execution in Nginx",
+      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+      "discussionUrl": "https://news.ycombinator.com/item?id=50547374",
       "source": "Hacker News",
       "related": [
         {
-          "title": "Apple Services Down",
-          "url": "https://developer.apple.com/system-status/"
+          "title": "DNS resolvers are the wrong place to fight piracy",
+          "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/"
         },
         {
-          "title": "Java4Shell: RCE in OpenJDK when processing Base64",
-          "url": "https://calif.io/java4shell/"
+          "title": "Inside Deutsche Bank",
+          "url": "https://www.inside-db.com/"
         },
         {
-          "title": "Highly classified US national security communications network goes down",
-          "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down"
+          "title": "Gemini 4 Neon",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/"
         }
       ],
       "metrics": {
         "kind": "hn",
-        "score": 1139,
-        "comments": 719,
-        "value": 1139,
+        "score": 1191,
+        "comments": 531,
+        "value": 1191,
         "unit": "포인트"
       },
-      "engagement": 68,
+      "engagement": 67,
       "tone": {
         "score": 0,
         "label": "중립"
       },
-      "id": "2026-11-18-tech",
+      "id": "2026-11-19-tech",
       "rank": 3
     }
   ]
