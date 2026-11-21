@@ -1,0 +1,116 @@
+{
+  "date": "2026-11-21",
+  "generatedAt": "2026-11-21T03:18:37.535Z",
+  "issues": [
+    {
+      "category": "국내",
+      "categoryEn": "korea",
+      "title": "민주, ‘조희대 탄핵’ 당론 채택했지만…‘기각 역풍’ 우려도 만만찮아",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wMW5WVnJSWEUzVVVpbEdyblZHdlpVV201Snp5cTlPNEFYNm02eHUwUDlZajdVTkJ1eDVjUWd4SHQ4UzAwOUlSOVJ2a1JrNGZ0QWZEU2x3WnhVdjFqNGlFem9wOENDYkZSRmlhUExKSGwzekFP?oc=5",
+      "source": "한겨레",
+      "related": [
+        {
+          "title": "임기 7개월 남은 조희대… 與 탄핵안 노림수는 ‘퇴임까지 직무 정지’",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUGZyTTJBeHljTlZ4NklObVdtaGpTNGc1Zi1IUDFjUklHajMzalc1RWJndnY0OUdTOGE1QlY0Wld2VlB6Nkl5VTE0MzZ6WFBlTFBWTzl3cHdsU1UwVnFBNm0zS2YxajdHUDBndXZDTDZsOWUxT1p2dEcxeGFNeGVXNVAtZUpaU3hXTWJxbGU5djU?oc=5"
+        },
+        {
+          "title": "정점식 \"曺 탄핵, 이 대통령 선거법 판결에 대한 보복성 집단 린치\"",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pRkJ2cTN4UUJZaWNpQThxMzktZXFiUU1WaWs2eHVUNWkyN1ZobmVWcDZqdWdnanFNdEZiT2dhYzh0ZUZNMVd6YTc4VnpMMW45REVfZWFkcjhVNlBLZjItMi1TTnBnN2hkTEVITkFYVjdmYmprb0czVdIBeEFVX3lxTFA0YWk3YlZZZUg0OTRzYy14d0ZRS2U5TG8tbDdWcnpPX1V4N1l5OE9BT05SUDl1QkZNaTBPblFnU1Z1b0RvOWZzTml0amU1d2NsVFNlb2tVV2xscXNUbzh4NFFWbW9EdExmdzB5cVBDSFF3OUVoWVNuSw?oc=5"
+        },
+        {
+          "title": "[속보] 대법 “한덕수, ‘국헌문란 목적’ 일부 인정 여지 커”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OMXdlbFgzR05KWTJQaEtlSjlVNzZZZTlsb1dvRDRMam9xNUp0VmEwRHZjdVNSZkpiUXQ4allZVXNmWHZ0M2RnSXdVeGYxdE1BWGtBLWxLVDMxTGc?oc=5"
+        },
+        {
+          "title": "[사설]‘12·3은 내란’ 대법관 전원 만장일치 판결에 눈감는 與野",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqSDVLOF9lWk1XdGl2U1NyX1M2NkhhTndnaWFNRTA3R1ZBb1BCaHRRZzJadlM5bUFEa0ZIS3pFdHFtT0tKRUg1bWQ5UnMzZkVGaUNYWUwwRjBJT1VpVm1WLUFvSkwwWkdNd0xJWnJmTjRBbFdVRUHSAWZBVV95cUxPdXJnUk5hVS1WWl9JenROUHZybnR4Y1lMeldjRjNvZWc2U1FETHVTcnJHVUZ1MkVzVGY4NWxvRnlNMXpCbjdpTzBQNGlya0NDYmNpR2VXVE5oS1U3S3hzM1dPMHc1emc?oc=5"
+        }
+      ],
+      "metrics": {
+        "kind": "coverage",
+        "value": 5,
+        "unit": "개 매체 보도"
+      },
+      "engagement": 90,
+      "tone": {
+        "score": -100,
+        "label": "부정"
+      },
+      "id": "2026-11-21-korea",
+      "rank": 1
+    },
+    {
+      "category": "글로벌",
+      "categoryEn": "global",
+      "title": "트럼프, 김정은 언급 없이 “미중러, 한반도 위험 맞서는 문제 논의”",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CZ1N6VWxWOTRwVk1qLWFIbXFEUC1kazBuQ1NIOVhYVTRtX1VEaG9wZE9zbGxFdkh6MVBOR2ZJWUx6X2p2NDZ1MnpXdE9SS0xIdXhyRUdFRzF2VGJ2UTRKSUtQYnREZkE1MVlFN2huMA?oc=5",
+      "source": "한겨레",
+      "related": [
+        {
+          "title": "트럼프 \"미·중·러 정상회담서 한반도 위험 대응 논의\"",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeFhiQ2pIMzZjSjJESTlMWlotOTJIVzNrNk9RcWNnd2RpT21wU1NfRjJPZFFFMlhwbXZZVXcteHZoR0pyelQ0T0ZKQU4td3NUUFJONjNPV2dDTGVUY1Z4NXJfbTZuY0FXX2RnNWRGcS1wY0RsTXVWYVJmY0JTVTJzSXRRemY?oc=5"
+        },
+        {
+          "title": "트럼프 \"시진핑·푸틴과 환상적 관계…한반도 문제 논의\" - 머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuTV9ONmM0bTdsMFFaV2ZoazRfaW40OU1FQXBZakN4bGdPeTB1QnloaXhpWVY5X1hXZXhqdGVkMUxjOHdQNVd1cmh0bUk0LUVueVU0cFF3MUdlTXhldmZ1WXcxVDM4NlRs0gFuQVVfeXFMUF9mLWJoTHJwNVlsU0tkdExKRDBha2VYTjdFVldaaGVoaGNQQjN3VXRBczNzV25yODZWQ0Jsa0VBRVlmUjE3c1RBa29Ra2YwMTc1bW5VX1F1TkJlaS0yTEdDaWFDR2ZsYVBha1c2VGc?oc=5"
+        },
+        {
+          "title": "[동아시론/차태서]미-중-러의 귀환, 다시 만난 세계",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rbUhQT3M3U3M5RUJrWklDUERxeFRJUEU2bFlwZWhaTDRLc2ppWDBmTjhzS0gzejladzQyZXJqaVRnbHRqTmc3eEQ1aHhFZmVoSnpYWW1CMUU2NjdOY095WV9hdGNzM0J4QzllaV93SHd6N2NTbWfSAWZBVV95cUxPZ3lvcE5WX09QZllaekl1SmZVd0d0aE9wbGNfeHl3VUF2S0p2ZjlXWnBvUXRlTEhZRU9qam5QZTlvS25Cd1laRFZiMFBUbEdtWWM2MHlwRlBfVkFjcGhZZHZ1dEdHZmc?oc=5"
+        },
+        {
+          "title": "트럼프 “푸틴·시진핑과 잘 지내는 내가 대통령인 건 행운···선거 패배는 공화당이 내 법안 통과 못 시켜서”",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wSW1aUG1Kby00dVJoSl8zd0pEcm1qa3J5UlRNSzJRQ3Rla19EbHEweHZ4Z0FUTkNmTVlhdzBnWngxQ1JDaWpuTjhJMHhrSFpjTzk3RUd3WkFjUdIBX0FVX3lxTE9aOXNPZEZTY1BRMkZIY2t5YnQ0Z0hpNGNEa203WDJveTZRMFdCYXZFTGVWYlBBdmlqTjQxZ3lDTDJWTl8wdkZKcHNSUlFJYWtESWZqTF9jY2c4U2h2eXlJ?oc=5"
+        }
+      ],
+      "metrics": {
+        "kind": "coverage",
+        "value": 5,
+        "unit": "개 매체 보도"
+      },
+      "engagement": 90,
+      "tone": {
+        "score": 0,
+        "label": "중립"
+      },
+      "id": "2026-11-21-global",
+      "rank": 2
+    },
+    {
+      "category": "테크",
+      "categoryEn": "tech",
+      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "discussionUrl": "https://news.ycombinator.com/item?id=50574968",
+      "source": "Hacker News",
+      "related": [
+        {
+          "title": "Hurried Announcement: Alessandro Masullo GRH",
+          "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/"
+        },
+        {
+          "title": "Inkling 2 Mini",
+          "url": "https://thinkingmachines.ai/news/inkling-2-mini/"
+        },
+        {
+          "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+          "url": "https://signal.org/blog/protecting-your-privacy/"
+        }
+      ],
+      "metrics": {
+        "kind": "hn",
+        "score": 2415,
+        "comments": 1628,
+        "value": 2415,
+        "unit": "포인트"
+      },
+      "engagement": 75,
+      "tone": {
+        "score": 0,
+        "label": "중립"
+      },
+      "id": "2026-11-21-tech",
+      "rank": 3
+    }
+  ]
+}
