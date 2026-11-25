@@ -1,66 +1,49 @@
 {
-  "date": "2026-11-24",
-  "generatedAt": "2026-11-24T06:10:55.371Z",
+  "date": "2026-11-25",
+  "generatedAt": "2026-11-25T04:57:13.493Z",
   "issues": [
     {
       "category": "국내",
       "categoryEn": "korea",
-      "title": "내신시험 AI 커닝 들키면... 최대 퇴학 조치한다",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3RIZzlUejJhX3diVHh5eXhOVGtiQUNnSTVMQU1neXM4OEJGSnVrdWt4SzBpTzhpV3d3U3hDcUhFbU5FYUkzY1pBYldLX0hLaExWUzdlSWJrNmpOMUlyZWFNYkdkWk5YcHE3aWU1c1lUbFFNVXZlazlHVi1DM1k0N0tSN2QweG8?oc=5",
-      "source": "조선일보",
-      "related": [
-        {
-          "title": "부산교사노조, 교육부 내신 부정행위 대책 반발…\"교사에 책임 전가\"",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xOER1V2haT1dLYWI1U2tYbzIzOVVwLUVIcDljMHZ0UlVJVWFkZGl2SV96d2VaaWxwSU8yeHdHR0RuSElzWGVvNEE3VFBtdjIxNHBDb1JHOEdkLUw0SFJSVk82X3bSAXhBVV95cUxQajliZ1pjZmVJS3gzU3BBTUJLemFROTBtOFBZT3JORUYzMVlUUkNDREluUi1VYWFSVXRZRnJOcmZvVzVRaUpwQ1BKYm1zNHA1QXpxbkV4ZXY0Y3B1VUYtN1I4eml0d2tRODY3ekxKOVU3aFFMLWVWYUU?oc=5"
-        },
-        {
-          "title": "다음은 \"내신\"…부정행위 시 ‘당일 전과목 0점’ 칼 뽑았다 [현장영상]",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6TENvbzNmdFRVYmtuZENTNkdCNTdkTElQUHctSzdwRklpdHM0RjVJQXhTcTg1dTZZb2xMd29NbEFlUks4WVdMcGZ3SG8xN2lWUGJtQw?oc=5"
-        },
-        {
-          "title": "내신 시험도 ‘수능급’으로 감시···AI 부정행위 적발 시 모든 과목 0점·최대 퇴학",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Vc2Q3azZqdWJDN0NneDAxQTFjSkp6QUp4d1FKRE1HNHo4V1ZmbXJqLXZ1ZTRTMWNCcTlUX3hUVVZKeWo5VGJ2Q0hoTE84QXdYQldlOFFSZThaUdIBX0FVX3lxTE9LRXlBX1hnSURwZ3NrZm5tcTVrbmdPRkoxYkZfaEIxTmRKWjZ2aGJxUTdpUE9vTExGMGJIT2pnc2R0QXBxR2hfZk45MTdMYTAzbjBHMWYyNmszVHMyZ2tZ?oc=5"
-        },
-        {
-          "title": "대학별 고사·중고교 내신 감독 강화...국가자격시험 부직포 가리개",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GY2tMRGxXTEFTdk5YYldqa1ZnM1RkWFlvdWdoaGRoVW9OOHdHUDM3VmptVmd6YWpkTVY1ZXRWejZsLWhMU29VVjZFRHhzTEhYeU1CU2tNQWFBdmlUYWc?oc=5"
-        }
-      ],
+      "title": "노소영 측, 최태원 ‘화해권고’ 요청 거부…“조기 해결 진정성 있다면 상고 취하하라”",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yeHVlblFwU0tqWURUdmFIcWl2c0dtUU9DY0tGNXMzcUl1RFh2TkQySzJvMDZYRlc4cWNnNUJfZnRLdGhOYjNkMFB5dDZvQkhmYms1eU93dmZEUdIBX0FVX3lxTFBYemFWdlpuazFvZkwzRTkxV2JjYnlZc04tVk92YnpwVkRTVE92ZkxOMHJwWFV6dnRldW00MzlJdEwxNy1KYVltbG95NkJOcS1QYlZDOTBJX0pjWTlocjJn?oc=5",
+      "source": "경향신문",
+      "related": [],
       "metrics": {
         "kind": "coverage",
-        "value": 5,
+        "value": 1,
         "unit": "개 매체 보도"
       },
-      "engagement": 90,
+      "engagement": 46,
       "tone": {
         "score": 0,
         "label": "중립"
       },
-      "id": "2026-11-24-korea",
+      "id": "2026-11-25-korea",
       "rank": 1
     },
     {
       "category": "글로벌",
       "categoryEn": "global",
-      "title": "전쟁 장기화에 무너지는 러시아 군인…유출된 사망증명서 '충격'",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4UXFsb3J4OXYwRnhyeGd6dDB2TlZkamJhck5MbWpRNDZNbVRCTHZGRGRGOEVWblI2ZW8zcUUtZFd0ZVIyMWgwRGRYQl9UaXhTVV85b2VsZkQ3UQ?oc=5",
-      "source": "한국경제",
+      "title": "푸틴 \"러시아 석유시장 어려워\"…우크라 공격에 보복 예고",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByeHhqLVRRdGVTZEtBdmwyRGlBS055cUhyS2RMaVJwMnJod1lMUWZtMzN4OGY4RzJ0UHJBX2l5ck5kckk2SG1vVTlxenkxSzhyNl9LNHRBLS1IMWxXYjQ2czFBVkZjSlk?oc=5",
+      "source": "연합뉴스TV",
       "related": [
         {
-          "title": "\"우크라전서 러 군인 1천명 이상 스스로 생 마감\"",
-          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sVFJZUGhybGF0b3dad2h6SzFmQXVqSk45THlxQUxIXzUwS09vdFlqc0tlUUplb1ppQ3BXN3FDVUhuODIzd1dIUVEzaThJMFMtc1I0MG5WSDRWVjN6a1JjMlBrNmx1eE0?oc=5"
+          "title": "우크라, 러 정유시설 타격…푸틴 “석유시장 어려워” 보복 예고",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TejVFTFh3Y2hORG5Kdld5VXItUkNpRnpoX1FlQ3lWaTZaNXBxT2VJS3Q0dHVpeWhqQ19vZDJHN241NEhwT21FTHdobGVvTGdMUXRNOWFrR2htMUR1emxjSWVZcE9Mbnc?oc=5"
         },
         {
-          "title": "러 65세 미만 남성 사인 1위는 '전쟁'…'순환기 질환'도 제쳤다",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94c2luM0t2cWN6ZWlRV0haWXRkY09BbWliN0oxVThackt6TUFndTZxM05KcjRId2szbkRDbE5HME9zYU5XUHg0YmZaMmVybGFDSzZIRVgzdl96Q2tsWHVZTDE3SlLSAXhBVV95cUxOT1FiWkJaYWRQd3BuMDdpUUZmdElKVGJGUDlLcEJscy1PWHBsNk9kZjV1YU5VVllLQy0zdGtoX0Zya3R3VnA1WFh1WU54X1RocG1uVkZaS3ZoZmpCdGdEeFo3YXJ0UE5aVGo2SkJoOGtPMG1aYmFjckk?oc=5"
+          "title": "크림반도 죄는 우크라…전력공급 차질까지",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1leDBSY3ZzRFhFT05DeHFMYjJ2LTNzTEd2Nmx1aUhIcHVlWF9CNWExUllnWjZrcHVQTHRyb1Vvc1BOZ3VaOE5SZkFUY19sSkdXSmQ4eG56NGd4WjjSAWBBVV95cUxNNmJYSFhVdFBPeFgwQ25mMHBQNHJqZ2QycnpJSVUwYVRSdGkteF9tem9RTGpsNUk2NUQ3NnZXd0paN3Z0c3JQc3h4UzFBbWRHN2xONUJ3MXREczZyaTRNTDM?oc=5"
         },
         {
-          "title": "\"이제 더 이상은…\" 스스로 목숨 끊는 러시아 군인들",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ST0tNQlRwNW9zQ0xCQUJFOVN5QkpUOHdmclRGb2VzOF8zSEI2TVQwM3piTTB0dEdVS3lCaHBndXptbm1tZFRnRTBIRE9MSDFUZ1Z1R2JfS09SdUlqdnJzZ2dvajZFck10Tnc?oc=5"
+          "title": "푸틴 \"국내 석유시장 안정\"주장, 우크라의 정유소 폭격엔 보복 경고",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FWFF3QTFfMWpvN21BRGM2ZzNLdFFqaHk2cUdhTXAwcldpYjAwSWN1eVMzSUlONmNUV1Z2VEQ1amo2UVZ4cVBQakVwWUJRbmhNOGdibV8wQUd4VGIxaU1CWWprX3fSAXhBVV95cUxNbTVicUR4U1BKVjBJR0FqVWl0ajFhMk9VSXp5RkJDUWQ4X1dkY0wwWmk5Wl9jM1ozNTlMSW96bFBIbzNFQkRESFU5RDNOd0JiQUtmUThia2hBYlJOQ3lQSHZnT2F0MHVKRWh0Q2cwclhKM3k3OEtNd3U?oc=5"
         },
         {
-          "title": "\"우크라전 러시아군 사망자 70만명…해킹 러 국가통계로 추산\"",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3elNTMlhtVDZrVGRtRWRfVGZqbTU0UHFnMnlaRGpaVHRsZWppQWh1Vkl6T2tfaWhzcmNxMHRXSFJ6VVVMTkVvSXVJRWpCSFpZd1JR?oc=5"
+          "title": "러, 우크라이나 수도권 공격해 최소 14명 사망",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9uUjgzb1hybkR4c2l3cmpfZW9LS3RNNmVjbXNiQXY3R2JLMHZnMi10WjRkZzZEMDNsM1FNTVAxbFFmY1pkR2p6Ml8zRzhWWmlmTGhfV1A3RC1LY3dtVFRMb3hVd3dPTVRJdEk0RXczU0F2S0JB0gF0QVVfeXFMUEt3TXZBM2hWRk1ha2NrV2FpMGk2TkFBVzZDS3JTeDN4bzcxczAtUXZQU0lOblFBWVVmX3ktTE96MkRJcHY2VmR1c0FSMWR1dkJLY3BoYmp0U1VKMjlfX2NrcG43UnEtUTZ1Z2lrQjhuaGZqcE4?oc=5"
         }
       ],
       "metrics": {
@@ -73,43 +56,43 @@
         "score": -100,
         "label": "부정"
       },
-      "id": "2026-11-24-global",
+      "id": "2026-11-25-global",
       "rank": 2
     },
     {
       "category": "테크",
       "categoryEn": "tech",
-      "title": "Nvidia Reinstates Jensen Huang as CEO",
-      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
-      "discussionUrl": "https://news.ycombinator.com/item?id=50611576",
+      "title": "The Spray Bottle",
+      "url": "https://mechanical-pencil.com/products/spray-bottle",
+      "discussionUrl": "https://news.ycombinator.com/item?id=50598555",
       "source": "Hacker News",
       "related": [
         {
-          "title": "Ladybird is now in alpha",
-          "url": "https://ladybird.org/posts/alpha/"
+          "title": "Ternary Bonsai 2.5 27B",
+          "url": "https://prismml.com/news/bonsai-2-5-27b"
         },
         {
-          "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
-          "url": "https://twitter.com/ylecun/status/2124550037912920090"
+          "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+          "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf"
         },
         {
-          "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-          "url": "https://z.ai/blog/glm-5.4"
+          "title": "Active intrusion campaign against Check Point security management servers",
+          "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign"
         }
       ],
       "metrics": {
         "kind": "hn",
-        "score": 2393,
-        "comments": 3353,
-        "value": 2393,
+        "score": 410,
+        "comments": 106,
+        "value": 410,
         "unit": "포인트"
       },
-      "engagement": 79,
+      "engagement": 56,
       "tone": {
-        "score": -100,
-        "label": "부정"
+        "score": 0,
+        "label": "중립"
       },
-      "id": "2026-11-24-tech",
+      "id": "2026-11-25-tech",
       "rank": 3
     }
   ]
