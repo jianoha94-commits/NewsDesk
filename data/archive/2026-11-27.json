@@ -1,0 +1,82 @@
+{
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T04:21:06.445Z",
+  "issues": [
+    {
+      "category": "국내",
+      "categoryEn": "korea",
+      "title": "경찰, ‘한동훈 자료 유출 의혹’ 법무부·공소청 등 압수수색",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kVTFoaGlkOFIwRlg5MjhuR2FoREhfU2x1M1EzbU9Ec2xwYmV0R0ZHQU5JRzlDYkphUVJZU1BnaUpqZkc3d05YZ2l1anMyaGpuZXNQNmh1LWtqRUExTElPOFhERVF1VE43Y001VlhMSFU3QQ?oc=5",
+      "source": "한겨레",
+      "related": [],
+      "metrics": {
+        "kind": "coverage",
+        "value": 1,
+        "unit": "개 매체 보도"
+      },
+      "engagement": 46,
+      "tone": {
+        "score": 0,
+        "label": "중립"
+      },
+      "id": "2026-11-27-korea",
+      "rank": 1
+    },
+    {
+      "category": "글로벌",
+      "categoryEn": "global",
+      "title": "우크라 “뿔난 김정은, 러시아 군사지원 중단…한러관계 개선에 반발”",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WbWVlLW5NNWhIeElQZjBuV1RlY1dJcVI5NnRWWFFRV09oc2d4ZWl4bzB1NkhqY0gzRnhscXp6Zm5xaTNpTVUyeVZGX2lqZHZVX2s5czgyeXY3QVA5amFONUxTTU5Ha21Oc2JkT2lkNW0yR1F3dlJR?oc=5",
+      "source": "서울신문",
+      "related": [],
+      "metrics": {
+        "kind": "coverage",
+        "value": 1,
+        "unit": "개 매체 보도"
+      },
+      "engagement": 46,
+      "tone": {
+        "score": 100,
+        "label": "긍정"
+      },
+      "id": "2026-11-27-global",
+      "rank": 2
+    },
+    {
+      "category": "테크",
+      "categoryEn": "tech",
+      "title": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "discussionUrl": "https://news.ycombinator.com/item?id=50644817",
+      "source": "Hacker News",
+      "related": [
+        {
+          "title": "Tell HN: Happy Thanksgiving",
+          "url": "https://news.ycombinator.com/item?id=50655664"
+        },
+        {
+          "title": "Intel One Mono font (2023)",
+          "url": "https://github.com/intel/intel-one-mono"
+        },
+        {
+          "title": "AI made self-hosting fun again",
+          "url": "https://janlukas.blog/posts/ai-self-hosting"
+        }
+      ],
+      "metrics": {
+        "kind": "hn",
+        "score": 1639,
+        "comments": 707,
+        "value": 1639,
+        "unit": "포인트"
+      },
+      "engagement": 70,
+      "tone": {
+        "score": 0,
+        "label": "중립"
+      },
+      "id": "2026-11-27-tech",
+      "rank": 3
+    }
+  ]
+}
