@@ -1,81 +1,115 @@
 {
-  "date": "2026-11-27",
-  "generatedAt": "2026-11-27T04:21:06.445Z",
+  "date": "2026-11-28",
+  "generatedAt": "2026-11-28T04:01:38.482Z",
   "issues": [
     {
       "category": "국내",
       "categoryEn": "korea",
-      "title": "경찰, ‘한동훈 자료 유출 의혹’ 법무부·공소청 등 압수수색",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kVTFoaGlkOFIwRlg5MjhuR2FoREhfU2x1M1EzbU9Ec2xwYmV0R0ZHQU5JRzlDYkphUVJZU1BnaUpqZkc3d05YZ2l1anMyaGpuZXNQNmh1LWtqRUExTElPOFhERVF1VE43Y001VlhMSFU3QQ?oc=5",
+      "title": "최민희 ‘당원 정지 2년’ 중징계에 “수용 하기 어렵다”…민주 내홍 격화",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBITzBmeXE3bjMxcWJsZnVrNmtpSHZNMmx0aUljdTl0OWJDSmVIOHpqZnNKLXNheWo2a1dHR1Z0UHJZWUFJZy1PV0hKSEZfQTBhRnhDU29JaUZPRnlIdVRUaTUxbjdGLWpyWmV4NE45aEFmczgx?oc=5",
       "source": "한겨레",
-      "related": [],
+      "related": [
+        {
+          "title": "최민희 당원권 2년 정지… 김민석 ‘신천지’ 경징계 땐 전면전 불가피",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUHkzYUJkLXd0dzlXbERLUW5JNzVsWWwtMmxWRkkxaHUzRXJiWmoxVHQ2TVl2LVR1bTRMN0d6YVlCOHNWMUZuQk1tZUpTbjI2dFIzNzE2cHl3NjRsT05NRDlLZGVPQlVOTUxEb25PbjA0N2UzS2xZOXlIc0k3QzVxNkhDYkZrQQ?oc=5"
+        },
+        {
+          "title": "최민희 중징계에 민주 내홍 격화...국민의힘, 대전서 장외집회",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MR0NlQVNEQ09fSHlIVTk4V2RoTmxwelZxRWNIemRlcUp1djNPZTBRLUZqQkR1MjdlVEllR2x4NXRaS09ZcVl0UF9IdHlqTjdNUFg2RzcxS0l5cjdXM2c?oc=5"
+        },
+        {
+          "title": "확산하는 與 내부 계파 갈등…국회 앞 '김민석 사퇴' 촉구 집회도",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YWkUySTMzYzBhdkoyZFczcXFQTU1qX09BRThiMURZSndQOElKSGJZQm5hMXZmTlNMX1dfQWF2YmJhNU9CMTkxS1JxeC1EOGE5UWZid0JYZld1RkJENVNFckgzN3PSAXhBVV95cUxNVmR2aUlVVk1VSndTYTRGQ0h0YjhrMmNYMXhReE1BbXRGNFh0MmtlNGl3YVF4ZlluSWE3TEp4eWliQm44RDBvX2tlSXUwRnlpelZEQ0E3V1AteTNxbFB0b01KTU91SlBaOGg2RnQtOHlKMUo0SGJkeXo?oc=5"
+        },
+        {
+          "title": "[속보] 최민희, ‘당원 자격정지 2년’ 중징계에 “수용 어려워…재심 신청”",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50N3dmYklULTdFekdhb3Z5a0Z4SFV3aTlwLS00cXpmek8xOG1kVDltMEUwWkdCOENqQV9ybk91YkI4RURUZ0t0RTZvUVh1NVFOVHYyR1p2UWhLZ9IBX0FVX3lxTE9xeG55WDk0c3R0RnJsMWhZUHNTcXptTVRtOTRZVVFkVzl5NlBnT2txWnk0UFlxU3Zwd2dnNkJRSmczQWZTOXZvaktWXzZ3UmJ1aDdGSlFWdk9ncnRBVkFj?oc=5"
+        }
+      ],
       "metrics": {
         "kind": "coverage",
-        "value": 1,
+        "value": 5,
         "unit": "개 매체 보도"
       },
-      "engagement": 46,
+      "engagement": 90,
       "tone": {
-        "score": 0,
-        "label": "중립"
+        "score": -100,
+        "label": "부정"
       },
-      "id": "2026-11-27-korea",
+      "id": "2026-11-28-korea",
       "rank": 1
     },
     {
       "category": "글로벌",
       "categoryEn": "global",
-      "title": "우크라 “뿔난 김정은, 러시아 군사지원 중단…한러관계 개선에 반발”",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WbWVlLW5NNWhIeElQZjBuV1RlY1dJcVI5NnRWWFFRV09oc2d4ZWl4bzB1NkhqY0gzRnhscXp6Zm5xaTNpTVUyeVZGX2lqZHZVX2s5czgyeXY3QVA5amFONUxTTU5Ha21Oc2JkT2lkNW0yR1F3dlJR?oc=5",
-      "source": "서울신문",
-      "related": [],
+      "title": "‘김정은 추가 방중설’에 국정원 “여러 동향 주시 중”",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHM3h1NUdMSTRkbmJvTjZ0c082VzExcmprQ3ZoRFJudkhaSFR2aEZVMGRoWThYT194c0Q3bTl0cnNORWpGWEJuM3dvcm9SZEtaSEtvVkJxb1hEQjhsM3BRbXJrQUlBS1NE?oc=5",
+      "source": "한겨레",
+      "related": [
+        {
+          "title": "시진핑 방미 앞두고 김정은 중국행 임박",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMkhpR0NIcGZNS0tSdHZMb3ZlZ3EzWjVZR1BYdUJ0U0N4S3pqaldXRTBUV1hreW1kV1Rqa0VTNmxyd1I0MzlfaFJXZGxVRndWTTZCUGRjUU1NQWhkQldhVFhjczF1LVlfODNTTndmbG9fNFJfSUxBXzVheWZHRUhUT1JEVzhlM2hRUlY4azdJRFJoZw?oc=5"
+        },
+        {
+          "title": "국정원, KBS ‘김정은 추가 방중설’ 보도에 “동향 주시 중”",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1RQkJfb0Z2Zjc2bGg3VDUzTzVpS2hBVFBHdDBhYUhUZkJDekJ2ZWdLQ28xT2RpdjRydUphODF6RWNqSHBWSWZxZy1pZC1Xd3pGM3ZRSV9BQUtDUDA?oc=5"
+        },
+        {
+          "title": "김정은 또 중국 방문할까…국정원 “여러 동향 주시 중”",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tbTZmdUJsUUY5Mi1FXzVLTXJhOXZnLTh6ZXJJd3VOMTZJd1U5dGFIWWFxbWVURkk3WmtVbEJ0d3BzWVNBcWIyQ0g4dGpMdVR0OXJUY3UwVEw3d9IBX0FVX3lxTE5JeERXZWlRMzBPd3R6WEx0UmhtTGtGR0dsUWJYZkpFdklvbEFkS1BjM096VEJtczhYSEU0X0pTMVZVZGJWME1iN3hJbkxrVV9YOUZmdXdVM1VKT1hkckJJ?oc=5"
+        },
+        {
+          "title": "국정원, '김정은 추가 방중설'에 \"여러 동향 주시 중\"",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WTXRuX2NWLWg5OFZ1RFpfYlpob3UwODhiN0tab1hXeEpLT0t3SVBENzgtQjlKTXJtY1A0WEJUdDA1ejcxVGRJUVdtRXRkYjdjUER2eThGbzdRamlNeU5oc3ZuZ1ZYSVVRQnlERkVGUzRsSHJGbU1jbtIBeEFVX3lxTE00TnlKak14LV8wRUlCWDNOdWM1dWZOYXZWcG9HRnhWMFluWDRzN0VNbE14cGE2T0pLeGEzV0U5UDVpZkRpd3RJbC1URGZWUjh5WVpGdnhvbk5QT2YxeTJQcW5HUk5aUDlPUEdaX0JPX3hvbVR0SG12MQ?oc=5"
+        }
+      ],
       "metrics": {
         "kind": "coverage",
-        "value": 1,
+        "value": 5,
         "unit": "개 매체 보도"
       },
-      "engagement": 46,
+      "engagement": 90,
       "tone": {
-        "score": 100,
-        "label": "긍정"
+        "score": 0,
+        "label": "중립"
       },
-      "id": "2026-11-27-global",
+      "id": "2026-11-28-global",
       "rank": 2
     },
     {
       "category": "테크",
       "categoryEn": "tech",
-      "title": "1Password Security Incident",
-      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
-      "discussionUrl": "https://news.ycombinator.com/item?id=50644817",
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "discussionUrl": "https://news.ycombinator.com/item?id=50668145",
       "source": "Hacker News",
       "related": [
         {
-          "title": "Tell HN: Happy Thanksgiving",
-          "url": "https://news.ycombinator.com/item?id=50655664"
+          "title": "Michael Nielsen took down his book on neural nets",
+          "url": "https://neuralnetworksanddeeplearning.com/"
         },
         {
-          "title": "Intel One Mono font (2023)",
-          "url": "https://github.com/intel/intel-one-mono"
+          "title": "GPT 6.2 Astra Solves a Historical Mystery",
+          "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical"
         },
         {
-          "title": "AI made self-hosting fun again",
-          "url": "https://janlukas.blog/posts/ai-self-hosting"
+          "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+          "url": "https://bouncemarket.minhanhday.com/"
         }
       ],
       "metrics": {
         "kind": "hn",
-        "score": 1639,
-        "comments": 707,
-        "value": 1639,
+        "score": 464,
+        "comments": 237,
+        "value": 464,
         "unit": "포인트"
       },
-      "engagement": 70,
+      "engagement": 59,
       "tone": {
         "score": 0,
         "label": "중립"
       },
-      "id": "2026-11-27-tech",
+      "id": "2026-11-28-tech",
       "rank": 3
     }
   ]
